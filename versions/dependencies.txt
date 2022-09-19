@@ -354,32 +354,32 @@ global - Default dependency management for all configurations
     org.aspectj:aspectjweaver 1.9.6
     org.assertj:assertj-core 3.11.1
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.5.6
-    org.codehaus.groovy:groovy-ant 2.5.6
+    org.codehaus.groovy:groovy 2.5.14
+    org.codehaus.groovy:groovy-ant 2.5.14
     org.codehaus.groovy:groovy-bsf 2.5.13
     org.codehaus.groovy:groovy-cli-commons 2.5.13
     org.codehaus.groovy:groovy-cli-picocli 2.5.13
-    org.codehaus.groovy:groovy-console 2.5.6
+    org.codehaus.groovy:groovy-console 2.5.14
     org.codehaus.groovy:groovy-datetime 2.5.13
-    org.codehaus.groovy:groovy-dateutil 2.5.6
+    org.codehaus.groovy:groovy-dateutil 2.5.14
     org.codehaus.groovy:groovy-docgenerator 2.5.13
     org.codehaus.groovy:groovy-groovydoc 2.5.13
     org.codehaus.groovy:groovy-groovysh 2.5.13
     org.codehaus.groovy:groovy-jaxb 2.5.13
     org.codehaus.groovy:groovy-jmx 2.5.13
-    org.codehaus.groovy:groovy-json 2.5.6
+    org.codehaus.groovy:groovy-json 2.5.14
     org.codehaus.groovy:groovy-json-direct 2.5.13
     org.codehaus.groovy:groovy-jsr223 2.5.13
-    org.codehaus.groovy:groovy-macro 2.5.6
-    org.codehaus.groovy:groovy-nio 2.5.6
+    org.codehaus.groovy:groovy-macro 2.5.14
+    org.codehaus.groovy:groovy-nio 2.5.14
     org.codehaus.groovy:groovy-servlet 2.5.13
-    org.codehaus.groovy:groovy-sql 2.5.6
-    org.codehaus.groovy:groovy-swing 2.5.6
-    org.codehaus.groovy:groovy-templates 2.5.6
+    org.codehaus.groovy:groovy-sql 2.5.14
+    org.codehaus.groovy:groovy-swing 2.5.14
+    org.codehaus.groovy:groovy-templates 2.5.14
     org.codehaus.groovy:groovy-test 2.5.13
     org.codehaus.groovy:groovy-test-junit5 2.5.13
     org.codehaus.groovy:groovy-testng 2.5.13
-    org.codehaus.groovy:groovy-xml 2.5.6
+    org.codehaus.groovy:groovy-xml 2.5.14
     org.codehaus.janino:commons-compiler 3.0.16
     org.codehaus.janino:commons-compiler-jdk 3.0.16
     org.codehaus.janino:janino 3.0.16
@@ -540,11 +540,11 @@ global - Default dependency management for all configurations
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.5
-    org.grails:grails-codecs 4.0.5
-    org.grails:grails-console 4.0.5
-    org.grails:grails-core 4.0.5
-    org.grails:grails-databinding 4.0.5
+    org.grails:grails-bootstrap 4.0.6
+    org.grails:grails-codecs 4.0.6
+    org.grails:grails-console 4.0.6
+    org.grails:grails-core 4.0.6
+    org.grails:grails-databinding 4.0.6
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -555,46 +555,46 @@ global - Default dependency management for all configurations
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.5
-    org.grails:grails-docs 4.0.5
-    org.grails:grails-encoder 4.0.5
+    org.grails:grails-dependencies 4.0.6
+    org.grails:grails-docs 4.0.6
+    org.grails:grails-encoder 4.0.6
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.5
-    org.grails:grails-gradle-plugin 4.0.5
-    org.grails:grails-logging 4.0.5
-    org.grails:grails-plugin-codecs 4.0.5
-    org.grails:grails-plugin-controllers 4.0.5
-    org.grails:grails-plugin-databinding 4.0.5
-    org.grails:grails-plugin-datasource 4.0.5
-    org.grails:grails-plugin-domain-class 4.0.5
-    org.grails:grails-plugin-i18n 4.0.5
-    org.grails:grails-plugin-interceptors 4.0.5
-    org.grails:grails-plugin-mimetypes 4.0.5
-    org.grails:grails-plugin-rest 4.0.5
-    org.grails:grails-plugin-services 4.0.5
-    org.grails:grails-plugin-url-mappings 4.0.5
-    org.grails:grails-plugin-validation 4.0.5
-    org.grails:grails-shell 4.0.5
-    org.grails:grails-spring 4.0.5
-    org.grails:grails-test 4.0.5
-    org.grails:grails-test-suite-base 4.0.5
-    org.grails:grails-test-suite-persistence 4.0.5
-    org.grails:grails-test-suite-uber 4.0.5
-    org.grails:grails-test-suite-web 4.0.5
+    org.grails:grails-gradle-model 4.0.6
+    org.grails:grails-gradle-plugin 4.0.6
+    org.grails:grails-logging 4.0.6
+    org.grails:grails-plugin-codecs 4.0.6
+    org.grails:grails-plugin-controllers 4.0.6
+    org.grails:grails-plugin-databinding 4.0.6
+    org.grails:grails-plugin-datasource 4.0.6
+    org.grails:grails-plugin-domain-class 4.0.6
+    org.grails:grails-plugin-i18n 4.0.6
+    org.grails:grails-plugin-interceptors 4.0.6
+    org.grails:grails-plugin-mimetypes 4.0.6
+    org.grails:grails-plugin-rest 4.0.6
+    org.grails:grails-plugin-services 4.0.6
+    org.grails:grails-plugin-url-mappings 4.0.6
+    org.grails:grails-plugin-validation 4.0.6
+    org.grails:grails-shell 4.0.6
+    org.grails:grails-spring 4.0.6
+    org.grails:grails-test 4.0.6
+    org.grails:grails-test-suite-base 4.0.6
+    org.grails:grails-test-suite-persistence 4.0.6
+    org.grails:grails-test-suite-uber 4.0.6
+    org.grails:grails-test-suite-web 4.0.6
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.5
-    org.grails:grails-web-boot 4.0.5
-    org.grails:grails-web-common 4.0.5
-    org.grails:grails-web-databinding 4.0.5
-    org.grails:grails-web-fileupload 4.0.5
-    org.grails:grails-web-mvc 4.0.5
+    org.grails:grails-web 4.0.6
+    org.grails:grails-web-boot 4.0.6
+    org.grails:grails-web-common 4.0.6
+    org.grails:grails-web-databinding 4.0.6
+    org.grails:grails-web-fileupload 4.0.6
+    org.grails:grails-web-mvc 4.0.6
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.5
+    org.grails:grails-web-url-mappings 4.0.6
     org.grails:scaffolding-core 2.1.0
-    org.grails:views-json-testing-support 2.0.2
+    org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.3
     org.grails.plugins:events 4.0.0
@@ -607,9 +607,9 @@ global - Default dependency management for all configurations
     org.grails.plugins:rxjava 1.1.1
     org.grails.plugins:rxjava2 2.0.0
     org.grails.plugins:scaffolding 4.0.0.RC1
-    org.grails.plugins:views-json 2.0.2
-    org.grails.plugins:views-json-templates 2.0.2
-    org.grails.plugins:views-markup 2.0.2
+    org.grails.plugins:views-json 2.0.4
+    org.grails.plugins:views-json-templates 2.0.4
+    org.grails.plugins:views-markup 2.0.4
     org.grails.profiles:angular 8.0.1
     org.grails.profiles:base 4.0.3
     org.grails.profiles:plugin 4.0.0
@@ -1328,32 +1328,32 @@ apiElements - Dependency management for the apiElements configuration
     org.aspectj:aspectjweaver 1.9.6
     org.assertj:assertj-core 3.11.1
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.5.6
-    org.codehaus.groovy:groovy-ant 2.5.6
+    org.codehaus.groovy:groovy 2.5.14
+    org.codehaus.groovy:groovy-ant 2.5.14
     org.codehaus.groovy:groovy-bsf 2.5.13
     org.codehaus.groovy:groovy-cli-commons 2.5.13
     org.codehaus.groovy:groovy-cli-picocli 2.5.13
-    org.codehaus.groovy:groovy-console 2.5.6
+    org.codehaus.groovy:groovy-console 2.5.14
     org.codehaus.groovy:groovy-datetime 2.5.13
-    org.codehaus.groovy:groovy-dateutil 2.5.6
+    org.codehaus.groovy:groovy-dateutil 2.5.14
     org.codehaus.groovy:groovy-docgenerator 2.5.13
     org.codehaus.groovy:groovy-groovydoc 2.5.13
     org.codehaus.groovy:groovy-groovysh 2.5.13
     org.codehaus.groovy:groovy-jaxb 2.5.13
     org.codehaus.groovy:groovy-jmx 2.5.13
-    org.codehaus.groovy:groovy-json 2.5.6
+    org.codehaus.groovy:groovy-json 2.5.14
     org.codehaus.groovy:groovy-json-direct 2.5.13
     org.codehaus.groovy:groovy-jsr223 2.5.13
-    org.codehaus.groovy:groovy-macro 2.5.6
-    org.codehaus.groovy:groovy-nio 2.5.6
+    org.codehaus.groovy:groovy-macro 2.5.14
+    org.codehaus.groovy:groovy-nio 2.5.14
     org.codehaus.groovy:groovy-servlet 2.5.13
-    org.codehaus.groovy:groovy-sql 2.5.6
-    org.codehaus.groovy:groovy-swing 2.5.6
-    org.codehaus.groovy:groovy-templates 2.5.6
+    org.codehaus.groovy:groovy-sql 2.5.14
+    org.codehaus.groovy:groovy-swing 2.5.14
+    org.codehaus.groovy:groovy-templates 2.5.14
     org.codehaus.groovy:groovy-test 2.5.13
     org.codehaus.groovy:groovy-test-junit5 2.5.13
     org.codehaus.groovy:groovy-testng 2.5.13
-    org.codehaus.groovy:groovy-xml 2.5.6
+    org.codehaus.groovy:groovy-xml 2.5.14
     org.codehaus.janino:commons-compiler 3.0.16
     org.codehaus.janino:commons-compiler-jdk 3.0.16
     org.codehaus.janino:janino 3.0.16
@@ -1515,11 +1515,11 @@ apiElements - Dependency management for the apiElements configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.5
-    org.grails:grails-codecs 4.0.5
-    org.grails:grails-console 4.0.5
-    org.grails:grails-core 4.0.5
-    org.grails:grails-databinding 4.0.5
+    org.grails:grails-bootstrap 4.0.6
+    org.grails:grails-codecs 4.0.6
+    org.grails:grails-console 4.0.6
+    org.grails:grails-core 4.0.6
+    org.grails:grails-databinding 4.0.6
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -1530,46 +1530,46 @@ apiElements - Dependency management for the apiElements configuration
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.5
-    org.grails:grails-docs 4.0.5
-    org.grails:grails-encoder 4.0.5
+    org.grails:grails-dependencies 4.0.6
+    org.grails:grails-docs 4.0.6
+    org.grails:grails-encoder 4.0.6
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.5
-    org.grails:grails-gradle-plugin 4.0.5
-    org.grails:grails-logging 4.0.5
-    org.grails:grails-plugin-codecs 4.0.5
-    org.grails:grails-plugin-controllers 4.0.5
-    org.grails:grails-plugin-databinding 4.0.5
-    org.grails:grails-plugin-datasource 4.0.5
-    org.grails:grails-plugin-domain-class 4.0.5
-    org.grails:grails-plugin-i18n 4.0.5
-    org.grails:grails-plugin-interceptors 4.0.5
-    org.grails:grails-plugin-mimetypes 4.0.5
-    org.grails:grails-plugin-rest 4.0.5
-    org.grails:grails-plugin-services 4.0.5
-    org.grails:grails-plugin-url-mappings 4.0.5
-    org.grails:grails-plugin-validation 4.0.5
-    org.grails:grails-shell 4.0.5
-    org.grails:grails-spring 4.0.5
-    org.grails:grails-test 4.0.5
-    org.grails:grails-test-suite-base 4.0.5
-    org.grails:grails-test-suite-persistence 4.0.5
-    org.grails:grails-test-suite-uber 4.0.5
-    org.grails:grails-test-suite-web 4.0.5
+    org.grails:grails-gradle-model 4.0.6
+    org.grails:grails-gradle-plugin 4.0.6
+    org.grails:grails-logging 4.0.6
+    org.grails:grails-plugin-codecs 4.0.6
+    org.grails:grails-plugin-controllers 4.0.6
+    org.grails:grails-plugin-databinding 4.0.6
+    org.grails:grails-plugin-datasource 4.0.6
+    org.grails:grails-plugin-domain-class 4.0.6
+    org.grails:grails-plugin-i18n 4.0.6
+    org.grails:grails-plugin-interceptors 4.0.6
+    org.grails:grails-plugin-mimetypes 4.0.6
+    org.grails:grails-plugin-rest 4.0.6
+    org.grails:grails-plugin-services 4.0.6
+    org.grails:grails-plugin-url-mappings 4.0.6
+    org.grails:grails-plugin-validation 4.0.6
+    org.grails:grails-shell 4.0.6
+    org.grails:grails-spring 4.0.6
+    org.grails:grails-test 4.0.6
+    org.grails:grails-test-suite-base 4.0.6
+    org.grails:grails-test-suite-persistence 4.0.6
+    org.grails:grails-test-suite-uber 4.0.6
+    org.grails:grails-test-suite-web 4.0.6
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.5
-    org.grails:grails-web-boot 4.0.5
-    org.grails:grails-web-common 4.0.5
-    org.grails:grails-web-databinding 4.0.5
-    org.grails:grails-web-fileupload 4.0.5
-    org.grails:grails-web-mvc 4.0.5
+    org.grails:grails-web 4.0.6
+    org.grails:grails-web-boot 4.0.6
+    org.grails:grails-web-common 4.0.6
+    org.grails:grails-web-databinding 4.0.6
+    org.grails:grails-web-fileupload 4.0.6
+    org.grails:grails-web-mvc 4.0.6
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.5
+    org.grails:grails-web-url-mappings 4.0.6
     org.grails:scaffolding-core 2.1.0
-    org.grails:views-json-testing-support 2.0.2
+    org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.3
     org.grails.plugins:events 4.0.0
@@ -1582,9 +1582,9 @@ apiElements - Dependency management for the apiElements configuration
     org.grails.plugins:rxjava 1.1.1
     org.grails.plugins:rxjava2 2.0.0
     org.grails.plugins:scaffolding 4.0.0.RC1
-    org.grails.plugins:views-json 2.0.2
-    org.grails.plugins:views-json-templates 2.0.2
-    org.grails.plugins:views-markup 2.0.2
+    org.grails.plugins:views-json 2.0.4
+    org.grails.plugins:views-json-templates 2.0.4
+    org.grails.plugins:views-markup 2.0.4
     org.grails.profiles:angular 8.0.1
     org.grails.profiles:base 4.0.3
     org.grails.profiles:plugin 4.0.0
@@ -2303,32 +2303,32 @@ compile - Dependency management for the compile configuration
     org.aspectj:aspectjweaver 1.9.6
     org.assertj:assertj-core 3.11.1
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.5.6
-    org.codehaus.groovy:groovy-ant 2.5.6
+    org.codehaus.groovy:groovy 2.5.14
+    org.codehaus.groovy:groovy-ant 2.5.14
     org.codehaus.groovy:groovy-bsf 2.5.13
     org.codehaus.groovy:groovy-cli-commons 2.5.13
     org.codehaus.groovy:groovy-cli-picocli 2.5.13
-    org.codehaus.groovy:groovy-console 2.5.6
+    org.codehaus.groovy:groovy-console 2.5.14
     org.codehaus.groovy:groovy-datetime 2.5.13
-    org.codehaus.groovy:groovy-dateutil 2.5.6
+    org.codehaus.groovy:groovy-dateutil 2.5.14
     org.codehaus.groovy:groovy-docgenerator 2.5.13
     org.codehaus.groovy:groovy-groovydoc 2.5.13
     org.codehaus.groovy:groovy-groovysh 2.5.13
     org.codehaus.groovy:groovy-jaxb 2.5.13
     org.codehaus.groovy:groovy-jmx 2.5.13
-    org.codehaus.groovy:groovy-json 2.5.6
+    org.codehaus.groovy:groovy-json 2.5.14
     org.codehaus.groovy:groovy-json-direct 2.5.13
     org.codehaus.groovy:groovy-jsr223 2.5.13
-    org.codehaus.groovy:groovy-macro 2.5.6
-    org.codehaus.groovy:groovy-nio 2.5.6
+    org.codehaus.groovy:groovy-macro 2.5.14
+    org.codehaus.groovy:groovy-nio 2.5.14
     org.codehaus.groovy:groovy-servlet 2.5.13
-    org.codehaus.groovy:groovy-sql 2.5.6
-    org.codehaus.groovy:groovy-swing 2.5.6
-    org.codehaus.groovy:groovy-templates 2.5.6
+    org.codehaus.groovy:groovy-sql 2.5.14
+    org.codehaus.groovy:groovy-swing 2.5.14
+    org.codehaus.groovy:groovy-templates 2.5.14
     org.codehaus.groovy:groovy-test 2.5.13
     org.codehaus.groovy:groovy-test-junit5 2.5.13
     org.codehaus.groovy:groovy-testng 2.5.13
-    org.codehaus.groovy:groovy-xml 2.5.6
+    org.codehaus.groovy:groovy-xml 2.5.14
     org.codehaus.janino:commons-compiler 3.0.16
     org.codehaus.janino:commons-compiler-jdk 3.0.16
     org.codehaus.janino:janino 3.0.16
@@ -2489,11 +2489,11 @@ compile - Dependency management for the compile configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.5
-    org.grails:grails-codecs 4.0.5
-    org.grails:grails-console 4.0.5
-    org.grails:grails-core 4.0.5
-    org.grails:grails-databinding 4.0.5
+    org.grails:grails-bootstrap 4.0.6
+    org.grails:grails-codecs 4.0.6
+    org.grails:grails-console 4.0.6
+    org.grails:grails-core 4.0.6
+    org.grails:grails-databinding 4.0.6
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -2504,46 +2504,46 @@ compile - Dependency management for the compile configuration
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.5
-    org.grails:grails-docs 4.0.5
-    org.grails:grails-encoder 4.0.5
+    org.grails:grails-dependencies 4.0.6
+    org.grails:grails-docs 4.0.6
+    org.grails:grails-encoder 4.0.6
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.5
-    org.grails:grails-gradle-plugin 4.0.5
-    org.grails:grails-logging 4.0.5
-    org.grails:grails-plugin-codecs 4.0.5
-    org.grails:grails-plugin-controllers 4.0.5
-    org.grails:grails-plugin-databinding 4.0.5
-    org.grails:grails-plugin-datasource 4.0.5
-    org.grails:grails-plugin-domain-class 4.0.5
-    org.grails:grails-plugin-i18n 4.0.5
-    org.grails:grails-plugin-interceptors 4.0.5
-    org.grails:grails-plugin-mimetypes 4.0.5
-    org.grails:grails-plugin-rest 4.0.5
-    org.grails:grails-plugin-services 4.0.5
-    org.grails:grails-plugin-url-mappings 4.0.5
-    org.grails:grails-plugin-validation 4.0.5
-    org.grails:grails-shell 4.0.5
-    org.grails:grails-spring 4.0.5
-    org.grails:grails-test 4.0.5
-    org.grails:grails-test-suite-base 4.0.5
-    org.grails:grails-test-suite-persistence 4.0.5
-    org.grails:grails-test-suite-uber 4.0.5
-    org.grails:grails-test-suite-web 4.0.5
+    org.grails:grails-gradle-model 4.0.6
+    org.grails:grails-gradle-plugin 4.0.6
+    org.grails:grails-logging 4.0.6
+    org.grails:grails-plugin-codecs 4.0.6
+    org.grails:grails-plugin-controllers 4.0.6
+    org.grails:grails-plugin-databinding 4.0.6
+    org.grails:grails-plugin-datasource 4.0.6
+    org.grails:grails-plugin-domain-class 4.0.6
+    org.grails:grails-plugin-i18n 4.0.6
+    org.grails:grails-plugin-interceptors 4.0.6
+    org.grails:grails-plugin-mimetypes 4.0.6
+    org.grails:grails-plugin-rest 4.0.6
+    org.grails:grails-plugin-services 4.0.6
+    org.grails:grails-plugin-url-mappings 4.0.6
+    org.grails:grails-plugin-validation 4.0.6
+    org.grails:grails-shell 4.0.6
+    org.grails:grails-spring 4.0.6
+    org.grails:grails-test 4.0.6
+    org.grails:grails-test-suite-base 4.0.6
+    org.grails:grails-test-suite-persistence 4.0.6
+    org.grails:grails-test-suite-uber 4.0.6
+    org.grails:grails-test-suite-web 4.0.6
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.5
-    org.grails:grails-web-boot 4.0.5
-    org.grails:grails-web-common 4.0.5
-    org.grails:grails-web-databinding 4.0.5
-    org.grails:grails-web-fileupload 4.0.5
-    org.grails:grails-web-mvc 4.0.5
+    org.grails:grails-web 4.0.6
+    org.grails:grails-web-boot 4.0.6
+    org.grails:grails-web-common 4.0.6
+    org.grails:grails-web-databinding 4.0.6
+    org.grails:grails-web-fileupload 4.0.6
+    org.grails:grails-web-mvc 4.0.6
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.5
+    org.grails:grails-web-url-mappings 4.0.6
     org.grails:scaffolding-core 2.1.0
-    org.grails:views-json-testing-support 2.0.2
+    org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.3
     org.grails.plugins:events 4.0.0
@@ -2556,9 +2556,9 @@ compile - Dependency management for the compile configuration
     org.grails.plugins:rxjava 1.1.1
     org.grails.plugins:rxjava2 2.0.0
     org.grails.plugins:scaffolding 4.0.0.RC1
-    org.grails.plugins:views-json 2.0.2
-    org.grails.plugins:views-json-templates 2.0.2
-    org.grails.plugins:views-markup 2.0.2
+    org.grails.plugins:views-json 2.0.4
+    org.grails.plugins:views-json-templates 2.0.4
+    org.grails.plugins:views-markup 2.0.4
     org.grails.profiles:angular 8.0.1
     org.grails.profiles:base 4.0.3
     org.grails.profiles:plugin 4.0.0
@@ -3271,32 +3271,32 @@ compileClasspath - Dependency management for the compileClasspath configuration
     org.aspectj:aspectjweaver 1.9.6
     org.assertj:assertj-core 3.11.1
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.5.6
-    org.codehaus.groovy:groovy-ant 2.5.6
+    org.codehaus.groovy:groovy 2.5.14
+    org.codehaus.groovy:groovy-ant 2.5.14
     org.codehaus.groovy:groovy-bsf 2.5.13
     org.codehaus.groovy:groovy-cli-commons 2.5.13
     org.codehaus.groovy:groovy-cli-picocli 2.5.13
-    org.codehaus.groovy:groovy-console 2.5.6
+    org.codehaus.groovy:groovy-console 2.5.14
     org.codehaus.groovy:groovy-datetime 2.5.13
-    org.codehaus.groovy:groovy-dateutil 2.5.6
+    org.codehaus.groovy:groovy-dateutil 2.5.14
     org.codehaus.groovy:groovy-docgenerator 2.5.13
     org.codehaus.groovy:groovy-groovydoc 2.5.13
     org.codehaus.groovy:groovy-groovysh 2.5.13
     org.codehaus.groovy:groovy-jaxb 2.5.13
     org.codehaus.groovy:groovy-jmx 2.5.13
-    org.codehaus.groovy:groovy-json 2.5.6
+    org.codehaus.groovy:groovy-json 2.5.14
     org.codehaus.groovy:groovy-json-direct 2.5.13
     org.codehaus.groovy:groovy-jsr223 2.5.13
-    org.codehaus.groovy:groovy-macro 2.5.6
-    org.codehaus.groovy:groovy-nio 2.5.6
+    org.codehaus.groovy:groovy-macro 2.5.14
+    org.codehaus.groovy:groovy-nio 2.5.14
     org.codehaus.groovy:groovy-servlet 2.5.13
-    org.codehaus.groovy:groovy-sql 2.5.6
-    org.codehaus.groovy:groovy-swing 2.5.6
-    org.codehaus.groovy:groovy-templates 2.5.6
+    org.codehaus.groovy:groovy-sql 2.5.14
+    org.codehaus.groovy:groovy-swing 2.5.14
+    org.codehaus.groovy:groovy-templates 2.5.14
     org.codehaus.groovy:groovy-test 2.5.13
     org.codehaus.groovy:groovy-test-junit5 2.5.13
     org.codehaus.groovy:groovy-testng 2.5.13
-    org.codehaus.groovy:groovy-xml 2.5.6
+    org.codehaus.groovy:groovy-xml 2.5.14
     org.codehaus.janino:commons-compiler 3.0.16
     org.codehaus.janino:commons-compiler-jdk 3.0.16
     org.codehaus.janino:janino 3.0.16
@@ -3457,11 +3457,11 @@ compileClasspath - Dependency management for the compileClasspath configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.5
-    org.grails:grails-codecs 4.0.5
-    org.grails:grails-console 4.0.5
-    org.grails:grails-core 4.0.5
-    org.grails:grails-databinding 4.0.5
+    org.grails:grails-bootstrap 4.0.6
+    org.grails:grails-codecs 4.0.6
+    org.grails:grails-console 4.0.6
+    org.grails:grails-core 4.0.6
+    org.grails:grails-databinding 4.0.6
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -3472,46 +3472,46 @@ compileClasspath - Dependency management for the compileClasspath configuration
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.5
-    org.grails:grails-docs 4.0.5
-    org.grails:grails-encoder 4.0.5
+    org.grails:grails-dependencies 4.0.6
+    org.grails:grails-docs 4.0.6
+    org.grails:grails-encoder 4.0.6
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.5
-    org.grails:grails-gradle-plugin 4.0.5
-    org.grails:grails-logging 4.0.5
-    org.grails:grails-plugin-codecs 4.0.5
-    org.grails:grails-plugin-controllers 4.0.5
-    org.grails:grails-plugin-databinding 4.0.5
-    org.grails:grails-plugin-datasource 4.0.5
-    org.grails:grails-plugin-domain-class 4.0.5
-    org.grails:grails-plugin-i18n 4.0.5
-    org.grails:grails-plugin-interceptors 4.0.5
-    org.grails:grails-plugin-mimetypes 4.0.5
-    org.grails:grails-plugin-rest 4.0.5
-    org.grails:grails-plugin-services 4.0.5
-    org.grails:grails-plugin-url-mappings 4.0.5
-    org.grails:grails-plugin-validation 4.0.5
-    org.grails:grails-shell 4.0.5
-    org.grails:grails-spring 4.0.5
-    org.grails:grails-test 4.0.5
-    org.grails:grails-test-suite-base 4.0.5
-    org.grails:grails-test-suite-persistence 4.0.5
-    org.grails:grails-test-suite-uber 4.0.5
-    org.grails:grails-test-suite-web 4.0.5
+    org.grails:grails-gradle-model 4.0.6
+    org.grails:grails-gradle-plugin 4.0.6
+    org.grails:grails-logging 4.0.6
+    org.grails:grails-plugin-codecs 4.0.6
+    org.grails:grails-plugin-controllers 4.0.6
+    org.grails:grails-plugin-databinding 4.0.6
+    org.grails:grails-plugin-datasource 4.0.6
+    org.grails:grails-plugin-domain-class 4.0.6
+    org.grails:grails-plugin-i18n 4.0.6
+    org.grails:grails-plugin-interceptors 4.0.6
+    org.grails:grails-plugin-mimetypes 4.0.6
+    org.grails:grails-plugin-rest 4.0.6
+    org.grails:grails-plugin-services 4.0.6
+    org.grails:grails-plugin-url-mappings 4.0.6
+    org.grails:grails-plugin-validation 4.0.6
+    org.grails:grails-shell 4.0.6
+    org.grails:grails-spring 4.0.6
+    org.grails:grails-test 4.0.6
+    org.grails:grails-test-suite-base 4.0.6
+    org.grails:grails-test-suite-persistence 4.0.6
+    org.grails:grails-test-suite-uber 4.0.6
+    org.grails:grails-test-suite-web 4.0.6
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.5
-    org.grails:grails-web-boot 4.0.5
-    org.grails:grails-web-common 4.0.5
-    org.grails:grails-web-databinding 4.0.5
-    org.grails:grails-web-fileupload 4.0.5
-    org.grails:grails-web-mvc 4.0.5
+    org.grails:grails-web 4.0.6
+    org.grails:grails-web-boot 4.0.6
+    org.grails:grails-web-common 4.0.6
+    org.grails:grails-web-databinding 4.0.6
+    org.grails:grails-web-fileupload 4.0.6
+    org.grails:grails-web-mvc 4.0.6
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.5
+    org.grails:grails-web-url-mappings 4.0.6
     org.grails:scaffolding-core 2.1.0
-    org.grails:views-json-testing-support 2.0.2
+    org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.3
     org.grails.plugins:events 4.0.0
@@ -3524,9 +3524,9 @@ compileClasspath - Dependency management for the compileClasspath configuration
     org.grails.plugins:rxjava 1.1.1
     org.grails.plugins:rxjava2 2.0.0
     org.grails.plugins:scaffolding 4.0.0.RC1
-    org.grails.plugins:views-json 2.0.2
-    org.grails.plugins:views-json-templates 2.0.2
-    org.grails.plugins:views-markup 2.0.2
+    org.grails.plugins:views-json 2.0.4
+    org.grails.plugins:views-json-templates 2.0.4
+    org.grails.plugins:views-markup 2.0.4
     org.grails.profiles:angular 8.0.1
     org.grails.profiles:base 4.0.3
     org.grails.profiles:plugin 4.0.0
@@ -4245,32 +4245,32 @@ default - Dependency management for the default configuration
     org.aspectj:aspectjweaver 1.9.6
     org.assertj:assertj-core 3.11.1
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.5.6
-    org.codehaus.groovy:groovy-ant 2.5.6
+    org.codehaus.groovy:groovy 2.5.14
+    org.codehaus.groovy:groovy-ant 2.5.14
     org.codehaus.groovy:groovy-bsf 2.5.13
     org.codehaus.groovy:groovy-cli-commons 2.5.13
     org.codehaus.groovy:groovy-cli-picocli 2.5.13
-    org.codehaus.groovy:groovy-console 2.5.6
+    org.codehaus.groovy:groovy-console 2.5.14
     org.codehaus.groovy:groovy-datetime 2.5.13
-    org.codehaus.groovy:groovy-dateutil 2.5.6
+    org.codehaus.groovy:groovy-dateutil 2.5.14
     org.codehaus.groovy:groovy-docgenerator 2.5.13
     org.codehaus.groovy:groovy-groovydoc 2.5.13
     org.codehaus.groovy:groovy-groovysh 2.5.13
     org.codehaus.groovy:groovy-jaxb 2.5.13
     org.codehaus.groovy:groovy-jmx 2.5.13
-    org.codehaus.groovy:groovy-json 2.5.6
+    org.codehaus.groovy:groovy-json 2.5.14
     org.codehaus.groovy:groovy-json-direct 2.5.13
     org.codehaus.groovy:groovy-jsr223 2.5.13
-    org.codehaus.groovy:groovy-macro 2.5.6
-    org.codehaus.groovy:groovy-nio 2.5.6
+    org.codehaus.groovy:groovy-macro 2.5.14
+    org.codehaus.groovy:groovy-nio 2.5.14
     org.codehaus.groovy:groovy-servlet 2.5.13
-    org.codehaus.groovy:groovy-sql 2.5.6
-    org.codehaus.groovy:groovy-swing 2.5.6
-    org.codehaus.groovy:groovy-templates 2.5.6
+    org.codehaus.groovy:groovy-sql 2.5.14
+    org.codehaus.groovy:groovy-swing 2.5.14
+    org.codehaus.groovy:groovy-templates 2.5.14
     org.codehaus.groovy:groovy-test 2.5.13
     org.codehaus.groovy:groovy-test-junit5 2.5.13
     org.codehaus.groovy:groovy-testng 2.5.13
-    org.codehaus.groovy:groovy-xml 2.5.6
+    org.codehaus.groovy:groovy-xml 2.5.14
     org.codehaus.janino:commons-compiler 3.0.16
     org.codehaus.janino:commons-compiler-jdk 3.0.16
     org.codehaus.janino:janino 3.0.16
@@ -4432,11 +4432,11 @@ default - Dependency management for the default configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.5
-    org.grails:grails-codecs 4.0.5
-    org.grails:grails-console 4.0.5
-    org.grails:grails-core 4.0.5
-    org.grails:grails-databinding 4.0.5
+    org.grails:grails-bootstrap 4.0.6
+    org.grails:grails-codecs 4.0.6
+    org.grails:grails-console 4.0.6
+    org.grails:grails-core 4.0.6
+    org.grails:grails-databinding 4.0.6
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -4447,46 +4447,46 @@ default - Dependency management for the default configuration
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.5
-    org.grails:grails-docs 4.0.5
-    org.grails:grails-encoder 4.0.5
+    org.grails:grails-dependencies 4.0.6
+    org.grails:grails-docs 4.0.6
+    org.grails:grails-encoder 4.0.6
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.5
-    org.grails:grails-gradle-plugin 4.0.5
-    org.grails:grails-logging 4.0.5
-    org.grails:grails-plugin-codecs 4.0.5
-    org.grails:grails-plugin-controllers 4.0.5
-    org.grails:grails-plugin-databinding 4.0.5
-    org.grails:grails-plugin-datasource 4.0.5
-    org.grails:grails-plugin-domain-class 4.0.5
-    org.grails:grails-plugin-i18n 4.0.5
-    org.grails:grails-plugin-interceptors 4.0.5
-    org.grails:grails-plugin-mimetypes 4.0.5
-    org.grails:grails-plugin-rest 4.0.5
-    org.grails:grails-plugin-services 4.0.5
-    org.grails:grails-plugin-url-mappings 4.0.5
-    org.grails:grails-plugin-validation 4.0.5
-    org.grails:grails-shell 4.0.5
-    org.grails:grails-spring 4.0.5
-    org.grails:grails-test 4.0.5
-    org.grails:grails-test-suite-base 4.0.5
-    org.grails:grails-test-suite-persistence 4.0.5
-    org.grails:grails-test-suite-uber 4.0.5
-    org.grails:grails-test-suite-web 4.0.5
+    org.grails:grails-gradle-model 4.0.6
+    org.grails:grails-gradle-plugin 4.0.6
+    org.grails:grails-logging 4.0.6
+    org.grails:grails-plugin-codecs 4.0.6
+    org.grails:grails-plugin-controllers 4.0.6
+    org.grails:grails-plugin-databinding 4.0.6
+    org.grails:grails-plugin-datasource 4.0.6
+    org.grails:grails-plugin-domain-class 4.0.6
+    org.grails:grails-plugin-i18n 4.0.6
+    org.grails:grails-plugin-interceptors 4.0.6
+    org.grails:grails-plugin-mimetypes 4.0.6
+    org.grails:grails-plugin-rest 4.0.6
+    org.grails:grails-plugin-services 4.0.6
+    org.grails:grails-plugin-url-mappings 4.0.6
+    org.grails:grails-plugin-validation 4.0.6
+    org.grails:grails-shell 4.0.6
+    org.grails:grails-spring 4.0.6
+    org.grails:grails-test 4.0.6
+    org.grails:grails-test-suite-base 4.0.6
+    org.grails:grails-test-suite-persistence 4.0.6
+    org.grails:grails-test-suite-uber 4.0.6
+    org.grails:grails-test-suite-web 4.0.6
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.5
-    org.grails:grails-web-boot 4.0.5
-    org.grails:grails-web-common 4.0.5
-    org.grails:grails-web-databinding 4.0.5
-    org.grails:grails-web-fileupload 4.0.5
-    org.grails:grails-web-mvc 4.0.5
+    org.grails:grails-web 4.0.6
+    org.grails:grails-web-boot 4.0.6
+    org.grails:grails-web-common 4.0.6
+    org.grails:grails-web-databinding 4.0.6
+    org.grails:grails-web-fileupload 4.0.6
+    org.grails:grails-web-mvc 4.0.6
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.5
+    org.grails:grails-web-url-mappings 4.0.6
     org.grails:scaffolding-core 2.1.0
-    org.grails:views-json-testing-support 2.0.2
+    org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.3
     org.grails.plugins:events 4.0.0
@@ -4499,9 +4499,9 @@ default - Dependency management for the default configuration
     org.grails.plugins:rxjava 1.1.1
     org.grails.plugins:rxjava2 2.0.0
     org.grails.plugins:scaffolding 4.0.0.RC1
-    org.grails.plugins:views-json 2.0.2
-    org.grails.plugins:views-json-templates 2.0.2
-    org.grails.plugins:views-markup 2.0.2
+    org.grails.plugins:views-json 2.0.4
+    org.grails.plugins:views-json-templates 2.0.4
+    org.grails.plugins:views-markup 2.0.4
     org.grails.profiles:angular 8.0.1
     org.grails.profiles:base 4.0.3
     org.grails.profiles:plugin 4.0.0
@@ -5217,32 +5217,32 @@ implementation - Dependency management for the implementation configuration
     org.aspectj:aspectjweaver 1.9.6
     org.assertj:assertj-core 3.11.1
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.5.6
-    org.codehaus.groovy:groovy-ant 2.5.6
+    org.codehaus.groovy:groovy 2.5.14
+    org.codehaus.groovy:groovy-ant 2.5.14
     org.codehaus.groovy:groovy-bsf 2.5.13
     org.codehaus.groovy:groovy-cli-commons 2.5.13
     org.codehaus.groovy:groovy-cli-picocli 2.5.13
-    org.codehaus.groovy:groovy-console 2.5.6
+    org.codehaus.groovy:groovy-console 2.5.14
     org.codehaus.groovy:groovy-datetime 2.5.13
-    org.codehaus.groovy:groovy-dateutil 2.5.6
+    org.codehaus.groovy:groovy-dateutil 2.5.14
     org.codehaus.groovy:groovy-docgenerator 2.5.13
     org.codehaus.groovy:groovy-groovydoc 2.5.13
     org.codehaus.groovy:groovy-groovysh 2.5.13
     org.codehaus.groovy:groovy-jaxb 2.5.13
     org.codehaus.groovy:groovy-jmx 2.5.13
-    org.codehaus.groovy:groovy-json 2.5.6
+    org.codehaus.groovy:groovy-json 2.5.14
     org.codehaus.groovy:groovy-json-direct 2.5.13
     org.codehaus.groovy:groovy-jsr223 2.5.13
-    org.codehaus.groovy:groovy-macro 2.5.6
-    org.codehaus.groovy:groovy-nio 2.5.6
+    org.codehaus.groovy:groovy-macro 2.5.14
+    org.codehaus.groovy:groovy-nio 2.5.14
     org.codehaus.groovy:groovy-servlet 2.5.13
-    org.codehaus.groovy:groovy-sql 2.5.6
-    org.codehaus.groovy:groovy-swing 2.5.6
-    org.codehaus.groovy:groovy-templates 2.5.6
+    org.codehaus.groovy:groovy-sql 2.5.14
+    org.codehaus.groovy:groovy-swing 2.5.14
+    org.codehaus.groovy:groovy-templates 2.5.14
     org.codehaus.groovy:groovy-test 2.5.13
     org.codehaus.groovy:groovy-test-junit5 2.5.13
     org.codehaus.groovy:groovy-testng 2.5.13
-    org.codehaus.groovy:groovy-xml 2.5.6
+    org.codehaus.groovy:groovy-xml 2.5.14
     org.codehaus.janino:commons-compiler 3.0.16
     org.codehaus.janino:commons-compiler-jdk 3.0.16
     org.codehaus.janino:janino 3.0.16
@@ -5403,11 +5403,11 @@ implementation - Dependency management for the implementation configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.5
-    org.grails:grails-codecs 4.0.5
-    org.grails:grails-console 4.0.5
-    org.grails:grails-core 4.0.5
-    org.grails:grails-databinding 4.0.5
+    org.grails:grails-bootstrap 4.0.6
+    org.grails:grails-codecs 4.0.6
+    org.grails:grails-console 4.0.6
+    org.grails:grails-core 4.0.6
+    org.grails:grails-databinding 4.0.6
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -5418,46 +5418,46 @@ implementation - Dependency management for the implementation configuration
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.5
-    org.grails:grails-docs 4.0.5
-    org.grails:grails-encoder 4.0.5
+    org.grails:grails-dependencies 4.0.6
+    org.grails:grails-docs 4.0.6
+    org.grails:grails-encoder 4.0.6
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.5
-    org.grails:grails-gradle-plugin 4.0.5
-    org.grails:grails-logging 4.0.5
-    org.grails:grails-plugin-codecs 4.0.5
-    org.grails:grails-plugin-controllers 4.0.5
-    org.grails:grails-plugin-databinding 4.0.5
-    org.grails:grails-plugin-datasource 4.0.5
-    org.grails:grails-plugin-domain-class 4.0.5
-    org.grails:grails-plugin-i18n 4.0.5
-    org.grails:grails-plugin-interceptors 4.0.5
-    org.grails:grails-plugin-mimetypes 4.0.5
-    org.grails:grails-plugin-rest 4.0.5
-    org.grails:grails-plugin-services 4.0.5
-    org.grails:grails-plugin-url-mappings 4.0.5
-    org.grails:grails-plugin-validation 4.0.5
-    org.grails:grails-shell 4.0.5
-    org.grails:grails-spring 4.0.5
-    org.grails:grails-test 4.0.5
-    org.grails:grails-test-suite-base 4.0.5
-    org.grails:grails-test-suite-persistence 4.0.5
-    org.grails:grails-test-suite-uber 4.0.5
-    org.grails:grails-test-suite-web 4.0.5
+    org.grails:grails-gradle-model 4.0.6
+    org.grails:grails-gradle-plugin 4.0.6
+    org.grails:grails-logging 4.0.6
+    org.grails:grails-plugin-codecs 4.0.6
+    org.grails:grails-plugin-controllers 4.0.6
+    org.grails:grails-plugin-databinding 4.0.6
+    org.grails:grails-plugin-datasource 4.0.6
+    org.grails:grails-plugin-domain-class 4.0.6
+    org.grails:grails-plugin-i18n 4.0.6
+    org.grails:grails-plugin-interceptors 4.0.6
+    org.grails:grails-plugin-mimetypes 4.0.6
+    org.grails:grails-plugin-rest 4.0.6
+    org.grails:grails-plugin-services 4.0.6
+    org.grails:grails-plugin-url-mappings 4.0.6
+    org.grails:grails-plugin-validation 4.0.6
+    org.grails:grails-shell 4.0.6
+    org.grails:grails-spring 4.0.6
+    org.grails:grails-test 4.0.6
+    org.grails:grails-test-suite-base 4.0.6
+    org.grails:grails-test-suite-persistence 4.0.6
+    org.grails:grails-test-suite-uber 4.0.6
+    org.grails:grails-test-suite-web 4.0.6
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.5
-    org.grails:grails-web-boot 4.0.5
-    org.grails:grails-web-common 4.0.5
-    org.grails:grails-web-databinding 4.0.5
-    org.grails:grails-web-fileupload 4.0.5
-    org.grails:grails-web-mvc 4.0.5
+    org.grails:grails-web 4.0.6
+    org.grails:grails-web-boot 4.0.6
+    org.grails:grails-web-common 4.0.6
+    org.grails:grails-web-databinding 4.0.6
+    org.grails:grails-web-fileupload 4.0.6
+    org.grails:grails-web-mvc 4.0.6
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.5
+    org.grails:grails-web-url-mappings 4.0.6
     org.grails:scaffolding-core 2.1.0
-    org.grails:views-json-testing-support 2.0.2
+    org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.3
     org.grails.plugins:events 4.0.0
@@ -5470,9 +5470,9 @@ implementation - Dependency management for the implementation configuration
     org.grails.plugins:rxjava 1.1.1
     org.grails.plugins:rxjava2 2.0.0
     org.grails.plugins:scaffolding 4.0.0.RC1
-    org.grails.plugins:views-json 2.0.2
-    org.grails.plugins:views-json-templates 2.0.2
-    org.grails.plugins:views-markup 2.0.2
+    org.grails.plugins:views-json 2.0.4
+    org.grails.plugins:views-json-templates 2.0.4
+    org.grails.plugins:views-markup 2.0.4
     org.grails.profiles:angular 8.0.1
     org.grails.profiles:base 4.0.3
     org.grails.profiles:plugin 4.0.0
@@ -6188,32 +6188,32 @@ integrationTestCompile - Dependency management for the integrationTestCompile co
     org.aspectj:aspectjweaver 1.9.6
     org.assertj:assertj-core 3.11.1
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.5.6
-    org.codehaus.groovy:groovy-ant 2.5.6
+    org.codehaus.groovy:groovy 2.5.14
+    org.codehaus.groovy:groovy-ant 2.5.14
     org.codehaus.groovy:groovy-bsf 2.5.13
     org.codehaus.groovy:groovy-cli-commons 2.5.13
     org.codehaus.groovy:groovy-cli-picocli 2.5.13
-    org.codehaus.groovy:groovy-console 2.5.6
+    org.codehaus.groovy:groovy-console 2.5.14
     org.codehaus.groovy:groovy-datetime 2.5.13
-    org.codehaus.groovy:groovy-dateutil 2.5.6
+    org.codehaus.groovy:groovy-dateutil 2.5.14
     org.codehaus.groovy:groovy-docgenerator 2.5.13
     org.codehaus.groovy:groovy-groovydoc 2.5.13
     org.codehaus.groovy:groovy-groovysh 2.5.13
     org.codehaus.groovy:groovy-jaxb 2.5.13
     org.codehaus.groovy:groovy-jmx 2.5.13
-    org.codehaus.groovy:groovy-json 2.5.6
+    org.codehaus.groovy:groovy-json 2.5.14
     org.codehaus.groovy:groovy-json-direct 2.5.13
     org.codehaus.groovy:groovy-jsr223 2.5.13
-    org.codehaus.groovy:groovy-macro 2.5.6
-    org.codehaus.groovy:groovy-nio 2.5.6
+    org.codehaus.groovy:groovy-macro 2.5.14
+    org.codehaus.groovy:groovy-nio 2.5.14
     org.codehaus.groovy:groovy-servlet 2.5.13
-    org.codehaus.groovy:groovy-sql 2.5.6
-    org.codehaus.groovy:groovy-swing 2.5.6
-    org.codehaus.groovy:groovy-templates 2.5.6
+    org.codehaus.groovy:groovy-sql 2.5.14
+    org.codehaus.groovy:groovy-swing 2.5.14
+    org.codehaus.groovy:groovy-templates 2.5.14
     org.codehaus.groovy:groovy-test 2.5.13
     org.codehaus.groovy:groovy-test-junit5 2.5.13
     org.codehaus.groovy:groovy-testng 2.5.13
-    org.codehaus.groovy:groovy-xml 2.5.6
+    org.codehaus.groovy:groovy-xml 2.5.14
     org.codehaus.janino:commons-compiler 3.0.16
     org.codehaus.janino:commons-compiler-jdk 3.0.16
     org.codehaus.janino:janino 3.0.16
@@ -6374,11 +6374,11 @@ integrationTestCompile - Dependency management for the integrationTestCompile co
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.5
-    org.grails:grails-codecs 4.0.5
-    org.grails:grails-console 4.0.5
-    org.grails:grails-core 4.0.5
-    org.grails:grails-databinding 4.0.5
+    org.grails:grails-bootstrap 4.0.6
+    org.grails:grails-codecs 4.0.6
+    org.grails:grails-console 4.0.6
+    org.grails:grails-core 4.0.6
+    org.grails:grails-databinding 4.0.6
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -6389,46 +6389,46 @@ integrationTestCompile - Dependency management for the integrationTestCompile co
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.5
-    org.grails:grails-docs 4.0.5
-    org.grails:grails-encoder 4.0.5
+    org.grails:grails-dependencies 4.0.6
+    org.grails:grails-docs 4.0.6
+    org.grails:grails-encoder 4.0.6
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.5
-    org.grails:grails-gradle-plugin 4.0.5
-    org.grails:grails-logging 4.0.5
-    org.grails:grails-plugin-codecs 4.0.5
-    org.grails:grails-plugin-controllers 4.0.5
-    org.grails:grails-plugin-databinding 4.0.5
-    org.grails:grails-plugin-datasource 4.0.5
-    org.grails:grails-plugin-domain-class 4.0.5
-    org.grails:grails-plugin-i18n 4.0.5
-    org.grails:grails-plugin-interceptors 4.0.5
-    org.grails:grails-plugin-mimetypes 4.0.5
-    org.grails:grails-plugin-rest 4.0.5
-    org.grails:grails-plugin-services 4.0.5
-    org.grails:grails-plugin-url-mappings 4.0.5
-    org.grails:grails-plugin-validation 4.0.5
-    org.grails:grails-shell 4.0.5
-    org.grails:grails-spring 4.0.5
-    org.grails:grails-test 4.0.5
-    org.grails:grails-test-suite-base 4.0.5
-    org.grails:grails-test-suite-persistence 4.0.5
-    org.grails:grails-test-suite-uber 4.0.5
-    org.grails:grails-test-suite-web 4.0.5
+    org.grails:grails-gradle-model 4.0.6
+    org.grails:grails-gradle-plugin 4.0.6
+    org.grails:grails-logging 4.0.6
+    org.grails:grails-plugin-codecs 4.0.6
+    org.grails:grails-plugin-controllers 4.0.6
+    org.grails:grails-plugin-databinding 4.0.6
+    org.grails:grails-plugin-datasource 4.0.6
+    org.grails:grails-plugin-domain-class 4.0.6
+    org.grails:grails-plugin-i18n 4.0.6
+    org.grails:grails-plugin-interceptors 4.0.6
+    org.grails:grails-plugin-mimetypes 4.0.6
+    org.grails:grails-plugin-rest 4.0.6
+    org.grails:grails-plugin-services 4.0.6
+    org.grails:grails-plugin-url-mappings 4.0.6
+    org.grails:grails-plugin-validation 4.0.6
+    org.grails:grails-shell 4.0.6
+    org.grails:grails-spring 4.0.6
+    org.grails:grails-test 4.0.6
+    org.grails:grails-test-suite-base 4.0.6
+    org.grails:grails-test-suite-persistence 4.0.6
+    org.grails:grails-test-suite-uber 4.0.6
+    org.grails:grails-test-suite-web 4.0.6
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.5
-    org.grails:grails-web-boot 4.0.5
-    org.grails:grails-web-common 4.0.5
-    org.grails:grails-web-databinding 4.0.5
-    org.grails:grails-web-fileupload 4.0.5
-    org.grails:grails-web-mvc 4.0.5
+    org.grails:grails-web 4.0.6
+    org.grails:grails-web-boot 4.0.6
+    org.grails:grails-web-common 4.0.6
+    org.grails:grails-web-databinding 4.0.6
+    org.grails:grails-web-fileupload 4.0.6
+    org.grails:grails-web-mvc 4.0.6
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.5
+    org.grails:grails-web-url-mappings 4.0.6
     org.grails:scaffolding-core 2.1.0
-    org.grails:views-json-testing-support 2.0.2
+    org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.3
     org.grails.plugins:events 4.0.0
@@ -6441,9 +6441,9 @@ integrationTestCompile - Dependency management for the integrationTestCompile co
     org.grails.plugins:rxjava 1.1.1
     org.grails.plugins:rxjava2 2.0.0
     org.grails.plugins:scaffolding 4.0.0.RC1
-    org.grails.plugins:views-json 2.0.2
-    org.grails.plugins:views-json-templates 2.0.2
-    org.grails.plugins:views-markup 2.0.2
+    org.grails.plugins:views-json 2.0.4
+    org.grails.plugins:views-json-templates 2.0.4
+    org.grails.plugins:views-markup 2.0.4
     org.grails.profiles:angular 8.0.1
     org.grails.profiles:base 4.0.3
     org.grails.profiles:plugin 4.0.0
@@ -7156,32 +7156,32 @@ integrationTestCompileClasspath - Dependency management for the integrationTestC
     org.aspectj:aspectjweaver 1.9.6
     org.assertj:assertj-core 3.11.1
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.5.6
-    org.codehaus.groovy:groovy-ant 2.5.6
+    org.codehaus.groovy:groovy 2.5.14
+    org.codehaus.groovy:groovy-ant 2.5.14
     org.codehaus.groovy:groovy-bsf 2.5.13
     org.codehaus.groovy:groovy-cli-commons 2.5.13
     org.codehaus.groovy:groovy-cli-picocli 2.5.13
-    org.codehaus.groovy:groovy-console 2.5.6
+    org.codehaus.groovy:groovy-console 2.5.14
     org.codehaus.groovy:groovy-datetime 2.5.13
-    org.codehaus.groovy:groovy-dateutil 2.5.6
+    org.codehaus.groovy:groovy-dateutil 2.5.14
     org.codehaus.groovy:groovy-docgenerator 2.5.13
     org.codehaus.groovy:groovy-groovydoc 2.5.13
     org.codehaus.groovy:groovy-groovysh 2.5.13
     org.codehaus.groovy:groovy-jaxb 2.5.13
     org.codehaus.groovy:groovy-jmx 2.5.13
-    org.codehaus.groovy:groovy-json 2.5.6
+    org.codehaus.groovy:groovy-json 2.5.14
     org.codehaus.groovy:groovy-json-direct 2.5.13
     org.codehaus.groovy:groovy-jsr223 2.5.13
-    org.codehaus.groovy:groovy-macro 2.5.6
-    org.codehaus.groovy:groovy-nio 2.5.6
+    org.codehaus.groovy:groovy-macro 2.5.14
+    org.codehaus.groovy:groovy-nio 2.5.14
     org.codehaus.groovy:groovy-servlet 2.5.13
-    org.codehaus.groovy:groovy-sql 2.5.6
-    org.codehaus.groovy:groovy-swing 2.5.6
-    org.codehaus.groovy:groovy-templates 2.5.6
+    org.codehaus.groovy:groovy-sql 2.5.14
+    org.codehaus.groovy:groovy-swing 2.5.14
+    org.codehaus.groovy:groovy-templates 2.5.14
     org.codehaus.groovy:groovy-test 2.5.13
     org.codehaus.groovy:groovy-test-junit5 2.5.13
     org.codehaus.groovy:groovy-testng 2.5.13
-    org.codehaus.groovy:groovy-xml 2.5.6
+    org.codehaus.groovy:groovy-xml 2.5.14
     org.codehaus.janino:commons-compiler 3.0.16
     org.codehaus.janino:commons-compiler-jdk 3.0.16
     org.codehaus.janino:janino 3.0.16
@@ -7342,11 +7342,11 @@ integrationTestCompileClasspath - Dependency management for the integrationTestC
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.5
-    org.grails:grails-codecs 4.0.5
-    org.grails:grails-console 4.0.5
-    org.grails:grails-core 4.0.5
-    org.grails:grails-databinding 4.0.5
+    org.grails:grails-bootstrap 4.0.6
+    org.grails:grails-codecs 4.0.6
+    org.grails:grails-console 4.0.6
+    org.grails:grails-core 4.0.6
+    org.grails:grails-databinding 4.0.6
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -7357,46 +7357,46 @@ integrationTestCompileClasspath - Dependency management for the integrationTestC
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.5
-    org.grails:grails-docs 4.0.5
-    org.grails:grails-encoder 4.0.5
+    org.grails:grails-dependencies 4.0.6
+    org.grails:grails-docs 4.0.6
+    org.grails:grails-encoder 4.0.6
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.5
-    org.grails:grails-gradle-plugin 4.0.5
-    org.grails:grails-logging 4.0.5
-    org.grails:grails-plugin-codecs 4.0.5
-    org.grails:grails-plugin-controllers 4.0.5
-    org.grails:grails-plugin-databinding 4.0.5
-    org.grails:grails-plugin-datasource 4.0.5
-    org.grails:grails-plugin-domain-class 4.0.5
-    org.grails:grails-plugin-i18n 4.0.5
-    org.grails:grails-plugin-interceptors 4.0.5
-    org.grails:grails-plugin-mimetypes 4.0.5
-    org.grails:grails-plugin-rest 4.0.5
-    org.grails:grails-plugin-services 4.0.5
-    org.grails:grails-plugin-url-mappings 4.0.5
-    org.grails:grails-plugin-validation 4.0.5
-    org.grails:grails-shell 4.0.5
-    org.grails:grails-spring 4.0.5
-    org.grails:grails-test 4.0.5
-    org.grails:grails-test-suite-base 4.0.5
-    org.grails:grails-test-suite-persistence 4.0.5
-    org.grails:grails-test-suite-uber 4.0.5
-    org.grails:grails-test-suite-web 4.0.5
+    org.grails:grails-gradle-model 4.0.6
+    org.grails:grails-gradle-plugin 4.0.6
+    org.grails:grails-logging 4.0.6
+    org.grails:grails-plugin-codecs 4.0.6
+    org.grails:grails-plugin-controllers 4.0.6
+    org.grails:grails-plugin-databinding 4.0.6
+    org.grails:grails-plugin-datasource 4.0.6
+    org.grails:grails-plugin-domain-class 4.0.6
+    org.grails:grails-plugin-i18n 4.0.6
+    org.grails:grails-plugin-interceptors 4.0.6
+    org.grails:grails-plugin-mimetypes 4.0.6
+    org.grails:grails-plugin-rest 4.0.6
+    org.grails:grails-plugin-services 4.0.6
+    org.grails:grails-plugin-url-mappings 4.0.6
+    org.grails:grails-plugin-validation 4.0.6
+    org.grails:grails-shell 4.0.6
+    org.grails:grails-spring 4.0.6
+    org.grails:grails-test 4.0.6
+    org.grails:grails-test-suite-base 4.0.6
+    org.grails:grails-test-suite-persistence 4.0.6
+    org.grails:grails-test-suite-uber 4.0.6
+    org.grails:grails-test-suite-web 4.0.6
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.5
-    org.grails:grails-web-boot 4.0.5
-    org.grails:grails-web-common 4.0.5
-    org.grails:grails-web-databinding 4.0.5
-    org.grails:grails-web-fileupload 4.0.5
-    org.grails:grails-web-mvc 4.0.5
+    org.grails:grails-web 4.0.6
+    org.grails:grails-web-boot 4.0.6
+    org.grails:grails-web-common 4.0.6
+    org.grails:grails-web-databinding 4.0.6
+    org.grails:grails-web-fileupload 4.0.6
+    org.grails:grails-web-mvc 4.0.6
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.5
+    org.grails:grails-web-url-mappings 4.0.6
     org.grails:scaffolding-core 2.1.0
-    org.grails:views-json-testing-support 2.0.2
+    org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.3
     org.grails.plugins:events 4.0.0
@@ -7409,9 +7409,9 @@ integrationTestCompileClasspath - Dependency management for the integrationTestC
     org.grails.plugins:rxjava 1.1.1
     org.grails.plugins:rxjava2 2.0.0
     org.grails.plugins:scaffolding 4.0.0.RC1
-    org.grails.plugins:views-json 2.0.2
-    org.grails.plugins:views-json-templates 2.0.2
-    org.grails.plugins:views-markup 2.0.2
+    org.grails.plugins:views-json 2.0.4
+    org.grails.plugins:views-json-templates 2.0.4
+    org.grails.plugins:views-markup 2.0.4
     org.grails.profiles:angular 8.0.1
     org.grails.profiles:base 4.0.3
     org.grails.profiles:plugin 4.0.0
@@ -8127,32 +8127,32 @@ integrationTestImplementation - Dependency management for the integrationTestImp
     org.aspectj:aspectjweaver 1.9.6
     org.assertj:assertj-core 3.11.1
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.5.6
-    org.codehaus.groovy:groovy-ant 2.5.6
+    org.codehaus.groovy:groovy 2.5.14
+    org.codehaus.groovy:groovy-ant 2.5.14
     org.codehaus.groovy:groovy-bsf 2.5.13
     org.codehaus.groovy:groovy-cli-commons 2.5.13
     org.codehaus.groovy:groovy-cli-picocli 2.5.13
-    org.codehaus.groovy:groovy-console 2.5.6
+    org.codehaus.groovy:groovy-console 2.5.14
     org.codehaus.groovy:groovy-datetime 2.5.13
-    org.codehaus.groovy:groovy-dateutil 2.5.6
+    org.codehaus.groovy:groovy-dateutil 2.5.14
     org.codehaus.groovy:groovy-docgenerator 2.5.13
     org.codehaus.groovy:groovy-groovydoc 2.5.13
     org.codehaus.groovy:groovy-groovysh 2.5.13
     org.codehaus.groovy:groovy-jaxb 2.5.13
     org.codehaus.groovy:groovy-jmx 2.5.13
-    org.codehaus.groovy:groovy-json 2.5.6
+    org.codehaus.groovy:groovy-json 2.5.14
     org.codehaus.groovy:groovy-json-direct 2.5.13
     org.codehaus.groovy:groovy-jsr223 2.5.13
-    org.codehaus.groovy:groovy-macro 2.5.6
-    org.codehaus.groovy:groovy-nio 2.5.6
+    org.codehaus.groovy:groovy-macro 2.5.14
+    org.codehaus.groovy:groovy-nio 2.5.14
     org.codehaus.groovy:groovy-servlet 2.5.13
-    org.codehaus.groovy:groovy-sql 2.5.6
-    org.codehaus.groovy:groovy-swing 2.5.6
-    org.codehaus.groovy:groovy-templates 2.5.6
+    org.codehaus.groovy:groovy-sql 2.5.14
+    org.codehaus.groovy:groovy-swing 2.5.14
+    org.codehaus.groovy:groovy-templates 2.5.14
     org.codehaus.groovy:groovy-test 2.5.13
     org.codehaus.groovy:groovy-test-junit5 2.5.13
     org.codehaus.groovy:groovy-testng 2.5.13
-    org.codehaus.groovy:groovy-xml 2.5.6
+    org.codehaus.groovy:groovy-xml 2.5.14
     org.codehaus.janino:commons-compiler 3.0.16
     org.codehaus.janino:commons-compiler-jdk 3.0.16
     org.codehaus.janino:janino 3.0.16
@@ -8313,11 +8313,11 @@ integrationTestImplementation - Dependency management for the integrationTestImp
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.5
-    org.grails:grails-codecs 4.0.5
-    org.grails:grails-console 4.0.5
-    org.grails:grails-core 4.0.5
-    org.grails:grails-databinding 4.0.5
+    org.grails:grails-bootstrap 4.0.6
+    org.grails:grails-codecs 4.0.6
+    org.grails:grails-console 4.0.6
+    org.grails:grails-core 4.0.6
+    org.grails:grails-databinding 4.0.6
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -8328,46 +8328,46 @@ integrationTestImplementation - Dependency management for the integrationTestImp
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.5
-    org.grails:grails-docs 4.0.5
-    org.grails:grails-encoder 4.0.5
+    org.grails:grails-dependencies 4.0.6
+    org.grails:grails-docs 4.0.6
+    org.grails:grails-encoder 4.0.6
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.5
-    org.grails:grails-gradle-plugin 4.0.5
-    org.grails:grails-logging 4.0.5
-    org.grails:grails-plugin-codecs 4.0.5
-    org.grails:grails-plugin-controllers 4.0.5
-    org.grails:grails-plugin-databinding 4.0.5
-    org.grails:grails-plugin-datasource 4.0.5
-    org.grails:grails-plugin-domain-class 4.0.5
-    org.grails:grails-plugin-i18n 4.0.5
-    org.grails:grails-plugin-interceptors 4.0.5
-    org.grails:grails-plugin-mimetypes 4.0.5
-    org.grails:grails-plugin-rest 4.0.5
-    org.grails:grails-plugin-services 4.0.5
-    org.grails:grails-plugin-url-mappings 4.0.5
-    org.grails:grails-plugin-validation 4.0.5
-    org.grails:grails-shell 4.0.5
-    org.grails:grails-spring 4.0.5
-    org.grails:grails-test 4.0.5
-    org.grails:grails-test-suite-base 4.0.5
-    org.grails:grails-test-suite-persistence 4.0.5
-    org.grails:grails-test-suite-uber 4.0.5
-    org.grails:grails-test-suite-web 4.0.5
+    org.grails:grails-gradle-model 4.0.6
+    org.grails:grails-gradle-plugin 4.0.6
+    org.grails:grails-logging 4.0.6
+    org.grails:grails-plugin-codecs 4.0.6
+    org.grails:grails-plugin-controllers 4.0.6
+    org.grails:grails-plugin-databinding 4.0.6
+    org.grails:grails-plugin-datasource 4.0.6
+    org.grails:grails-plugin-domain-class 4.0.6
+    org.grails:grails-plugin-i18n 4.0.6
+    org.grails:grails-plugin-interceptors 4.0.6
+    org.grails:grails-plugin-mimetypes 4.0.6
+    org.grails:grails-plugin-rest 4.0.6
+    org.grails:grails-plugin-services 4.0.6
+    org.grails:grails-plugin-url-mappings 4.0.6
+    org.grails:grails-plugin-validation 4.0.6
+    org.grails:grails-shell 4.0.6
+    org.grails:grails-spring 4.0.6
+    org.grails:grails-test 4.0.6
+    org.grails:grails-test-suite-base 4.0.6
+    org.grails:grails-test-suite-persistence 4.0.6
+    org.grails:grails-test-suite-uber 4.0.6
+    org.grails:grails-test-suite-web 4.0.6
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.5
-    org.grails:grails-web-boot 4.0.5
-    org.grails:grails-web-common 4.0.5
-    org.grails:grails-web-databinding 4.0.5
-    org.grails:grails-web-fileupload 4.0.5
-    org.grails:grails-web-mvc 4.0.5
+    org.grails:grails-web 4.0.6
+    org.grails:grails-web-boot 4.0.6
+    org.grails:grails-web-common 4.0.6
+    org.grails:grails-web-databinding 4.0.6
+    org.grails:grails-web-fileupload 4.0.6
+    org.grails:grails-web-mvc 4.0.6
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.5
+    org.grails:grails-web-url-mappings 4.0.6
     org.grails:scaffolding-core 2.1.0
-    org.grails:views-json-testing-support 2.0.2
+    org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.3
     org.grails.plugins:events 4.0.0
@@ -8380,9 +8380,9 @@ integrationTestImplementation - Dependency management for the integrationTestImp
     org.grails.plugins:rxjava 1.1.1
     org.grails.plugins:rxjava2 2.0.0
     org.grails.plugins:scaffolding 4.0.0.RC1
-    org.grails.plugins:views-json 2.0.2
-    org.grails.plugins:views-json-templates 2.0.2
-    org.grails.plugins:views-markup 2.0.2
+    org.grails.plugins:views-json 2.0.4
+    org.grails.plugins:views-json-templates 2.0.4
+    org.grails.plugins:views-markup 2.0.4
     org.grails.profiles:angular 8.0.1
     org.grails.profiles:base 4.0.3
     org.grails.profiles:plugin 4.0.0
@@ -9095,32 +9095,32 @@ integrationTestRuntime - Dependency management for the integrationTestRuntime co
     org.aspectj:aspectjweaver 1.9.6
     org.assertj:assertj-core 3.11.1
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.5.6
-    org.codehaus.groovy:groovy-ant 2.5.6
+    org.codehaus.groovy:groovy 2.5.14
+    org.codehaus.groovy:groovy-ant 2.5.14
     org.codehaus.groovy:groovy-bsf 2.5.13
     org.codehaus.groovy:groovy-cli-commons 2.5.13
     org.codehaus.groovy:groovy-cli-picocli 2.5.13
-    org.codehaus.groovy:groovy-console 2.5.6
+    org.codehaus.groovy:groovy-console 2.5.14
     org.codehaus.groovy:groovy-datetime 2.5.13
-    org.codehaus.groovy:groovy-dateutil 2.5.6
+    org.codehaus.groovy:groovy-dateutil 2.5.14
     org.codehaus.groovy:groovy-docgenerator 2.5.13
     org.codehaus.groovy:groovy-groovydoc 2.5.13
     org.codehaus.groovy:groovy-groovysh 2.5.13
     org.codehaus.groovy:groovy-jaxb 2.5.13
     org.codehaus.groovy:groovy-jmx 2.5.13
-    org.codehaus.groovy:groovy-json 2.5.6
+    org.codehaus.groovy:groovy-json 2.5.14
     org.codehaus.groovy:groovy-json-direct 2.5.13
     org.codehaus.groovy:groovy-jsr223 2.5.13
-    org.codehaus.groovy:groovy-macro 2.5.6
-    org.codehaus.groovy:groovy-nio 2.5.6
+    org.codehaus.groovy:groovy-macro 2.5.14
+    org.codehaus.groovy:groovy-nio 2.5.14
     org.codehaus.groovy:groovy-servlet 2.5.13
-    org.codehaus.groovy:groovy-sql 2.5.6
-    org.codehaus.groovy:groovy-swing 2.5.6
-    org.codehaus.groovy:groovy-templates 2.5.6
+    org.codehaus.groovy:groovy-sql 2.5.14
+    org.codehaus.groovy:groovy-swing 2.5.14
+    org.codehaus.groovy:groovy-templates 2.5.14
     org.codehaus.groovy:groovy-test 2.5.13
     org.codehaus.groovy:groovy-test-junit5 2.5.13
     org.codehaus.groovy:groovy-testng 2.5.13
-    org.codehaus.groovy:groovy-xml 2.5.6
+    org.codehaus.groovy:groovy-xml 2.5.14
     org.codehaus.janino:commons-compiler 3.0.16
     org.codehaus.janino:commons-compiler-jdk 3.0.16
     org.codehaus.janino:janino 3.0.16
@@ -9282,11 +9282,11 @@ integrationTestRuntime - Dependency management for the integrationTestRuntime co
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.5
-    org.grails:grails-codecs 4.0.5
-    org.grails:grails-console 4.0.5
-    org.grails:grails-core 4.0.5
-    org.grails:grails-databinding 4.0.5
+    org.grails:grails-bootstrap 4.0.6
+    org.grails:grails-codecs 4.0.6
+    org.grails:grails-console 4.0.6
+    org.grails:grails-core 4.0.6
+    org.grails:grails-databinding 4.0.6
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -9297,46 +9297,46 @@ integrationTestRuntime - Dependency management for the integrationTestRuntime co
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.5
-    org.grails:grails-docs 4.0.5
-    org.grails:grails-encoder 4.0.5
+    org.grails:grails-dependencies 4.0.6
+    org.grails:grails-docs 4.0.6
+    org.grails:grails-encoder 4.0.6
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.5
-    org.grails:grails-gradle-plugin 4.0.5
-    org.grails:grails-logging 4.0.5
-    org.grails:grails-plugin-codecs 4.0.5
-    org.grails:grails-plugin-controllers 4.0.5
-    org.grails:grails-plugin-databinding 4.0.5
-    org.grails:grails-plugin-datasource 4.0.5
-    org.grails:grails-plugin-domain-class 4.0.5
-    org.grails:grails-plugin-i18n 4.0.5
-    org.grails:grails-plugin-interceptors 4.0.5
-    org.grails:grails-plugin-mimetypes 4.0.5
-    org.grails:grails-plugin-rest 4.0.5
-    org.grails:grails-plugin-services 4.0.5
-    org.grails:grails-plugin-url-mappings 4.0.5
-    org.grails:grails-plugin-validation 4.0.5
-    org.grails:grails-shell 4.0.5
-    org.grails:grails-spring 4.0.5
-    org.grails:grails-test 4.0.5
-    org.grails:grails-test-suite-base 4.0.5
-    org.grails:grails-test-suite-persistence 4.0.5
-    org.grails:grails-test-suite-uber 4.0.5
-    org.grails:grails-test-suite-web 4.0.5
+    org.grails:grails-gradle-model 4.0.6
+    org.grails:grails-gradle-plugin 4.0.6
+    org.grails:grails-logging 4.0.6
+    org.grails:grails-plugin-codecs 4.0.6
+    org.grails:grails-plugin-controllers 4.0.6
+    org.grails:grails-plugin-databinding 4.0.6
+    org.grails:grails-plugin-datasource 4.0.6
+    org.grails:grails-plugin-domain-class 4.0.6
+    org.grails:grails-plugin-i18n 4.0.6
+    org.grails:grails-plugin-interceptors 4.0.6
+    org.grails:grails-plugin-mimetypes 4.0.6
+    org.grails:grails-plugin-rest 4.0.6
+    org.grails:grails-plugin-services 4.0.6
+    org.grails:grails-plugin-url-mappings 4.0.6
+    org.grails:grails-plugin-validation 4.0.6
+    org.grails:grails-shell 4.0.6
+    org.grails:grails-spring 4.0.6
+    org.grails:grails-test 4.0.6
+    org.grails:grails-test-suite-base 4.0.6
+    org.grails:grails-test-suite-persistence 4.0.6
+    org.grails:grails-test-suite-uber 4.0.6
+    org.grails:grails-test-suite-web 4.0.6
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.5
-    org.grails:grails-web-boot 4.0.5
-    org.grails:grails-web-common 4.0.5
-    org.grails:grails-web-databinding 4.0.5
-    org.grails:grails-web-fileupload 4.0.5
-    org.grails:grails-web-mvc 4.0.5
+    org.grails:grails-web 4.0.6
+    org.grails:grails-web-boot 4.0.6
+    org.grails:grails-web-common 4.0.6
+    org.grails:grails-web-databinding 4.0.6
+    org.grails:grails-web-fileupload 4.0.6
+    org.grails:grails-web-mvc 4.0.6
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.5
+    org.grails:grails-web-url-mappings 4.0.6
     org.grails:scaffolding-core 2.1.0
-    org.grails:views-json-testing-support 2.0.2
+    org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.3
     org.grails.plugins:events 4.0.0
@@ -9349,9 +9349,9 @@ integrationTestRuntime - Dependency management for the integrationTestRuntime co
     org.grails.plugins:rxjava 1.1.1
     org.grails.plugins:rxjava2 2.0.0
     org.grails.plugins:scaffolding 4.0.0.RC1
-    org.grails.plugins:views-json 2.0.2
-    org.grails.plugins:views-json-templates 2.0.2
-    org.grails.plugins:views-markup 2.0.2
+    org.grails.plugins:views-json 2.0.4
+    org.grails.plugins:views-json-templates 2.0.4
+    org.grails.plugins:views-markup 2.0.4
     org.grails.profiles:angular 8.0.1
     org.grails.profiles:base 4.0.3
     org.grails.profiles:plugin 4.0.0
@@ -10064,32 +10064,32 @@ integrationTestRuntimeClasspath - Dependency management for the integrationTestR
     org.aspectj:aspectjweaver 1.9.6
     org.assertj:assertj-core 3.11.1
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.5.6
-    org.codehaus.groovy:groovy-ant 2.5.6
+    org.codehaus.groovy:groovy 2.5.14
+    org.codehaus.groovy:groovy-ant 2.5.14
     org.codehaus.groovy:groovy-bsf 2.5.13
     org.codehaus.groovy:groovy-cli-commons 2.5.13
     org.codehaus.groovy:groovy-cli-picocli 2.5.13
-    org.codehaus.groovy:groovy-console 2.5.6
+    org.codehaus.groovy:groovy-console 2.5.14
     org.codehaus.groovy:groovy-datetime 2.5.13
-    org.codehaus.groovy:groovy-dateutil 2.5.6
+    org.codehaus.groovy:groovy-dateutil 2.5.14
     org.codehaus.groovy:groovy-docgenerator 2.5.13
     org.codehaus.groovy:groovy-groovydoc 2.5.13
     org.codehaus.groovy:groovy-groovysh 2.5.13
     org.codehaus.groovy:groovy-jaxb 2.5.13
     org.codehaus.groovy:groovy-jmx 2.5.13
-    org.codehaus.groovy:groovy-json 2.5.6
+    org.codehaus.groovy:groovy-json 2.5.14
     org.codehaus.groovy:groovy-json-direct 2.5.13
     org.codehaus.groovy:groovy-jsr223 2.5.13
-    org.codehaus.groovy:groovy-macro 2.5.6
-    org.codehaus.groovy:groovy-nio 2.5.6
+    org.codehaus.groovy:groovy-macro 2.5.14
+    org.codehaus.groovy:groovy-nio 2.5.14
     org.codehaus.groovy:groovy-servlet 2.5.13
-    org.codehaus.groovy:groovy-sql 2.5.6
-    org.codehaus.groovy:groovy-swing 2.5.6
-    org.codehaus.groovy:groovy-templates 2.5.6
+    org.codehaus.groovy:groovy-sql 2.5.14
+    org.codehaus.groovy:groovy-swing 2.5.14
+    org.codehaus.groovy:groovy-templates 2.5.14
     org.codehaus.groovy:groovy-test 2.5.13
     org.codehaus.groovy:groovy-test-junit5 2.5.13
     org.codehaus.groovy:groovy-testng 2.5.13
-    org.codehaus.groovy:groovy-xml 2.5.6
+    org.codehaus.groovy:groovy-xml 2.5.14
     org.codehaus.janino:commons-compiler 3.0.16
     org.codehaus.janino:commons-compiler-jdk 3.0.16
     org.codehaus.janino:janino 3.0.16
@@ -10251,11 +10251,11 @@ integrationTestRuntimeClasspath - Dependency management for the integrationTestR
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.5
-    org.grails:grails-codecs 4.0.5
-    org.grails:grails-console 4.0.5
-    org.grails:grails-core 4.0.5
-    org.grails:grails-databinding 4.0.5
+    org.grails:grails-bootstrap 4.0.6
+    org.grails:grails-codecs 4.0.6
+    org.grails:grails-console 4.0.6
+    org.grails:grails-core 4.0.6
+    org.grails:grails-databinding 4.0.6
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -10266,46 +10266,46 @@ integrationTestRuntimeClasspath - Dependency management for the integrationTestR
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.5
-    org.grails:grails-docs 4.0.5
-    org.grails:grails-encoder 4.0.5
+    org.grails:grails-dependencies 4.0.6
+    org.grails:grails-docs 4.0.6
+    org.grails:grails-encoder 4.0.6
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.5
-    org.grails:grails-gradle-plugin 4.0.5
-    org.grails:grails-logging 4.0.5
-    org.grails:grails-plugin-codecs 4.0.5
-    org.grails:grails-plugin-controllers 4.0.5
-    org.grails:grails-plugin-databinding 4.0.5
-    org.grails:grails-plugin-datasource 4.0.5
-    org.grails:grails-plugin-domain-class 4.0.5
-    org.grails:grails-plugin-i18n 4.0.5
-    org.grails:grails-plugin-interceptors 4.0.5
-    org.grails:grails-plugin-mimetypes 4.0.5
-    org.grails:grails-plugin-rest 4.0.5
-    org.grails:grails-plugin-services 4.0.5
-    org.grails:grails-plugin-url-mappings 4.0.5
-    org.grails:grails-plugin-validation 4.0.5
-    org.grails:grails-shell 4.0.5
-    org.grails:grails-spring 4.0.5
-    org.grails:grails-test 4.0.5
-    org.grails:grails-test-suite-base 4.0.5
-    org.grails:grails-test-suite-persistence 4.0.5
-    org.grails:grails-test-suite-uber 4.0.5
-    org.grails:grails-test-suite-web 4.0.5
+    org.grails:grails-gradle-model 4.0.6
+    org.grails:grails-gradle-plugin 4.0.6
+    org.grails:grails-logging 4.0.6
+    org.grails:grails-plugin-codecs 4.0.6
+    org.grails:grails-plugin-controllers 4.0.6
+    org.grails:grails-plugin-databinding 4.0.6
+    org.grails:grails-plugin-datasource 4.0.6
+    org.grails:grails-plugin-domain-class 4.0.6
+    org.grails:grails-plugin-i18n 4.0.6
+    org.grails:grails-plugin-interceptors 4.0.6
+    org.grails:grails-plugin-mimetypes 4.0.6
+    org.grails:grails-plugin-rest 4.0.6
+    org.grails:grails-plugin-services 4.0.6
+    org.grails:grails-plugin-url-mappings 4.0.6
+    org.grails:grails-plugin-validation 4.0.6
+    org.grails:grails-shell 4.0.6
+    org.grails:grails-spring 4.0.6
+    org.grails:grails-test 4.0.6
+    org.grails:grails-test-suite-base 4.0.6
+    org.grails:grails-test-suite-persistence 4.0.6
+    org.grails:grails-test-suite-uber 4.0.6
+    org.grails:grails-test-suite-web 4.0.6
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.5
-    org.grails:grails-web-boot 4.0.5
-    org.grails:grails-web-common 4.0.5
-    org.grails:grails-web-databinding 4.0.5
-    org.grails:grails-web-fileupload 4.0.5
-    org.grails:grails-web-mvc 4.0.5
+    org.grails:grails-web 4.0.6
+    org.grails:grails-web-boot 4.0.6
+    org.grails:grails-web-common 4.0.6
+    org.grails:grails-web-databinding 4.0.6
+    org.grails:grails-web-fileupload 4.0.6
+    org.grails:grails-web-mvc 4.0.6
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.5
+    org.grails:grails-web-url-mappings 4.0.6
     org.grails:scaffolding-core 2.1.0
-    org.grails:views-json-testing-support 2.0.2
+    org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.3
     org.grails.plugins:events 4.0.0
@@ -10318,9 +10318,9 @@ integrationTestRuntimeClasspath - Dependency management for the integrationTestR
     org.grails.plugins:rxjava 1.1.1
     org.grails.plugins:rxjava2 2.0.0
     org.grails.plugins:scaffolding 4.0.0.RC1
-    org.grails.plugins:views-json 2.0.2
-    org.grails.plugins:views-json-templates 2.0.2
-    org.grails.plugins:views-markup 2.0.2
+    org.grails.plugins:views-json 2.0.4
+    org.grails.plugins:views-json-templates 2.0.4
+    org.grails.plugins:views-markup 2.0.4
     org.grails.profiles:angular 8.0.1
     org.grails.profiles:base 4.0.3
     org.grails.profiles:plugin 4.0.0
@@ -11048,32 +11048,32 @@ runtime - Dependency management for the runtime configuration
     org.aspectj:aspectjweaver 1.9.6
     org.assertj:assertj-core 3.11.1
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.5.6
-    org.codehaus.groovy:groovy-ant 2.5.6
+    org.codehaus.groovy:groovy 2.5.14
+    org.codehaus.groovy:groovy-ant 2.5.14
     org.codehaus.groovy:groovy-bsf 2.5.13
     org.codehaus.groovy:groovy-cli-commons 2.5.13
     org.codehaus.groovy:groovy-cli-picocli 2.5.13
-    org.codehaus.groovy:groovy-console 2.5.6
+    org.codehaus.groovy:groovy-console 2.5.14
     org.codehaus.groovy:groovy-datetime 2.5.13
-    org.codehaus.groovy:groovy-dateutil 2.5.6
+    org.codehaus.groovy:groovy-dateutil 2.5.14
     org.codehaus.groovy:groovy-docgenerator 2.5.13
     org.codehaus.groovy:groovy-groovydoc 2.5.13
     org.codehaus.groovy:groovy-groovysh 2.5.13
     org.codehaus.groovy:groovy-jaxb 2.5.13
     org.codehaus.groovy:groovy-jmx 2.5.13
-    org.codehaus.groovy:groovy-json 2.5.6
+    org.codehaus.groovy:groovy-json 2.5.14
     org.codehaus.groovy:groovy-json-direct 2.5.13
     org.codehaus.groovy:groovy-jsr223 2.5.13
-    org.codehaus.groovy:groovy-macro 2.5.6
-    org.codehaus.groovy:groovy-nio 2.5.6
+    org.codehaus.groovy:groovy-macro 2.5.14
+    org.codehaus.groovy:groovy-nio 2.5.14
     org.codehaus.groovy:groovy-servlet 2.5.13
-    org.codehaus.groovy:groovy-sql 2.5.6
-    org.codehaus.groovy:groovy-swing 2.5.6
-    org.codehaus.groovy:groovy-templates 2.5.6
+    org.codehaus.groovy:groovy-sql 2.5.14
+    org.codehaus.groovy:groovy-swing 2.5.14
+    org.codehaus.groovy:groovy-templates 2.5.14
     org.codehaus.groovy:groovy-test 2.5.13
     org.codehaus.groovy:groovy-test-junit5 2.5.13
     org.codehaus.groovy:groovy-testng 2.5.13
-    org.codehaus.groovy:groovy-xml 2.5.6
+    org.codehaus.groovy:groovy-xml 2.5.14
     org.codehaus.janino:commons-compiler 3.0.16
     org.codehaus.janino:commons-compiler-jdk 3.0.16
     org.codehaus.janino:janino 3.0.16
@@ -11235,11 +11235,11 @@ runtime - Dependency management for the runtime configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.5
-    org.grails:grails-codecs 4.0.5
-    org.grails:grails-console 4.0.5
-    org.grails:grails-core 4.0.5
-    org.grails:grails-databinding 4.0.5
+    org.grails:grails-bootstrap 4.0.6
+    org.grails:grails-codecs 4.0.6
+    org.grails:grails-console 4.0.6
+    org.grails:grails-core 4.0.6
+    org.grails:grails-databinding 4.0.6
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -11250,46 +11250,46 @@ runtime - Dependency management for the runtime configuration
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.5
-    org.grails:grails-docs 4.0.5
-    org.grails:grails-encoder 4.0.5
+    org.grails:grails-dependencies 4.0.6
+    org.grails:grails-docs 4.0.6
+    org.grails:grails-encoder 4.0.6
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.5
-    org.grails:grails-gradle-plugin 4.0.5
-    org.grails:grails-logging 4.0.5
-    org.grails:grails-plugin-codecs 4.0.5
-    org.grails:grails-plugin-controllers 4.0.5
-    org.grails:grails-plugin-databinding 4.0.5
-    org.grails:grails-plugin-datasource 4.0.5
-    org.grails:grails-plugin-domain-class 4.0.5
-    org.grails:grails-plugin-i18n 4.0.5
-    org.grails:grails-plugin-interceptors 4.0.5
-    org.grails:grails-plugin-mimetypes 4.0.5
-    org.grails:grails-plugin-rest 4.0.5
-    org.grails:grails-plugin-services 4.0.5
-    org.grails:grails-plugin-url-mappings 4.0.5
-    org.grails:grails-plugin-validation 4.0.5
-    org.grails:grails-shell 4.0.5
-    org.grails:grails-spring 4.0.5
-    org.grails:grails-test 4.0.5
-    org.grails:grails-test-suite-base 4.0.5
-    org.grails:grails-test-suite-persistence 4.0.5
-    org.grails:grails-test-suite-uber 4.0.5
-    org.grails:grails-test-suite-web 4.0.5
+    org.grails:grails-gradle-model 4.0.6
+    org.grails:grails-gradle-plugin 4.0.6
+    org.grails:grails-logging 4.0.6
+    org.grails:grails-plugin-codecs 4.0.6
+    org.grails:grails-plugin-controllers 4.0.6
+    org.grails:grails-plugin-databinding 4.0.6
+    org.grails:grails-plugin-datasource 4.0.6
+    org.grails:grails-plugin-domain-class 4.0.6
+    org.grails:grails-plugin-i18n 4.0.6
+    org.grails:grails-plugin-interceptors 4.0.6
+    org.grails:grails-plugin-mimetypes 4.0.6
+    org.grails:grails-plugin-rest 4.0.6
+    org.grails:grails-plugin-services 4.0.6
+    org.grails:grails-plugin-url-mappings 4.0.6
+    org.grails:grails-plugin-validation 4.0.6
+    org.grails:grails-shell 4.0.6
+    org.grails:grails-spring 4.0.6
+    org.grails:grails-test 4.0.6
+    org.grails:grails-test-suite-base 4.0.6
+    org.grails:grails-test-suite-persistence 4.0.6
+    org.grails:grails-test-suite-uber 4.0.6
+    org.grails:grails-test-suite-web 4.0.6
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.5
-    org.grails:grails-web-boot 4.0.5
-    org.grails:grails-web-common 4.0.5
-    org.grails:grails-web-databinding 4.0.5
-    org.grails:grails-web-fileupload 4.0.5
-    org.grails:grails-web-mvc 4.0.5
+    org.grails:grails-web 4.0.6
+    org.grails:grails-web-boot 4.0.6
+    org.grails:grails-web-common 4.0.6
+    org.grails:grails-web-databinding 4.0.6
+    org.grails:grails-web-fileupload 4.0.6
+    org.grails:grails-web-mvc 4.0.6
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.5
+    org.grails:grails-web-url-mappings 4.0.6
     org.grails:scaffolding-core 2.1.0
-    org.grails:views-json-testing-support 2.0.2
+    org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.3
     org.grails.plugins:events 4.0.0
@@ -11302,9 +11302,9 @@ runtime - Dependency management for the runtime configuration
     org.grails.plugins:rxjava 1.1.1
     org.grails.plugins:rxjava2 2.0.0
     org.grails.plugins:scaffolding 4.0.0.RC1
-    org.grails.plugins:views-json 2.0.2
-    org.grails.plugins:views-json-templates 2.0.2
-    org.grails.plugins:views-markup 2.0.2
+    org.grails.plugins:views-json 2.0.4
+    org.grails.plugins:views-json-templates 2.0.4
+    org.grails.plugins:views-markup 2.0.4
     org.grails.profiles:angular 8.0.1
     org.grails.profiles:base 4.0.3
     org.grails.profiles:plugin 4.0.0
@@ -12017,32 +12017,32 @@ runtimeClasspath - Dependency management for the runtimeClasspath configuration
     org.aspectj:aspectjweaver 1.9.6
     org.assertj:assertj-core 3.11.1
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.5.6
-    org.codehaus.groovy:groovy-ant 2.5.6
+    org.codehaus.groovy:groovy 2.5.14
+    org.codehaus.groovy:groovy-ant 2.5.14
     org.codehaus.groovy:groovy-bsf 2.5.13
     org.codehaus.groovy:groovy-cli-commons 2.5.13
     org.codehaus.groovy:groovy-cli-picocli 2.5.13
-    org.codehaus.groovy:groovy-console 2.5.6
+    org.codehaus.groovy:groovy-console 2.5.14
     org.codehaus.groovy:groovy-datetime 2.5.13
-    org.codehaus.groovy:groovy-dateutil 2.5.6
+    org.codehaus.groovy:groovy-dateutil 2.5.14
     org.codehaus.groovy:groovy-docgenerator 2.5.13
     org.codehaus.groovy:groovy-groovydoc 2.5.13
     org.codehaus.groovy:groovy-groovysh 2.5.13
     org.codehaus.groovy:groovy-jaxb 2.5.13
     org.codehaus.groovy:groovy-jmx 2.5.13
-    org.codehaus.groovy:groovy-json 2.5.6
+    org.codehaus.groovy:groovy-json 2.5.14
     org.codehaus.groovy:groovy-json-direct 2.5.13
     org.codehaus.groovy:groovy-jsr223 2.5.13
-    org.codehaus.groovy:groovy-macro 2.5.6
-    org.codehaus.groovy:groovy-nio 2.5.6
+    org.codehaus.groovy:groovy-macro 2.5.14
+    org.codehaus.groovy:groovy-nio 2.5.14
     org.codehaus.groovy:groovy-servlet 2.5.13
-    org.codehaus.groovy:groovy-sql 2.5.6
-    org.codehaus.groovy:groovy-swing 2.5.6
-    org.codehaus.groovy:groovy-templates 2.5.6
+    org.codehaus.groovy:groovy-sql 2.5.14
+    org.codehaus.groovy:groovy-swing 2.5.14
+    org.codehaus.groovy:groovy-templates 2.5.14
     org.codehaus.groovy:groovy-test 2.5.13
     org.codehaus.groovy:groovy-test-junit5 2.5.13
     org.codehaus.groovy:groovy-testng 2.5.13
-    org.codehaus.groovy:groovy-xml 2.5.6
+    org.codehaus.groovy:groovy-xml 2.5.14
     org.codehaus.janino:commons-compiler 3.0.16
     org.codehaus.janino:commons-compiler-jdk 3.0.16
     org.codehaus.janino:janino 3.0.16
@@ -12204,11 +12204,11 @@ runtimeClasspath - Dependency management for the runtimeClasspath configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.5
-    org.grails:grails-codecs 4.0.5
-    org.grails:grails-console 4.0.5
-    org.grails:grails-core 4.0.5
-    org.grails:grails-databinding 4.0.5
+    org.grails:grails-bootstrap 4.0.6
+    org.grails:grails-codecs 4.0.6
+    org.grails:grails-console 4.0.6
+    org.grails:grails-core 4.0.6
+    org.grails:grails-databinding 4.0.6
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -12219,46 +12219,46 @@ runtimeClasspath - Dependency management for the runtimeClasspath configuration
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.5
-    org.grails:grails-docs 4.0.5
-    org.grails:grails-encoder 4.0.5
+    org.grails:grails-dependencies 4.0.6
+    org.grails:grails-docs 4.0.6
+    org.grails:grails-encoder 4.0.6
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.5
-    org.grails:grails-gradle-plugin 4.0.5
-    org.grails:grails-logging 4.0.5
-    org.grails:grails-plugin-codecs 4.0.5
-    org.grails:grails-plugin-controllers 4.0.5
-    org.grails:grails-plugin-databinding 4.0.5
-    org.grails:grails-plugin-datasource 4.0.5
-    org.grails:grails-plugin-domain-class 4.0.5
-    org.grails:grails-plugin-i18n 4.0.5
-    org.grails:grails-plugin-interceptors 4.0.5
-    org.grails:grails-plugin-mimetypes 4.0.5
-    org.grails:grails-plugin-rest 4.0.5
-    org.grails:grails-plugin-services 4.0.5
-    org.grails:grails-plugin-url-mappings 4.0.5
-    org.grails:grails-plugin-validation 4.0.5
-    org.grails:grails-shell 4.0.5
-    org.grails:grails-spring 4.0.5
-    org.grails:grails-test 4.0.5
-    org.grails:grails-test-suite-base 4.0.5
-    org.grails:grails-test-suite-persistence 4.0.5
-    org.grails:grails-test-suite-uber 4.0.5
-    org.grails:grails-test-suite-web 4.0.5
+    org.grails:grails-gradle-model 4.0.6
+    org.grails:grails-gradle-plugin 4.0.6
+    org.grails:grails-logging 4.0.6
+    org.grails:grails-plugin-codecs 4.0.6
+    org.grails:grails-plugin-controllers 4.0.6
+    org.grails:grails-plugin-databinding 4.0.6
+    org.grails:grails-plugin-datasource 4.0.6
+    org.grails:grails-plugin-domain-class 4.0.6
+    org.grails:grails-plugin-i18n 4.0.6
+    org.grails:grails-plugin-interceptors 4.0.6
+    org.grails:grails-plugin-mimetypes 4.0.6
+    org.grails:grails-plugin-rest 4.0.6
+    org.grails:grails-plugin-services 4.0.6
+    org.grails:grails-plugin-url-mappings 4.0.6
+    org.grails:grails-plugin-validation 4.0.6
+    org.grails:grails-shell 4.0.6
+    org.grails:grails-spring 4.0.6
+    org.grails:grails-test 4.0.6
+    org.grails:grails-test-suite-base 4.0.6
+    org.grails:grails-test-suite-persistence 4.0.6
+    org.grails:grails-test-suite-uber 4.0.6
+    org.grails:grails-test-suite-web 4.0.6
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.5
-    org.grails:grails-web-boot 4.0.5
-    org.grails:grails-web-common 4.0.5
-    org.grails:grails-web-databinding 4.0.5
-    org.grails:grails-web-fileupload 4.0.5
-    org.grails:grails-web-mvc 4.0.5
+    org.grails:grails-web 4.0.6
+    org.grails:grails-web-boot 4.0.6
+    org.grails:grails-web-common 4.0.6
+    org.grails:grails-web-databinding 4.0.6
+    org.grails:grails-web-fileupload 4.0.6
+    org.grails:grails-web-mvc 4.0.6
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.5
+    org.grails:grails-web-url-mappings 4.0.6
     org.grails:scaffolding-core 2.1.0
-    org.grails:views-json-testing-support 2.0.2
+    org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.3
     org.grails.plugins:events 4.0.0
@@ -12271,9 +12271,9 @@ runtimeClasspath - Dependency management for the runtimeClasspath configuration
     org.grails.plugins:rxjava 1.1.1
     org.grails.plugins:rxjava2 2.0.0
     org.grails.plugins:scaffolding 4.0.0.RC1
-    org.grails.plugins:views-json 2.0.2
-    org.grails.plugins:views-json-templates 2.0.2
-    org.grails.plugins:views-markup 2.0.2
+    org.grails.plugins:views-json 2.0.4
+    org.grails.plugins:views-json-templates 2.0.4
+    org.grails.plugins:views-markup 2.0.4
     org.grails.profiles:angular 8.0.1
     org.grails.profiles:base 4.0.3
     org.grails.profiles:plugin 4.0.0
@@ -12986,32 +12986,32 @@ runtimeElements - Dependency management for the runtimeElements configuration
     org.aspectj:aspectjweaver 1.9.6
     org.assertj:assertj-core 3.11.1
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.5.6
-    org.codehaus.groovy:groovy-ant 2.5.6
+    org.codehaus.groovy:groovy 2.5.14
+    org.codehaus.groovy:groovy-ant 2.5.14
     org.codehaus.groovy:groovy-bsf 2.5.13
     org.codehaus.groovy:groovy-cli-commons 2.5.13
     org.codehaus.groovy:groovy-cli-picocli 2.5.13
-    org.codehaus.groovy:groovy-console 2.5.6
+    org.codehaus.groovy:groovy-console 2.5.14
     org.codehaus.groovy:groovy-datetime 2.5.13
-    org.codehaus.groovy:groovy-dateutil 2.5.6
+    org.codehaus.groovy:groovy-dateutil 2.5.14
     org.codehaus.groovy:groovy-docgenerator 2.5.13
     org.codehaus.groovy:groovy-groovydoc 2.5.13
     org.codehaus.groovy:groovy-groovysh 2.5.13
     org.codehaus.groovy:groovy-jaxb 2.5.13
     org.codehaus.groovy:groovy-jmx 2.5.13
-    org.codehaus.groovy:groovy-json 2.5.6
+    org.codehaus.groovy:groovy-json 2.5.14
     org.codehaus.groovy:groovy-json-direct 2.5.13
     org.codehaus.groovy:groovy-jsr223 2.5.13
-    org.codehaus.groovy:groovy-macro 2.5.6
-    org.codehaus.groovy:groovy-nio 2.5.6
+    org.codehaus.groovy:groovy-macro 2.5.14
+    org.codehaus.groovy:groovy-nio 2.5.14
     org.codehaus.groovy:groovy-servlet 2.5.13
-    org.codehaus.groovy:groovy-sql 2.5.6
-    org.codehaus.groovy:groovy-swing 2.5.6
-    org.codehaus.groovy:groovy-templates 2.5.6
+    org.codehaus.groovy:groovy-sql 2.5.14
+    org.codehaus.groovy:groovy-swing 2.5.14
+    org.codehaus.groovy:groovy-templates 2.5.14
     org.codehaus.groovy:groovy-test 2.5.13
     org.codehaus.groovy:groovy-test-junit5 2.5.13
     org.codehaus.groovy:groovy-testng 2.5.13
-    org.codehaus.groovy:groovy-xml 2.5.6
+    org.codehaus.groovy:groovy-xml 2.5.14
     org.codehaus.janino:commons-compiler 3.0.16
     org.codehaus.janino:commons-compiler-jdk 3.0.16
     org.codehaus.janino:janino 3.0.16
@@ -13173,11 +13173,11 @@ runtimeElements - Dependency management for the runtimeElements configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.5
-    org.grails:grails-codecs 4.0.5
-    org.grails:grails-console 4.0.5
-    org.grails:grails-core 4.0.5
-    org.grails:grails-databinding 4.0.5
+    org.grails:grails-bootstrap 4.0.6
+    org.grails:grails-codecs 4.0.6
+    org.grails:grails-console 4.0.6
+    org.grails:grails-core 4.0.6
+    org.grails:grails-databinding 4.0.6
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -13188,46 +13188,46 @@ runtimeElements - Dependency management for the runtimeElements configuration
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.5
-    org.grails:grails-docs 4.0.5
-    org.grails:grails-encoder 4.0.5
+    org.grails:grails-dependencies 4.0.6
+    org.grails:grails-docs 4.0.6
+    org.grails:grails-encoder 4.0.6
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.5
-    org.grails:grails-gradle-plugin 4.0.5
-    org.grails:grails-logging 4.0.5
-    org.grails:grails-plugin-codecs 4.0.5
-    org.grails:grails-plugin-controllers 4.0.5
-    org.grails:grails-plugin-databinding 4.0.5
-    org.grails:grails-plugin-datasource 4.0.5
-    org.grails:grails-plugin-domain-class 4.0.5
-    org.grails:grails-plugin-i18n 4.0.5
-    org.grails:grails-plugin-interceptors 4.0.5
-    org.grails:grails-plugin-mimetypes 4.0.5
-    org.grails:grails-plugin-rest 4.0.5
-    org.grails:grails-plugin-services 4.0.5
-    org.grails:grails-plugin-url-mappings 4.0.5
-    org.grails:grails-plugin-validation 4.0.5
-    org.grails:grails-shell 4.0.5
-    org.grails:grails-spring 4.0.5
-    org.grails:grails-test 4.0.5
-    org.grails:grails-test-suite-base 4.0.5
-    org.grails:grails-test-suite-persistence 4.0.5
-    org.grails:grails-test-suite-uber 4.0.5
-    org.grails:grails-test-suite-web 4.0.5
+    org.grails:grails-gradle-model 4.0.6
+    org.grails:grails-gradle-plugin 4.0.6
+    org.grails:grails-logging 4.0.6
+    org.grails:grails-plugin-codecs 4.0.6
+    org.grails:grails-plugin-controllers 4.0.6
+    org.grails:grails-plugin-databinding 4.0.6
+    org.grails:grails-plugin-datasource 4.0.6
+    org.grails:grails-plugin-domain-class 4.0.6
+    org.grails:grails-plugin-i18n 4.0.6
+    org.grails:grails-plugin-interceptors 4.0.6
+    org.grails:grails-plugin-mimetypes 4.0.6
+    org.grails:grails-plugin-rest 4.0.6
+    org.grails:grails-plugin-services 4.0.6
+    org.grails:grails-plugin-url-mappings 4.0.6
+    org.grails:grails-plugin-validation 4.0.6
+    org.grails:grails-shell 4.0.6
+    org.grails:grails-spring 4.0.6
+    org.grails:grails-test 4.0.6
+    org.grails:grails-test-suite-base 4.0.6
+    org.grails:grails-test-suite-persistence 4.0.6
+    org.grails:grails-test-suite-uber 4.0.6
+    org.grails:grails-test-suite-web 4.0.6
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.5
-    org.grails:grails-web-boot 4.0.5
-    org.grails:grails-web-common 4.0.5
-    org.grails:grails-web-databinding 4.0.5
-    org.grails:grails-web-fileupload 4.0.5
-    org.grails:grails-web-mvc 4.0.5
+    org.grails:grails-web 4.0.6
+    org.grails:grails-web-boot 4.0.6
+    org.grails:grails-web-common 4.0.6
+    org.grails:grails-web-databinding 4.0.6
+    org.grails:grails-web-fileupload 4.0.6
+    org.grails:grails-web-mvc 4.0.6
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.5
+    org.grails:grails-web-url-mappings 4.0.6
     org.grails:scaffolding-core 2.1.0
-    org.grails:views-json-testing-support 2.0.2
+    org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.3
     org.grails.plugins:events 4.0.0
@@ -13240,9 +13240,9 @@ runtimeElements - Dependency management for the runtimeElements configuration
     org.grails.plugins:rxjava 1.1.1
     org.grails.plugins:rxjava2 2.0.0
     org.grails.plugins:scaffolding 4.0.0.RC1
-    org.grails.plugins:views-json 2.0.2
-    org.grails.plugins:views-json-templates 2.0.2
-    org.grails.plugins:views-markup 2.0.2
+    org.grails.plugins:views-json 2.0.4
+    org.grails.plugins:views-json-templates 2.0.4
+    org.grails.plugins:views-markup 2.0.4
     org.grails.profiles:angular 8.0.1
     org.grails.profiles:base 4.0.3
     org.grails.profiles:plugin 4.0.0
@@ -13961,32 +13961,32 @@ testCompile - Dependency management for the testCompile configuration
     org.aspectj:aspectjweaver 1.9.6
     org.assertj:assertj-core 3.11.1
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.5.6
-    org.codehaus.groovy:groovy-ant 2.5.6
+    org.codehaus.groovy:groovy 2.5.14
+    org.codehaus.groovy:groovy-ant 2.5.14
     org.codehaus.groovy:groovy-bsf 2.5.13
     org.codehaus.groovy:groovy-cli-commons 2.5.13
     org.codehaus.groovy:groovy-cli-picocli 2.5.13
-    org.codehaus.groovy:groovy-console 2.5.6
+    org.codehaus.groovy:groovy-console 2.5.14
     org.codehaus.groovy:groovy-datetime 2.5.13
-    org.codehaus.groovy:groovy-dateutil 2.5.6
+    org.codehaus.groovy:groovy-dateutil 2.5.14
     org.codehaus.groovy:groovy-docgenerator 2.5.13
     org.codehaus.groovy:groovy-groovydoc 2.5.13
     org.codehaus.groovy:groovy-groovysh 2.5.13
     org.codehaus.groovy:groovy-jaxb 2.5.13
     org.codehaus.groovy:groovy-jmx 2.5.13
-    org.codehaus.groovy:groovy-json 2.5.6
+    org.codehaus.groovy:groovy-json 2.5.14
     org.codehaus.groovy:groovy-json-direct 2.5.13
     org.codehaus.groovy:groovy-jsr223 2.5.13
-    org.codehaus.groovy:groovy-macro 2.5.6
-    org.codehaus.groovy:groovy-nio 2.5.6
+    org.codehaus.groovy:groovy-macro 2.5.14
+    org.codehaus.groovy:groovy-nio 2.5.14
     org.codehaus.groovy:groovy-servlet 2.5.13
-    org.codehaus.groovy:groovy-sql 2.5.6
-    org.codehaus.groovy:groovy-swing 2.5.6
-    org.codehaus.groovy:groovy-templates 2.5.6
+    org.codehaus.groovy:groovy-sql 2.5.14
+    org.codehaus.groovy:groovy-swing 2.5.14
+    org.codehaus.groovy:groovy-templates 2.5.14
     org.codehaus.groovy:groovy-test 2.5.13
     org.codehaus.groovy:groovy-test-junit5 2.5.13
     org.codehaus.groovy:groovy-testng 2.5.13
-    org.codehaus.groovy:groovy-xml 2.5.6
+    org.codehaus.groovy:groovy-xml 2.5.14
     org.codehaus.janino:commons-compiler 3.0.16
     org.codehaus.janino:commons-compiler-jdk 3.0.16
     org.codehaus.janino:janino 3.0.16
@@ -14147,11 +14147,11 @@ testCompile - Dependency management for the testCompile configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.5
-    org.grails:grails-codecs 4.0.5
-    org.grails:grails-console 4.0.5
-    org.grails:grails-core 4.0.5
-    org.grails:grails-databinding 4.0.5
+    org.grails:grails-bootstrap 4.0.6
+    org.grails:grails-codecs 4.0.6
+    org.grails:grails-console 4.0.6
+    org.grails:grails-core 4.0.6
+    org.grails:grails-databinding 4.0.6
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -14162,46 +14162,46 @@ testCompile - Dependency management for the testCompile configuration
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.5
-    org.grails:grails-docs 4.0.5
-    org.grails:grails-encoder 4.0.5
+    org.grails:grails-dependencies 4.0.6
+    org.grails:grails-docs 4.0.6
+    org.grails:grails-encoder 4.0.6
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.5
-    org.grails:grails-gradle-plugin 4.0.5
-    org.grails:grails-logging 4.0.5
-    org.grails:grails-plugin-codecs 4.0.5
-    org.grails:grails-plugin-controllers 4.0.5
-    org.grails:grails-plugin-databinding 4.0.5
-    org.grails:grails-plugin-datasource 4.0.5
-    org.grails:grails-plugin-domain-class 4.0.5
-    org.grails:grails-plugin-i18n 4.0.5
-    org.grails:grails-plugin-interceptors 4.0.5
-    org.grails:grails-plugin-mimetypes 4.0.5
-    org.grails:grails-plugin-rest 4.0.5
-    org.grails:grails-plugin-services 4.0.5
-    org.grails:grails-plugin-url-mappings 4.0.5
-    org.grails:grails-plugin-validation 4.0.5
-    org.grails:grails-shell 4.0.5
-    org.grails:grails-spring 4.0.5
-    org.grails:grails-test 4.0.5
-    org.grails:grails-test-suite-base 4.0.5
-    org.grails:grails-test-suite-persistence 4.0.5
-    org.grails:grails-test-suite-uber 4.0.5
-    org.grails:grails-test-suite-web 4.0.5
+    org.grails:grails-gradle-model 4.0.6
+    org.grails:grails-gradle-plugin 4.0.6
+    org.grails:grails-logging 4.0.6
+    org.grails:grails-plugin-codecs 4.0.6
+    org.grails:grails-plugin-controllers 4.0.6
+    org.grails:grails-plugin-databinding 4.0.6
+    org.grails:grails-plugin-datasource 4.0.6
+    org.grails:grails-plugin-domain-class 4.0.6
+    org.grails:grails-plugin-i18n 4.0.6
+    org.grails:grails-plugin-interceptors 4.0.6
+    org.grails:grails-plugin-mimetypes 4.0.6
+    org.grails:grails-plugin-rest 4.0.6
+    org.grails:grails-plugin-services 4.0.6
+    org.grails:grails-plugin-url-mappings 4.0.6
+    org.grails:grails-plugin-validation 4.0.6
+    org.grails:grails-shell 4.0.6
+    org.grails:grails-spring 4.0.6
+    org.grails:grails-test 4.0.6
+    org.grails:grails-test-suite-base 4.0.6
+    org.grails:grails-test-suite-persistence 4.0.6
+    org.grails:grails-test-suite-uber 4.0.6
+    org.grails:grails-test-suite-web 4.0.6
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.5
-    org.grails:grails-web-boot 4.0.5
-    org.grails:grails-web-common 4.0.5
-    org.grails:grails-web-databinding 4.0.5
-    org.grails:grails-web-fileupload 4.0.5
-    org.grails:grails-web-mvc 4.0.5
+    org.grails:grails-web 4.0.6
+    org.grails:grails-web-boot 4.0.6
+    org.grails:grails-web-common 4.0.6
+    org.grails:grails-web-databinding 4.0.6
+    org.grails:grails-web-fileupload 4.0.6
+    org.grails:grails-web-mvc 4.0.6
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.5
+    org.grails:grails-web-url-mappings 4.0.6
     org.grails:scaffolding-core 2.1.0
-    org.grails:views-json-testing-support 2.0.2
+    org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.3
     org.grails.plugins:events 4.0.0
@@ -14214,9 +14214,9 @@ testCompile - Dependency management for the testCompile configuration
     org.grails.plugins:rxjava 1.1.1
     org.grails.plugins:rxjava2 2.0.0
     org.grails.plugins:scaffolding 4.0.0.RC1
-    org.grails.plugins:views-json 2.0.2
-    org.grails.plugins:views-json-templates 2.0.2
-    org.grails.plugins:views-markup 2.0.2
+    org.grails.plugins:views-json 2.0.4
+    org.grails.plugins:views-json-templates 2.0.4
+    org.grails.plugins:views-markup 2.0.4
     org.grails.profiles:angular 8.0.1
     org.grails.profiles:base 4.0.3
     org.grails.profiles:plugin 4.0.0
@@ -14929,32 +14929,32 @@ testCompileClasspath - Dependency management for the testCompileClasspath config
     org.aspectj:aspectjweaver 1.9.6
     org.assertj:assertj-core 3.11.1
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.5.6
-    org.codehaus.groovy:groovy-ant 2.5.6
+    org.codehaus.groovy:groovy 2.5.14
+    org.codehaus.groovy:groovy-ant 2.5.14
     org.codehaus.groovy:groovy-bsf 2.5.13
     org.codehaus.groovy:groovy-cli-commons 2.5.13
     org.codehaus.groovy:groovy-cli-picocli 2.5.13
-    org.codehaus.groovy:groovy-console 2.5.6
+    org.codehaus.groovy:groovy-console 2.5.14
     org.codehaus.groovy:groovy-datetime 2.5.13
-    org.codehaus.groovy:groovy-dateutil 2.5.6
+    org.codehaus.groovy:groovy-dateutil 2.5.14
     org.codehaus.groovy:groovy-docgenerator 2.5.13
     org.codehaus.groovy:groovy-groovydoc 2.5.13
     org.codehaus.groovy:groovy-groovysh 2.5.13
     org.codehaus.groovy:groovy-jaxb 2.5.13
     org.codehaus.groovy:groovy-jmx 2.5.13
-    org.codehaus.groovy:groovy-json 2.5.6
+    org.codehaus.groovy:groovy-json 2.5.14
     org.codehaus.groovy:groovy-json-direct 2.5.13
     org.codehaus.groovy:groovy-jsr223 2.5.13
-    org.codehaus.groovy:groovy-macro 2.5.6
-    org.codehaus.groovy:groovy-nio 2.5.6
+    org.codehaus.groovy:groovy-macro 2.5.14
+    org.codehaus.groovy:groovy-nio 2.5.14
     org.codehaus.groovy:groovy-servlet 2.5.13
-    org.codehaus.groovy:groovy-sql 2.5.6
-    org.codehaus.groovy:groovy-swing 2.5.6
-    org.codehaus.groovy:groovy-templates 2.5.6
+    org.codehaus.groovy:groovy-sql 2.5.14
+    org.codehaus.groovy:groovy-swing 2.5.14
+    org.codehaus.groovy:groovy-templates 2.5.14
     org.codehaus.groovy:groovy-test 2.5.13
     org.codehaus.groovy:groovy-test-junit5 2.5.13
     org.codehaus.groovy:groovy-testng 2.5.13
-    org.codehaus.groovy:groovy-xml 2.5.6
+    org.codehaus.groovy:groovy-xml 2.5.14
     org.codehaus.janino:commons-compiler 3.0.16
     org.codehaus.janino:commons-compiler-jdk 3.0.16
     org.codehaus.janino:janino 3.0.16
@@ -15115,11 +15115,11 @@ testCompileClasspath - Dependency management for the testCompileClasspath config
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.5
-    org.grails:grails-codecs 4.0.5
-    org.grails:grails-console 4.0.5
-    org.grails:grails-core 4.0.5
-    org.grails:grails-databinding 4.0.5
+    org.grails:grails-bootstrap 4.0.6
+    org.grails:grails-codecs 4.0.6
+    org.grails:grails-console 4.0.6
+    org.grails:grails-core 4.0.6
+    org.grails:grails-databinding 4.0.6
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -15130,46 +15130,46 @@ testCompileClasspath - Dependency management for the testCompileClasspath config
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.5
-    org.grails:grails-docs 4.0.5
-    org.grails:grails-encoder 4.0.5
+    org.grails:grails-dependencies 4.0.6
+    org.grails:grails-docs 4.0.6
+    org.grails:grails-encoder 4.0.6
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.5
-    org.grails:grails-gradle-plugin 4.0.5
-    org.grails:grails-logging 4.0.5
-    org.grails:grails-plugin-codecs 4.0.5
-    org.grails:grails-plugin-controllers 4.0.5
-    org.grails:grails-plugin-databinding 4.0.5
-    org.grails:grails-plugin-datasource 4.0.5
-    org.grails:grails-plugin-domain-class 4.0.5
-    org.grails:grails-plugin-i18n 4.0.5
-    org.grails:grails-plugin-interceptors 4.0.5
-    org.grails:grails-plugin-mimetypes 4.0.5
-    org.grails:grails-plugin-rest 4.0.5
-    org.grails:grails-plugin-services 4.0.5
-    org.grails:grails-plugin-url-mappings 4.0.5
-    org.grails:grails-plugin-validation 4.0.5
-    org.grails:grails-shell 4.0.5
-    org.grails:grails-spring 4.0.5
-    org.grails:grails-test 4.0.5
-    org.grails:grails-test-suite-base 4.0.5
-    org.grails:grails-test-suite-persistence 4.0.5
-    org.grails:grails-test-suite-uber 4.0.5
-    org.grails:grails-test-suite-web 4.0.5
+    org.grails:grails-gradle-model 4.0.6
+    org.grails:grails-gradle-plugin 4.0.6
+    org.grails:grails-logging 4.0.6
+    org.grails:grails-plugin-codecs 4.0.6
+    org.grails:grails-plugin-controllers 4.0.6
+    org.grails:grails-plugin-databinding 4.0.6
+    org.grails:grails-plugin-datasource 4.0.6
+    org.grails:grails-plugin-domain-class 4.0.6
+    org.grails:grails-plugin-i18n 4.0.6
+    org.grails:grails-plugin-interceptors 4.0.6
+    org.grails:grails-plugin-mimetypes 4.0.6
+    org.grails:grails-plugin-rest 4.0.6
+    org.grails:grails-plugin-services 4.0.6
+    org.grails:grails-plugin-url-mappings 4.0.6
+    org.grails:grails-plugin-validation 4.0.6
+    org.grails:grails-shell 4.0.6
+    org.grails:grails-spring 4.0.6
+    org.grails:grails-test 4.0.6
+    org.grails:grails-test-suite-base 4.0.6
+    org.grails:grails-test-suite-persistence 4.0.6
+    org.grails:grails-test-suite-uber 4.0.6
+    org.grails:grails-test-suite-web 4.0.6
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.5
-    org.grails:grails-web-boot 4.0.5
-    org.grails:grails-web-common 4.0.5
-    org.grails:grails-web-databinding 4.0.5
-    org.grails:grails-web-fileupload 4.0.5
-    org.grails:grails-web-mvc 4.0.5
+    org.grails:grails-web 4.0.6
+    org.grails:grails-web-boot 4.0.6
+    org.grails:grails-web-common 4.0.6
+    org.grails:grails-web-databinding 4.0.6
+    org.grails:grails-web-fileupload 4.0.6
+    org.grails:grails-web-mvc 4.0.6
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.5
+    org.grails:grails-web-url-mappings 4.0.6
     org.grails:scaffolding-core 2.1.0
-    org.grails:views-json-testing-support 2.0.2
+    org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.3
     org.grails.plugins:events 4.0.0
@@ -15182,9 +15182,9 @@ testCompileClasspath - Dependency management for the testCompileClasspath config
     org.grails.plugins:rxjava 1.1.1
     org.grails.plugins:rxjava2 2.0.0
     org.grails.plugins:scaffolding 4.0.0.RC1
-    org.grails.plugins:views-json 2.0.2
-    org.grails.plugins:views-json-templates 2.0.2
-    org.grails.plugins:views-markup 2.0.2
+    org.grails.plugins:views-json 2.0.4
+    org.grails.plugins:views-json-templates 2.0.4
+    org.grails.plugins:views-markup 2.0.4
     org.grails.profiles:angular 8.0.1
     org.grails.profiles:base 4.0.3
     org.grails.profiles:plugin 4.0.0
@@ -15900,32 +15900,32 @@ testImplementation - Dependency management for the testImplementation configurat
     org.aspectj:aspectjweaver 1.9.6
     org.assertj:assertj-core 3.11.1
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.5.6
-    org.codehaus.groovy:groovy-ant 2.5.6
+    org.codehaus.groovy:groovy 2.5.14
+    org.codehaus.groovy:groovy-ant 2.5.14
     org.codehaus.groovy:groovy-bsf 2.5.13
     org.codehaus.groovy:groovy-cli-commons 2.5.13
     org.codehaus.groovy:groovy-cli-picocli 2.5.13
-    org.codehaus.groovy:groovy-console 2.5.6
+    org.codehaus.groovy:groovy-console 2.5.14
     org.codehaus.groovy:groovy-datetime 2.5.13
-    org.codehaus.groovy:groovy-dateutil 2.5.6
+    org.codehaus.groovy:groovy-dateutil 2.5.14
     org.codehaus.groovy:groovy-docgenerator 2.5.13
     org.codehaus.groovy:groovy-groovydoc 2.5.13
     org.codehaus.groovy:groovy-groovysh 2.5.13
     org.codehaus.groovy:groovy-jaxb 2.5.13
     org.codehaus.groovy:groovy-jmx 2.5.13
-    org.codehaus.groovy:groovy-json 2.5.6
+    org.codehaus.groovy:groovy-json 2.5.14
     org.codehaus.groovy:groovy-json-direct 2.5.13
     org.codehaus.groovy:groovy-jsr223 2.5.13
-    org.codehaus.groovy:groovy-macro 2.5.6
-    org.codehaus.groovy:groovy-nio 2.5.6
+    org.codehaus.groovy:groovy-macro 2.5.14
+    org.codehaus.groovy:groovy-nio 2.5.14
     org.codehaus.groovy:groovy-servlet 2.5.13
-    org.codehaus.groovy:groovy-sql 2.5.6
-    org.codehaus.groovy:groovy-swing 2.5.6
-    org.codehaus.groovy:groovy-templates 2.5.6
+    org.codehaus.groovy:groovy-sql 2.5.14
+    org.codehaus.groovy:groovy-swing 2.5.14
+    org.codehaus.groovy:groovy-templates 2.5.14
     org.codehaus.groovy:groovy-test 2.5.13
     org.codehaus.groovy:groovy-test-junit5 2.5.13
     org.codehaus.groovy:groovy-testng 2.5.13
-    org.codehaus.groovy:groovy-xml 2.5.6
+    org.codehaus.groovy:groovy-xml 2.5.14
     org.codehaus.janino:commons-compiler 3.0.16
     org.codehaus.janino:commons-compiler-jdk 3.0.16
     org.codehaus.janino:janino 3.0.16
@@ -16086,11 +16086,11 @@ testImplementation - Dependency management for the testImplementation configurat
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.5
-    org.grails:grails-codecs 4.0.5
-    org.grails:grails-console 4.0.5
-    org.grails:grails-core 4.0.5
-    org.grails:grails-databinding 4.0.5
+    org.grails:grails-bootstrap 4.0.6
+    org.grails:grails-codecs 4.0.6
+    org.grails:grails-console 4.0.6
+    org.grails:grails-core 4.0.6
+    org.grails:grails-databinding 4.0.6
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -16101,46 +16101,46 @@ testImplementation - Dependency management for the testImplementation configurat
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.5
-    org.grails:grails-docs 4.0.5
-    org.grails:grails-encoder 4.0.5
+    org.grails:grails-dependencies 4.0.6
+    org.grails:grails-docs 4.0.6
+    org.grails:grails-encoder 4.0.6
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.5
-    org.grails:grails-gradle-plugin 4.0.5
-    org.grails:grails-logging 4.0.5
-    org.grails:grails-plugin-codecs 4.0.5
-    org.grails:grails-plugin-controllers 4.0.5
-    org.grails:grails-plugin-databinding 4.0.5
-    org.grails:grails-plugin-datasource 4.0.5
-    org.grails:grails-plugin-domain-class 4.0.5
-    org.grails:grails-plugin-i18n 4.0.5
-    org.grails:grails-plugin-interceptors 4.0.5
-    org.grails:grails-plugin-mimetypes 4.0.5
-    org.grails:grails-plugin-rest 4.0.5
-    org.grails:grails-plugin-services 4.0.5
-    org.grails:grails-plugin-url-mappings 4.0.5
-    org.grails:grails-plugin-validation 4.0.5
-    org.grails:grails-shell 4.0.5
-    org.grails:grails-spring 4.0.5
-    org.grails:grails-test 4.0.5
-    org.grails:grails-test-suite-base 4.0.5
-    org.grails:grails-test-suite-persistence 4.0.5
-    org.grails:grails-test-suite-uber 4.0.5
-    org.grails:grails-test-suite-web 4.0.5
+    org.grails:grails-gradle-model 4.0.6
+    org.grails:grails-gradle-plugin 4.0.6
+    org.grails:grails-logging 4.0.6
+    org.grails:grails-plugin-codecs 4.0.6
+    org.grails:grails-plugin-controllers 4.0.6
+    org.grails:grails-plugin-databinding 4.0.6
+    org.grails:grails-plugin-datasource 4.0.6
+    org.grails:grails-plugin-domain-class 4.0.6
+    org.grails:grails-plugin-i18n 4.0.6
+    org.grails:grails-plugin-interceptors 4.0.6
+    org.grails:grails-plugin-mimetypes 4.0.6
+    org.grails:grails-plugin-rest 4.0.6
+    org.grails:grails-plugin-services 4.0.6
+    org.grails:grails-plugin-url-mappings 4.0.6
+    org.grails:grails-plugin-validation 4.0.6
+    org.grails:grails-shell 4.0.6
+    org.grails:grails-spring 4.0.6
+    org.grails:grails-test 4.0.6
+    org.grails:grails-test-suite-base 4.0.6
+    org.grails:grails-test-suite-persistence 4.0.6
+    org.grails:grails-test-suite-uber 4.0.6
+    org.grails:grails-test-suite-web 4.0.6
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.5
-    org.grails:grails-web-boot 4.0.5
-    org.grails:grails-web-common 4.0.5
-    org.grails:grails-web-databinding 4.0.5
-    org.grails:grails-web-fileupload 4.0.5
-    org.grails:grails-web-mvc 4.0.5
+    org.grails:grails-web 4.0.6
+    org.grails:grails-web-boot 4.0.6
+    org.grails:grails-web-common 4.0.6
+    org.grails:grails-web-databinding 4.0.6
+    org.grails:grails-web-fileupload 4.0.6
+    org.grails:grails-web-mvc 4.0.6
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.5
+    org.grails:grails-web-url-mappings 4.0.6
     org.grails:scaffolding-core 2.1.0
-    org.grails:views-json-testing-support 2.0.2
+    org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.3
     org.grails.plugins:events 4.0.0
@@ -16153,9 +16153,9 @@ testImplementation - Dependency management for the testImplementation configurat
     org.grails.plugins:rxjava 1.1.1
     org.grails.plugins:rxjava2 2.0.0
     org.grails.plugins:scaffolding 4.0.0.RC1
-    org.grails.plugins:views-json 2.0.2
-    org.grails.plugins:views-json-templates 2.0.2
-    org.grails.plugins:views-markup 2.0.2
+    org.grails.plugins:views-json 2.0.4
+    org.grails.plugins:views-json-templates 2.0.4
+    org.grails.plugins:views-markup 2.0.4
     org.grails.profiles:angular 8.0.1
     org.grails.profiles:base 4.0.3
     org.grails.profiles:plugin 4.0.0
@@ -16868,32 +16868,32 @@ testRuntime - Dependency management for the testRuntime configuration
     org.aspectj:aspectjweaver 1.9.6
     org.assertj:assertj-core 3.11.1
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.5.6
-    org.codehaus.groovy:groovy-ant 2.5.6
+    org.codehaus.groovy:groovy 2.5.14
+    org.codehaus.groovy:groovy-ant 2.5.14
     org.codehaus.groovy:groovy-bsf 2.5.13
     org.codehaus.groovy:groovy-cli-commons 2.5.13
     org.codehaus.groovy:groovy-cli-picocli 2.5.13
-    org.codehaus.groovy:groovy-console 2.5.6
+    org.codehaus.groovy:groovy-console 2.5.14
     org.codehaus.groovy:groovy-datetime 2.5.13
-    org.codehaus.groovy:groovy-dateutil 2.5.6
+    org.codehaus.groovy:groovy-dateutil 2.5.14
     org.codehaus.groovy:groovy-docgenerator 2.5.13
     org.codehaus.groovy:groovy-groovydoc 2.5.13
     org.codehaus.groovy:groovy-groovysh 2.5.13
     org.codehaus.groovy:groovy-jaxb 2.5.13
     org.codehaus.groovy:groovy-jmx 2.5.13
-    org.codehaus.groovy:groovy-json 2.5.6
+    org.codehaus.groovy:groovy-json 2.5.14
     org.codehaus.groovy:groovy-json-direct 2.5.13
     org.codehaus.groovy:groovy-jsr223 2.5.13
-    org.codehaus.groovy:groovy-macro 2.5.6
-    org.codehaus.groovy:groovy-nio 2.5.6
+    org.codehaus.groovy:groovy-macro 2.5.14
+    org.codehaus.groovy:groovy-nio 2.5.14
     org.codehaus.groovy:groovy-servlet 2.5.13
-    org.codehaus.groovy:groovy-sql 2.5.6
-    org.codehaus.groovy:groovy-swing 2.5.6
-    org.codehaus.groovy:groovy-templates 2.5.6
+    org.codehaus.groovy:groovy-sql 2.5.14
+    org.codehaus.groovy:groovy-swing 2.5.14
+    org.codehaus.groovy:groovy-templates 2.5.14
     org.codehaus.groovy:groovy-test 2.5.13
     org.codehaus.groovy:groovy-test-junit5 2.5.13
     org.codehaus.groovy:groovy-testng 2.5.13
-    org.codehaus.groovy:groovy-xml 2.5.6
+    org.codehaus.groovy:groovy-xml 2.5.14
     org.codehaus.janino:commons-compiler 3.0.16
     org.codehaus.janino:commons-compiler-jdk 3.0.16
     org.codehaus.janino:janino 3.0.16
@@ -17055,11 +17055,11 @@ testRuntime - Dependency management for the testRuntime configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.5
-    org.grails:grails-codecs 4.0.5
-    org.grails:grails-console 4.0.5
-    org.grails:grails-core 4.0.5
-    org.grails:grails-databinding 4.0.5
+    org.grails:grails-bootstrap 4.0.6
+    org.grails:grails-codecs 4.0.6
+    org.grails:grails-console 4.0.6
+    org.grails:grails-core 4.0.6
+    org.grails:grails-databinding 4.0.6
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -17070,46 +17070,46 @@ testRuntime - Dependency management for the testRuntime configuration
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.5
-    org.grails:grails-docs 4.0.5
-    org.grails:grails-encoder 4.0.5
+    org.grails:grails-dependencies 4.0.6
+    org.grails:grails-docs 4.0.6
+    org.grails:grails-encoder 4.0.6
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.5
-    org.grails:grails-gradle-plugin 4.0.5
-    org.grails:grails-logging 4.0.5
-    org.grails:grails-plugin-codecs 4.0.5
-    org.grails:grails-plugin-controllers 4.0.5
-    org.grails:grails-plugin-databinding 4.0.5
-    org.grails:grails-plugin-datasource 4.0.5
-    org.grails:grails-plugin-domain-class 4.0.5
-    org.grails:grails-plugin-i18n 4.0.5
-    org.grails:grails-plugin-interceptors 4.0.5
-    org.grails:grails-plugin-mimetypes 4.0.5
-    org.grails:grails-plugin-rest 4.0.5
-    org.grails:grails-plugin-services 4.0.5
-    org.grails:grails-plugin-url-mappings 4.0.5
-    org.grails:grails-plugin-validation 4.0.5
-    org.grails:grails-shell 4.0.5
-    org.grails:grails-spring 4.0.5
-    org.grails:grails-test 4.0.5
-    org.grails:grails-test-suite-base 4.0.5
-    org.grails:grails-test-suite-persistence 4.0.5
-    org.grails:grails-test-suite-uber 4.0.5
-    org.grails:grails-test-suite-web 4.0.5
+    org.grails:grails-gradle-model 4.0.6
+    org.grails:grails-gradle-plugin 4.0.6
+    org.grails:grails-logging 4.0.6
+    org.grails:grails-plugin-codecs 4.0.6
+    org.grails:grails-plugin-controllers 4.0.6
+    org.grails:grails-plugin-databinding 4.0.6
+    org.grails:grails-plugin-datasource 4.0.6
+    org.grails:grails-plugin-domain-class 4.0.6
+    org.grails:grails-plugin-i18n 4.0.6
+    org.grails:grails-plugin-interceptors 4.0.6
+    org.grails:grails-plugin-mimetypes 4.0.6
+    org.grails:grails-plugin-rest 4.0.6
+    org.grails:grails-plugin-services 4.0.6
+    org.grails:grails-plugin-url-mappings 4.0.6
+    org.grails:grails-plugin-validation 4.0.6
+    org.grails:grails-shell 4.0.6
+    org.grails:grails-spring 4.0.6
+    org.grails:grails-test 4.0.6
+    org.grails:grails-test-suite-base 4.0.6
+    org.grails:grails-test-suite-persistence 4.0.6
+    org.grails:grails-test-suite-uber 4.0.6
+    org.grails:grails-test-suite-web 4.0.6
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.5
-    org.grails:grails-web-boot 4.0.5
-    org.grails:grails-web-common 4.0.5
-    org.grails:grails-web-databinding 4.0.5
-    org.grails:grails-web-fileupload 4.0.5
-    org.grails:grails-web-mvc 4.0.5
+    org.grails:grails-web 4.0.6
+    org.grails:grails-web-boot 4.0.6
+    org.grails:grails-web-common 4.0.6
+    org.grails:grails-web-databinding 4.0.6
+    org.grails:grails-web-fileupload 4.0.6
+    org.grails:grails-web-mvc 4.0.6
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.5
+    org.grails:grails-web-url-mappings 4.0.6
     org.grails:scaffolding-core 2.1.0
-    org.grails:views-json-testing-support 2.0.2
+    org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.3
     org.grails.plugins:events 4.0.0
@@ -17122,9 +17122,9 @@ testRuntime - Dependency management for the testRuntime configuration
     org.grails.plugins:rxjava 1.1.1
     org.grails.plugins:rxjava2 2.0.0
     org.grails.plugins:scaffolding 4.0.0.RC1
-    org.grails.plugins:views-json 2.0.2
-    org.grails.plugins:views-json-templates 2.0.2
-    org.grails.plugins:views-markup 2.0.2
+    org.grails.plugins:views-json 2.0.4
+    org.grails.plugins:views-json-templates 2.0.4
+    org.grails.plugins:views-markup 2.0.4
     org.grails.profiles:angular 8.0.1
     org.grails.profiles:base 4.0.3
     org.grails.profiles:plugin 4.0.0
@@ -17837,32 +17837,32 @@ testRuntimeClasspath - Dependency management for the testRuntimeClasspath config
     org.aspectj:aspectjweaver 1.9.6
     org.assertj:assertj-core 3.11.1
     org.codehaus.btm:btm 2.1.4
-    org.codehaus.groovy:groovy 2.5.6
-    org.codehaus.groovy:groovy-ant 2.5.6
+    org.codehaus.groovy:groovy 2.5.14
+    org.codehaus.groovy:groovy-ant 2.5.14
     org.codehaus.groovy:groovy-bsf 2.5.13
     org.codehaus.groovy:groovy-cli-commons 2.5.13
     org.codehaus.groovy:groovy-cli-picocli 2.5.13
-    org.codehaus.groovy:groovy-console 2.5.6
+    org.codehaus.groovy:groovy-console 2.5.14
     org.codehaus.groovy:groovy-datetime 2.5.13
-    org.codehaus.groovy:groovy-dateutil 2.5.6
+    org.codehaus.groovy:groovy-dateutil 2.5.14
     org.codehaus.groovy:groovy-docgenerator 2.5.13
     org.codehaus.groovy:groovy-groovydoc 2.5.13
     org.codehaus.groovy:groovy-groovysh 2.5.13
     org.codehaus.groovy:groovy-jaxb 2.5.13
     org.codehaus.groovy:groovy-jmx 2.5.13
-    org.codehaus.groovy:groovy-json 2.5.6
+    org.codehaus.groovy:groovy-json 2.5.14
     org.codehaus.groovy:groovy-json-direct 2.5.13
     org.codehaus.groovy:groovy-jsr223 2.5.13
-    org.codehaus.groovy:groovy-macro 2.5.6
-    org.codehaus.groovy:groovy-nio 2.5.6
+    org.codehaus.groovy:groovy-macro 2.5.14
+    org.codehaus.groovy:groovy-nio 2.5.14
     org.codehaus.groovy:groovy-servlet 2.5.13
-    org.codehaus.groovy:groovy-sql 2.5.6
-    org.codehaus.groovy:groovy-swing 2.5.6
-    org.codehaus.groovy:groovy-templates 2.5.6
+    org.codehaus.groovy:groovy-sql 2.5.14
+    org.codehaus.groovy:groovy-swing 2.5.14
+    org.codehaus.groovy:groovy-templates 2.5.14
     org.codehaus.groovy:groovy-test 2.5.13
     org.codehaus.groovy:groovy-test-junit5 2.5.13
     org.codehaus.groovy:groovy-testng 2.5.13
-    org.codehaus.groovy:groovy-xml 2.5.6
+    org.codehaus.groovy:groovy-xml 2.5.14
     org.codehaus.janino:commons-compiler 3.0.16
     org.codehaus.janino:commons-compiler-jdk 3.0.16
     org.codehaus.janino:janino 3.0.16
@@ -18024,11 +18024,11 @@ testRuntimeClasspath - Dependency management for the testRuntimeClasspath config
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.5
-    org.grails:grails-codecs 4.0.5
-    org.grails:grails-console 4.0.5
-    org.grails:grails-core 4.0.5
-    org.grails:grails-databinding 4.0.5
+    org.grails:grails-bootstrap 4.0.6
+    org.grails:grails-codecs 4.0.6
+    org.grails:grails-console 4.0.6
+    org.grails:grails-core 4.0.6
+    org.grails:grails-databinding 4.0.6
     org.grails:grails-datastore-async 7.0.8.RELEASE
     org.grails:grails-datastore-core 7.0.8.RELEASE
     org.grails:grails-datastore-gorm 7.0.8.RELEASE
@@ -18039,46 +18039,46 @@ testRuntimeClasspath - Dependency management for the testRuntimeClasspath config
     org.grails:grails-datastore-gorm-test 7.0.8.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.8.RELEASE
     org.grails:grails-datastore-web 7.0.8.RELEASE
-    org.grails:grails-dependencies 4.0.5
-    org.grails:grails-docs 4.0.5
-    org.grails:grails-encoder 4.0.5
+    org.grails:grails-dependencies 4.0.6
+    org.grails:grails-docs 4.0.6
+    org.grails:grails-encoder 4.0.6
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.1.2
-    org.grails:grails-gradle-model 4.0.5
-    org.grails:grails-gradle-plugin 4.0.5
-    org.grails:grails-logging 4.0.5
-    org.grails:grails-plugin-codecs 4.0.5
-    org.grails:grails-plugin-controllers 4.0.5
-    org.grails:grails-plugin-databinding 4.0.5
-    org.grails:grails-plugin-datasource 4.0.5
-    org.grails:grails-plugin-domain-class 4.0.5
-    org.grails:grails-plugin-i18n 4.0.5
-    org.grails:grails-plugin-interceptors 4.0.5
-    org.grails:grails-plugin-mimetypes 4.0.5
-    org.grails:grails-plugin-rest 4.0.5
-    org.grails:grails-plugin-services 4.0.5
-    org.grails:grails-plugin-url-mappings 4.0.5
-    org.grails:grails-plugin-validation 4.0.5
-    org.grails:grails-shell 4.0.5
-    org.grails:grails-spring 4.0.5
-    org.grails:grails-test 4.0.5
-    org.grails:grails-test-suite-base 4.0.5
-    org.grails:grails-test-suite-persistence 4.0.5
-    org.grails:grails-test-suite-uber 4.0.5
-    org.grails:grails-test-suite-web 4.0.5
+    org.grails:grails-gradle-model 4.0.6
+    org.grails:grails-gradle-plugin 4.0.6
+    org.grails:grails-logging 4.0.6
+    org.grails:grails-plugin-codecs 4.0.6
+    org.grails:grails-plugin-controllers 4.0.6
+    org.grails:grails-plugin-databinding 4.0.6
+    org.grails:grails-plugin-datasource 4.0.6
+    org.grails:grails-plugin-domain-class 4.0.6
+    org.grails:grails-plugin-i18n 4.0.6
+    org.grails:grails-plugin-interceptors 4.0.6
+    org.grails:grails-plugin-mimetypes 4.0.6
+    org.grails:grails-plugin-rest 4.0.6
+    org.grails:grails-plugin-services 4.0.6
+    org.grails:grails-plugin-url-mappings 4.0.6
+    org.grails:grails-plugin-validation 4.0.6
+    org.grails:grails-shell 4.0.6
+    org.grails:grails-spring 4.0.6
+    org.grails:grails-test 4.0.6
+    org.grails:grails-test-suite-base 4.0.6
+    org.grails:grails-test-suite-persistence 4.0.6
+    org.grails:grails-test-suite-uber 4.0.6
+    org.grails:grails-test-suite-web 4.0.6
     org.grails:grails-testing-support 2.1.2
-    org.grails:grails-web 4.0.5
-    org.grails:grails-web-boot 4.0.5
-    org.grails:grails-web-common 4.0.5
-    org.grails:grails-web-databinding 4.0.5
-    org.grails:grails-web-fileupload 4.0.5
-    org.grails:grails-web-mvc 4.0.5
+    org.grails:grails-web 4.0.6
+    org.grails:grails-web-boot 4.0.6
+    org.grails:grails-web-common 4.0.6
+    org.grails:grails-web-databinding 4.0.6
+    org.grails:grails-web-fileupload 4.0.6
+    org.grails:grails-web-mvc 4.0.6
     org.grails:grails-web-testing-support 2.1.2
-    org.grails:grails-web-url-mappings 4.0.5
+    org.grails:grails-web-url-mappings 4.0.6
     org.grails:scaffolding-core 2.1.0
-    org.grails:views-json-testing-support 2.0.2
+    org.grails:views-json-testing-support 2.0.4
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.3
     org.grails.plugins:events 4.0.0
@@ -18091,9 +18091,9 @@ testRuntimeClasspath - Dependency management for the testRuntimeClasspath config
     org.grails.plugins:rxjava 1.1.1
     org.grails.plugins:rxjava2 2.0.0
     org.grails.plugins:scaffolding 4.0.0.RC1
-    org.grails.plugins:views-json 2.0.2
-    org.grails.plugins:views-json-templates 2.0.2
-    org.grails.plugins:views-markup 2.0.2
+    org.grails.plugins:views-json 2.0.4
+    org.grails.plugins:views-json-templates 2.0.4
+    org.grails.plugins:views-markup 2.0.4
     org.grails.profiles:angular 8.0.1
     org.grails.profiles:base 4.0.3
     org.grails.profiles:plugin 4.0.0
@@ -18463,5 +18463,5 @@ testRuntimeOnly - Dependency management for the testRuntimeOnly configuration
 No configuration-specific dependency management
 
 
-BUILD SUCCESSFUL in 16s
+BUILD SUCCESSFUL in 11s
 1 actionable task: 1 executed
