@@ -9,7 +9,7 @@ do
     echo "Processing $version"
     sdk install grails $version
     sdk use grails $version
-    grails create-app versions
+    grails create-app versions --profile=rest-api
     cd versions
     ./gradlew -v
     ./gradlew --no-daemon dependencyManagement > dependencies.txt
