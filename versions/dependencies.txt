@@ -151,12 +151,12 @@ global - Default dependency management for all configurations
     io.micronaut:micronaut-runtime 1.1.4
     io.micronaut:micronaut-runtime-groovy 1.1.4
     io.micronaut:micronaut-spring 1.1.4
-    io.micronaut.spring:micronaut-spring-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-boot 1.0.1
-    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-context 1.0.1
-    io.micronaut.spring:micronaut-spring-web 1.0.1
-    io.micronaut.spring:micronaut-spring-web-annotation 1.0.1
+    io.micronaut.spring:micronaut-spring-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-boot 1.0.2
+    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-context 1.0.2
+    io.micronaut.spring:micronaut-spring-web 1.0.2
+    io.micronaut.spring:micronaut-spring-web-annotation 1.0.2
     io.netty:netty-all 4.1.39.Final
     io.netty:netty-buffer 4.1.39.Final
     io.netty:netty-codec 4.1.39.Final
@@ -541,11 +541,11 @@ global - Default dependency management for all configurations
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.0
-    org.grails:grails-codecs 4.0.0
-    org.grails:grails-console 4.0.0
-    org.grails:grails-core 4.0.0
-    org.grails:grails-databinding 4.0.0
+    org.grails:grails-bootstrap 4.0.1
+    org.grails:grails-codecs 4.0.1
+    org.grails:grails-console 4.0.1
+    org.grails:grails-core 4.0.1
+    org.grails:grails-databinding 4.0.1
     org.grails:grails-datastore-async 7.0.2.RELEASE
     org.grails:grails-datastore-core 7.0.2.RELEASE
     org.grails:grails-datastore-gorm 7.0.2.RELEASE
@@ -555,44 +555,44 @@ global - Default dependency management for all configurations
     org.grails:grails-datastore-gorm-test 7.0.2.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.2.RELEASE
     org.grails:grails-datastore-web 7.0.2.RELEASE
-    org.grails:grails-dependencies 4.0.0
-    org.grails:grails-docs 4.0.0
-    org.grails:grails-encoder 4.0.0
+    org.grails:grails-dependencies 4.0.1
+    org.grails:grails-docs 4.0.1
+    org.grails:grails-encoder 4.0.1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.0.0
-    org.grails:grails-gradle-model 4.0.0
-    org.grails:grails-gradle-plugin 4.0.0
-    org.grails:grails-logging 4.0.0
-    org.grails:grails-plugin-codecs 4.0.0
-    org.grails:grails-plugin-controllers 4.0.0
-    org.grails:grails-plugin-databinding 4.0.0
-    org.grails:grails-plugin-datasource 4.0.0
-    org.grails:grails-plugin-domain-class 4.0.0
-    org.grails:grails-plugin-i18n 4.0.0
-    org.grails:grails-plugin-interceptors 4.0.0
-    org.grails:grails-plugin-mimetypes 4.0.0
-    org.grails:grails-plugin-rest 4.0.0
-    org.grails:grails-plugin-services 4.0.0
-    org.grails:grails-plugin-url-mappings 4.0.0
-    org.grails:grails-plugin-validation 4.0.0
-    org.grails:grails-shell 4.0.0
-    org.grails:grails-spring 4.0.0
-    org.grails:grails-test 4.0.0
-    org.grails:grails-test-suite-base 4.0.0
-    org.grails:grails-test-suite-persistence 4.0.0
-    org.grails:grails-test-suite-uber 4.0.0
-    org.grails:grails-test-suite-web 4.0.0
+    org.grails:grails-gradle-model 4.0.1
+    org.grails:grails-gradle-plugin 4.0.1
+    org.grails:grails-logging 4.0.1
+    org.grails:grails-plugin-codecs 4.0.1
+    org.grails:grails-plugin-controllers 4.0.1
+    org.grails:grails-plugin-databinding 4.0.1
+    org.grails:grails-plugin-datasource 4.0.1
+    org.grails:grails-plugin-domain-class 4.0.1
+    org.grails:grails-plugin-i18n 4.0.1
+    org.grails:grails-plugin-interceptors 4.0.1
+    org.grails:grails-plugin-mimetypes 4.0.1
+    org.grails:grails-plugin-rest 4.0.1
+    org.grails:grails-plugin-services 4.0.1
+    org.grails:grails-plugin-url-mappings 4.0.1
+    org.grails:grails-plugin-validation 4.0.1
+    org.grails:grails-shell 4.0.1
+    org.grails:grails-spring 4.0.1
+    org.grails:grails-test 4.0.1
+    org.grails:grails-test-suite-base 4.0.1
+    org.grails:grails-test-suite-persistence 4.0.1
+    org.grails:grails-test-suite-uber 4.0.1
+    org.grails:grails-test-suite-web 4.0.1
     org.grails:grails-testing-support 2.0.0
-    org.grails:grails-web 4.0.0
-    org.grails:grails-web-boot 4.0.0
-    org.grails:grails-web-common 4.0.0
-    org.grails:grails-web-databinding 4.0.0
-    org.grails:grails-web-fileupload 4.0.0
-    org.grails:grails-web-mvc 4.0.0
+    org.grails:grails-web 4.0.1
+    org.grails:grails-web-boot 4.0.1
+    org.grails:grails-web-common 4.0.1
+    org.grails:grails-web-databinding 4.0.1
+    org.grails:grails-web-fileupload 4.0.1
+    org.grails:grails-web-mvc 4.0.1
     org.grails:grails-web-testing-support 2.0.0
-    org.grails:grails-web-url-mappings 4.0.0
+    org.grails:grails-web-url-mappings 4.0.1
     org.grails:scaffolding-core 2.1.0
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.0
@@ -756,27 +756,27 @@ global - Default dependency management for all configurations
     org.slf4j:slf4j-simple 1.7.28
     org.spockframework:spock-core 1.2-groovy-2.5
     org.spockframework:spock-spring 1.2-groovy-2.5
-    org.springframework:spring-aop 5.1.8.RELEASE
-    org.springframework:spring-aspects 5.1.8.RELEASE
-    org.springframework:spring-beans 5.1.8.RELEASE
-    org.springframework:spring-context 5.1.8.RELEASE
+    org.springframework:spring-aop 5.1.10.RELEASE
+    org.springframework:spring-aspects 5.1.10.RELEASE
+    org.springframework:spring-beans 5.1.10.RELEASE
+    org.springframework:spring-context 5.1.10.RELEASE
     org.springframework:spring-context-indexer 5.1.10.RELEASE
-    org.springframework:spring-context-support 5.1.8.RELEASE
-    org.springframework:spring-core 5.1.8.RELEASE
-    org.springframework:spring-expression 5.1.8.RELEASE
-    org.springframework:spring-instrument 5.1.8.RELEASE
+    org.springframework:spring-context-support 5.1.10.RELEASE
+    org.springframework:spring-core 5.1.10.RELEASE
+    org.springframework:spring-expression 5.1.10.RELEASE
+    org.springframework:spring-instrument 5.1.10.RELEASE
     org.springframework:spring-jcl 5.1.10.RELEASE
-    org.springframework:spring-jdbc 5.1.8.RELEASE
-    org.springframework:spring-jms 5.1.8.RELEASE
-    org.springframework:spring-messaging 5.1.8.RELEASE
-    org.springframework:spring-orm 5.1.8.RELEASE
-    org.springframework:spring-oxm 5.1.8.RELEASE
-    org.springframework:spring-test 5.1.8.RELEASE
-    org.springframework:spring-tx 5.1.8.RELEASE
-    org.springframework:spring-web 5.1.8.RELEASE
+    org.springframework:spring-jdbc 5.1.10.RELEASE
+    org.springframework:spring-jms 5.1.10.RELEASE
+    org.springframework:spring-messaging 5.1.10.RELEASE
+    org.springframework:spring-orm 5.1.10.RELEASE
+    org.springframework:spring-oxm 5.1.10.RELEASE
+    org.springframework:spring-test 5.1.10.RELEASE
+    org.springframework:spring-tx 5.1.10.RELEASE
+    org.springframework:spring-web 5.1.10.RELEASE
     org.springframework:spring-webflux 5.1.10.RELEASE
-    org.springframework:spring-webmvc 5.1.8.RELEASE
-    org.springframework:spring-websocket 5.1.8.RELEASE
+    org.springframework:spring-webmvc 5.1.10.RELEASE
+    org.springframework:spring-websocket 5.1.10.RELEASE
     org.springframework.amqp:spring-amqp 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit-junit 2.1.11.RELEASE
@@ -1123,12 +1123,12 @@ apiElements - Dependency management for the apiElements configuration
     io.micronaut:micronaut-runtime 1.1.4
     io.micronaut:micronaut-runtime-groovy 1.1.4
     io.micronaut:micronaut-spring 1.1.4
-    io.micronaut.spring:micronaut-spring-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-boot 1.0.1
-    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-context 1.0.1
-    io.micronaut.spring:micronaut-spring-web 1.0.1
-    io.micronaut.spring:micronaut-spring-web-annotation 1.0.1
+    io.micronaut.spring:micronaut-spring-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-boot 1.0.2
+    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-context 1.0.2
+    io.micronaut.spring:micronaut-spring-web 1.0.2
+    io.micronaut.spring:micronaut-spring-web-annotation 1.0.2
     io.netty:netty-all 4.1.39.Final
     io.netty:netty-buffer 4.1.39.Final
     io.netty:netty-codec 4.1.39.Final
@@ -1514,11 +1514,11 @@ apiElements - Dependency management for the apiElements configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.0
-    org.grails:grails-codecs 4.0.0
-    org.grails:grails-console 4.0.0
-    org.grails:grails-core 4.0.0
-    org.grails:grails-databinding 4.0.0
+    org.grails:grails-bootstrap 4.0.1
+    org.grails:grails-codecs 4.0.1
+    org.grails:grails-console 4.0.1
+    org.grails:grails-core 4.0.1
+    org.grails:grails-databinding 4.0.1
     org.grails:grails-datastore-async 7.0.2.RELEASE
     org.grails:grails-datastore-core 7.0.2.RELEASE
     org.grails:grails-datastore-gorm 7.0.2.RELEASE
@@ -1528,44 +1528,44 @@ apiElements - Dependency management for the apiElements configuration
     org.grails:grails-datastore-gorm-test 7.0.2.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.2.RELEASE
     org.grails:grails-datastore-web 7.0.2.RELEASE
-    org.grails:grails-dependencies 4.0.0
-    org.grails:grails-docs 4.0.0
-    org.grails:grails-encoder 4.0.0
+    org.grails:grails-dependencies 4.0.1
+    org.grails:grails-docs 4.0.1
+    org.grails:grails-encoder 4.0.1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.0.0
-    org.grails:grails-gradle-model 4.0.0
-    org.grails:grails-gradle-plugin 4.0.0
-    org.grails:grails-logging 4.0.0
-    org.grails:grails-plugin-codecs 4.0.0
-    org.grails:grails-plugin-controllers 4.0.0
-    org.grails:grails-plugin-databinding 4.0.0
-    org.grails:grails-plugin-datasource 4.0.0
-    org.grails:grails-plugin-domain-class 4.0.0
-    org.grails:grails-plugin-i18n 4.0.0
-    org.grails:grails-plugin-interceptors 4.0.0
-    org.grails:grails-plugin-mimetypes 4.0.0
-    org.grails:grails-plugin-rest 4.0.0
-    org.grails:grails-plugin-services 4.0.0
-    org.grails:grails-plugin-url-mappings 4.0.0
-    org.grails:grails-plugin-validation 4.0.0
-    org.grails:grails-shell 4.0.0
-    org.grails:grails-spring 4.0.0
-    org.grails:grails-test 4.0.0
-    org.grails:grails-test-suite-base 4.0.0
-    org.grails:grails-test-suite-persistence 4.0.0
-    org.grails:grails-test-suite-uber 4.0.0
-    org.grails:grails-test-suite-web 4.0.0
+    org.grails:grails-gradle-model 4.0.1
+    org.grails:grails-gradle-plugin 4.0.1
+    org.grails:grails-logging 4.0.1
+    org.grails:grails-plugin-codecs 4.0.1
+    org.grails:grails-plugin-controllers 4.0.1
+    org.grails:grails-plugin-databinding 4.0.1
+    org.grails:grails-plugin-datasource 4.0.1
+    org.grails:grails-plugin-domain-class 4.0.1
+    org.grails:grails-plugin-i18n 4.0.1
+    org.grails:grails-plugin-interceptors 4.0.1
+    org.grails:grails-plugin-mimetypes 4.0.1
+    org.grails:grails-plugin-rest 4.0.1
+    org.grails:grails-plugin-services 4.0.1
+    org.grails:grails-plugin-url-mappings 4.0.1
+    org.grails:grails-plugin-validation 4.0.1
+    org.grails:grails-shell 4.0.1
+    org.grails:grails-spring 4.0.1
+    org.grails:grails-test 4.0.1
+    org.grails:grails-test-suite-base 4.0.1
+    org.grails:grails-test-suite-persistence 4.0.1
+    org.grails:grails-test-suite-uber 4.0.1
+    org.grails:grails-test-suite-web 4.0.1
     org.grails:grails-testing-support 2.0.0
-    org.grails:grails-web 4.0.0
-    org.grails:grails-web-boot 4.0.0
-    org.grails:grails-web-common 4.0.0
-    org.grails:grails-web-databinding 4.0.0
-    org.grails:grails-web-fileupload 4.0.0
-    org.grails:grails-web-mvc 4.0.0
+    org.grails:grails-web 4.0.1
+    org.grails:grails-web-boot 4.0.1
+    org.grails:grails-web-common 4.0.1
+    org.grails:grails-web-databinding 4.0.1
+    org.grails:grails-web-fileupload 4.0.1
+    org.grails:grails-web-mvc 4.0.1
     org.grails:grails-web-testing-support 2.0.0
-    org.grails:grails-web-url-mappings 4.0.0
+    org.grails:grails-web-url-mappings 4.0.1
     org.grails:scaffolding-core 2.1.0
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.0
@@ -1729,27 +1729,27 @@ apiElements - Dependency management for the apiElements configuration
     org.slf4j:slf4j-simple 1.7.28
     org.spockframework:spock-core 1.2-groovy-2.5
     org.spockframework:spock-spring 1.2-groovy-2.5
-    org.springframework:spring-aop 5.1.8.RELEASE
-    org.springframework:spring-aspects 5.1.8.RELEASE
-    org.springframework:spring-beans 5.1.8.RELEASE
-    org.springframework:spring-context 5.1.8.RELEASE
+    org.springframework:spring-aop 5.1.10.RELEASE
+    org.springframework:spring-aspects 5.1.10.RELEASE
+    org.springframework:spring-beans 5.1.10.RELEASE
+    org.springframework:spring-context 5.1.10.RELEASE
     org.springframework:spring-context-indexer 5.1.10.RELEASE
-    org.springframework:spring-context-support 5.1.8.RELEASE
-    org.springframework:spring-core 5.1.8.RELEASE
-    org.springframework:spring-expression 5.1.8.RELEASE
-    org.springframework:spring-instrument 5.1.8.RELEASE
+    org.springframework:spring-context-support 5.1.10.RELEASE
+    org.springframework:spring-core 5.1.10.RELEASE
+    org.springframework:spring-expression 5.1.10.RELEASE
+    org.springframework:spring-instrument 5.1.10.RELEASE
     org.springframework:spring-jcl 5.1.10.RELEASE
-    org.springframework:spring-jdbc 5.1.8.RELEASE
-    org.springframework:spring-jms 5.1.8.RELEASE
-    org.springframework:spring-messaging 5.1.8.RELEASE
-    org.springframework:spring-orm 5.1.8.RELEASE
-    org.springframework:spring-oxm 5.1.8.RELEASE
-    org.springframework:spring-test 5.1.8.RELEASE
-    org.springframework:spring-tx 5.1.8.RELEASE
-    org.springframework:spring-web 5.1.8.RELEASE
+    org.springframework:spring-jdbc 5.1.10.RELEASE
+    org.springframework:spring-jms 5.1.10.RELEASE
+    org.springframework:spring-messaging 5.1.10.RELEASE
+    org.springframework:spring-orm 5.1.10.RELEASE
+    org.springframework:spring-oxm 5.1.10.RELEASE
+    org.springframework:spring-test 5.1.10.RELEASE
+    org.springframework:spring-tx 5.1.10.RELEASE
+    org.springframework:spring-web 5.1.10.RELEASE
     org.springframework:spring-webflux 5.1.10.RELEASE
-    org.springframework:spring-webmvc 5.1.8.RELEASE
-    org.springframework:spring-websocket 5.1.8.RELEASE
+    org.springframework:spring-webmvc 5.1.10.RELEASE
+    org.springframework:spring-websocket 5.1.10.RELEASE
     org.springframework.amqp:spring-amqp 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit-junit 2.1.11.RELEASE
@@ -2096,12 +2096,12 @@ compile - Dependency management for the compile configuration
     io.micronaut:micronaut-runtime 1.1.4
     io.micronaut:micronaut-runtime-groovy 1.1.4
     io.micronaut:micronaut-spring 1.1.4
-    io.micronaut.spring:micronaut-spring-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-boot 1.0.1
-    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-context 1.0.1
-    io.micronaut.spring:micronaut-spring-web 1.0.1
-    io.micronaut.spring:micronaut-spring-web-annotation 1.0.1
+    io.micronaut.spring:micronaut-spring-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-boot 1.0.2
+    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-context 1.0.2
+    io.micronaut.spring:micronaut-spring-web 1.0.2
+    io.micronaut.spring:micronaut-spring-web-annotation 1.0.2
     io.netty:netty-all 4.1.39.Final
     io.netty:netty-buffer 4.1.39.Final
     io.netty:netty-codec 4.1.39.Final
@@ -2486,11 +2486,11 @@ compile - Dependency management for the compile configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.0
-    org.grails:grails-codecs 4.0.0
-    org.grails:grails-console 4.0.0
-    org.grails:grails-core 4.0.0
-    org.grails:grails-databinding 4.0.0
+    org.grails:grails-bootstrap 4.0.1
+    org.grails:grails-codecs 4.0.1
+    org.grails:grails-console 4.0.1
+    org.grails:grails-core 4.0.1
+    org.grails:grails-databinding 4.0.1
     org.grails:grails-datastore-async 7.0.2.RELEASE
     org.grails:grails-datastore-core 7.0.2.RELEASE
     org.grails:grails-datastore-gorm 7.0.2.RELEASE
@@ -2500,44 +2500,44 @@ compile - Dependency management for the compile configuration
     org.grails:grails-datastore-gorm-test 7.0.2.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.2.RELEASE
     org.grails:grails-datastore-web 7.0.2.RELEASE
-    org.grails:grails-dependencies 4.0.0
-    org.grails:grails-docs 4.0.0
-    org.grails:grails-encoder 4.0.0
+    org.grails:grails-dependencies 4.0.1
+    org.grails:grails-docs 4.0.1
+    org.grails:grails-encoder 4.0.1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.0.0
-    org.grails:grails-gradle-model 4.0.0
-    org.grails:grails-gradle-plugin 4.0.0
-    org.grails:grails-logging 4.0.0
-    org.grails:grails-plugin-codecs 4.0.0
-    org.grails:grails-plugin-controllers 4.0.0
-    org.grails:grails-plugin-databinding 4.0.0
-    org.grails:grails-plugin-datasource 4.0.0
-    org.grails:grails-plugin-domain-class 4.0.0
-    org.grails:grails-plugin-i18n 4.0.0
-    org.grails:grails-plugin-interceptors 4.0.0
-    org.grails:grails-plugin-mimetypes 4.0.0
-    org.grails:grails-plugin-rest 4.0.0
-    org.grails:grails-plugin-services 4.0.0
-    org.grails:grails-plugin-url-mappings 4.0.0
-    org.grails:grails-plugin-validation 4.0.0
-    org.grails:grails-shell 4.0.0
-    org.grails:grails-spring 4.0.0
-    org.grails:grails-test 4.0.0
-    org.grails:grails-test-suite-base 4.0.0
-    org.grails:grails-test-suite-persistence 4.0.0
-    org.grails:grails-test-suite-uber 4.0.0
-    org.grails:grails-test-suite-web 4.0.0
+    org.grails:grails-gradle-model 4.0.1
+    org.grails:grails-gradle-plugin 4.0.1
+    org.grails:grails-logging 4.0.1
+    org.grails:grails-plugin-codecs 4.0.1
+    org.grails:grails-plugin-controllers 4.0.1
+    org.grails:grails-plugin-databinding 4.0.1
+    org.grails:grails-plugin-datasource 4.0.1
+    org.grails:grails-plugin-domain-class 4.0.1
+    org.grails:grails-plugin-i18n 4.0.1
+    org.grails:grails-plugin-interceptors 4.0.1
+    org.grails:grails-plugin-mimetypes 4.0.1
+    org.grails:grails-plugin-rest 4.0.1
+    org.grails:grails-plugin-services 4.0.1
+    org.grails:grails-plugin-url-mappings 4.0.1
+    org.grails:grails-plugin-validation 4.0.1
+    org.grails:grails-shell 4.0.1
+    org.grails:grails-spring 4.0.1
+    org.grails:grails-test 4.0.1
+    org.grails:grails-test-suite-base 4.0.1
+    org.grails:grails-test-suite-persistence 4.0.1
+    org.grails:grails-test-suite-uber 4.0.1
+    org.grails:grails-test-suite-web 4.0.1
     org.grails:grails-testing-support 2.0.0
-    org.grails:grails-web 4.0.0
-    org.grails:grails-web-boot 4.0.0
-    org.grails:grails-web-common 4.0.0
-    org.grails:grails-web-databinding 4.0.0
-    org.grails:grails-web-fileupload 4.0.0
-    org.grails:grails-web-mvc 4.0.0
+    org.grails:grails-web 4.0.1
+    org.grails:grails-web-boot 4.0.1
+    org.grails:grails-web-common 4.0.1
+    org.grails:grails-web-databinding 4.0.1
+    org.grails:grails-web-fileupload 4.0.1
+    org.grails:grails-web-mvc 4.0.1
     org.grails:grails-web-testing-support 2.0.0
-    org.grails:grails-web-url-mappings 4.0.0
+    org.grails:grails-web-url-mappings 4.0.1
     org.grails:scaffolding-core 2.1.0
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.0
@@ -2701,27 +2701,27 @@ compile - Dependency management for the compile configuration
     org.slf4j:slf4j-simple 1.7.28
     org.spockframework:spock-core 1.2-groovy-2.5
     org.spockframework:spock-spring 1.2-groovy-2.5
-    org.springframework:spring-aop 5.1.8.RELEASE
-    org.springframework:spring-aspects 5.1.8.RELEASE
-    org.springframework:spring-beans 5.1.8.RELEASE
-    org.springframework:spring-context 5.1.8.RELEASE
+    org.springframework:spring-aop 5.1.10.RELEASE
+    org.springframework:spring-aspects 5.1.10.RELEASE
+    org.springframework:spring-beans 5.1.10.RELEASE
+    org.springframework:spring-context 5.1.10.RELEASE
     org.springframework:spring-context-indexer 5.1.10.RELEASE
-    org.springframework:spring-context-support 5.1.8.RELEASE
-    org.springframework:spring-core 5.1.8.RELEASE
-    org.springframework:spring-expression 5.1.8.RELEASE
-    org.springframework:spring-instrument 5.1.8.RELEASE
+    org.springframework:spring-context-support 5.1.10.RELEASE
+    org.springframework:spring-core 5.1.10.RELEASE
+    org.springframework:spring-expression 5.1.10.RELEASE
+    org.springframework:spring-instrument 5.1.10.RELEASE
     org.springframework:spring-jcl 5.1.10.RELEASE
-    org.springframework:spring-jdbc 5.1.8.RELEASE
-    org.springframework:spring-jms 5.1.8.RELEASE
-    org.springframework:spring-messaging 5.1.8.RELEASE
-    org.springframework:spring-orm 5.1.8.RELEASE
-    org.springframework:spring-oxm 5.1.8.RELEASE
-    org.springframework:spring-test 5.1.8.RELEASE
-    org.springframework:spring-tx 5.1.8.RELEASE
-    org.springframework:spring-web 5.1.8.RELEASE
+    org.springframework:spring-jdbc 5.1.10.RELEASE
+    org.springframework:spring-jms 5.1.10.RELEASE
+    org.springframework:spring-messaging 5.1.10.RELEASE
+    org.springframework:spring-orm 5.1.10.RELEASE
+    org.springframework:spring-oxm 5.1.10.RELEASE
+    org.springframework:spring-test 5.1.10.RELEASE
+    org.springframework:spring-tx 5.1.10.RELEASE
+    org.springframework:spring-web 5.1.10.RELEASE
     org.springframework:spring-webflux 5.1.10.RELEASE
-    org.springframework:spring-webmvc 5.1.8.RELEASE
-    org.springframework:spring-websocket 5.1.8.RELEASE
+    org.springframework:spring-webmvc 5.1.10.RELEASE
+    org.springframework:spring-websocket 5.1.10.RELEASE
     org.springframework.amqp:spring-amqp 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit-junit 2.1.11.RELEASE
@@ -3062,12 +3062,12 @@ compileClasspath - Dependency management for the compileClasspath configuration
     io.micronaut:micronaut-runtime 1.1.4
     io.micronaut:micronaut-runtime-groovy 1.1.4
     io.micronaut:micronaut-spring 1.1.4
-    io.micronaut.spring:micronaut-spring-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-boot 1.0.1
-    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-context 1.0.1
-    io.micronaut.spring:micronaut-spring-web 1.0.1
-    io.micronaut.spring:micronaut-spring-web-annotation 1.0.1
+    io.micronaut.spring:micronaut-spring-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-boot 1.0.2
+    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-context 1.0.2
+    io.micronaut.spring:micronaut-spring-web 1.0.2
+    io.micronaut.spring:micronaut-spring-web-annotation 1.0.2
     io.netty:netty-all 4.1.39.Final
     io.netty:netty-buffer 4.1.39.Final
     io.netty:netty-codec 4.1.39.Final
@@ -3452,11 +3452,11 @@ compileClasspath - Dependency management for the compileClasspath configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.0
-    org.grails:grails-codecs 4.0.0
-    org.grails:grails-console 4.0.0
-    org.grails:grails-core 4.0.0
-    org.grails:grails-databinding 4.0.0
+    org.grails:grails-bootstrap 4.0.1
+    org.grails:grails-codecs 4.0.1
+    org.grails:grails-console 4.0.1
+    org.grails:grails-core 4.0.1
+    org.grails:grails-databinding 4.0.1
     org.grails:grails-datastore-async 7.0.2.RELEASE
     org.grails:grails-datastore-core 7.0.2.RELEASE
     org.grails:grails-datastore-gorm 7.0.2.RELEASE
@@ -3466,44 +3466,44 @@ compileClasspath - Dependency management for the compileClasspath configuration
     org.grails:grails-datastore-gorm-test 7.0.2.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.2.RELEASE
     org.grails:grails-datastore-web 7.0.2.RELEASE
-    org.grails:grails-dependencies 4.0.0
-    org.grails:grails-docs 4.0.0
-    org.grails:grails-encoder 4.0.0
+    org.grails:grails-dependencies 4.0.1
+    org.grails:grails-docs 4.0.1
+    org.grails:grails-encoder 4.0.1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.0.0
-    org.grails:grails-gradle-model 4.0.0
-    org.grails:grails-gradle-plugin 4.0.0
-    org.grails:grails-logging 4.0.0
-    org.grails:grails-plugin-codecs 4.0.0
-    org.grails:grails-plugin-controllers 4.0.0
-    org.grails:grails-plugin-databinding 4.0.0
-    org.grails:grails-plugin-datasource 4.0.0
-    org.grails:grails-plugin-domain-class 4.0.0
-    org.grails:grails-plugin-i18n 4.0.0
-    org.grails:grails-plugin-interceptors 4.0.0
-    org.grails:grails-plugin-mimetypes 4.0.0
-    org.grails:grails-plugin-rest 4.0.0
-    org.grails:grails-plugin-services 4.0.0
-    org.grails:grails-plugin-url-mappings 4.0.0
-    org.grails:grails-plugin-validation 4.0.0
-    org.grails:grails-shell 4.0.0
-    org.grails:grails-spring 4.0.0
-    org.grails:grails-test 4.0.0
-    org.grails:grails-test-suite-base 4.0.0
-    org.grails:grails-test-suite-persistence 4.0.0
-    org.grails:grails-test-suite-uber 4.0.0
-    org.grails:grails-test-suite-web 4.0.0
+    org.grails:grails-gradle-model 4.0.1
+    org.grails:grails-gradle-plugin 4.0.1
+    org.grails:grails-logging 4.0.1
+    org.grails:grails-plugin-codecs 4.0.1
+    org.grails:grails-plugin-controllers 4.0.1
+    org.grails:grails-plugin-databinding 4.0.1
+    org.grails:grails-plugin-datasource 4.0.1
+    org.grails:grails-plugin-domain-class 4.0.1
+    org.grails:grails-plugin-i18n 4.0.1
+    org.grails:grails-plugin-interceptors 4.0.1
+    org.grails:grails-plugin-mimetypes 4.0.1
+    org.grails:grails-plugin-rest 4.0.1
+    org.grails:grails-plugin-services 4.0.1
+    org.grails:grails-plugin-url-mappings 4.0.1
+    org.grails:grails-plugin-validation 4.0.1
+    org.grails:grails-shell 4.0.1
+    org.grails:grails-spring 4.0.1
+    org.grails:grails-test 4.0.1
+    org.grails:grails-test-suite-base 4.0.1
+    org.grails:grails-test-suite-persistence 4.0.1
+    org.grails:grails-test-suite-uber 4.0.1
+    org.grails:grails-test-suite-web 4.0.1
     org.grails:grails-testing-support 2.0.0
-    org.grails:grails-web 4.0.0
-    org.grails:grails-web-boot 4.0.0
-    org.grails:grails-web-common 4.0.0
-    org.grails:grails-web-databinding 4.0.0
-    org.grails:grails-web-fileupload 4.0.0
-    org.grails:grails-web-mvc 4.0.0
+    org.grails:grails-web 4.0.1
+    org.grails:grails-web-boot 4.0.1
+    org.grails:grails-web-common 4.0.1
+    org.grails:grails-web-databinding 4.0.1
+    org.grails:grails-web-fileupload 4.0.1
+    org.grails:grails-web-mvc 4.0.1
     org.grails:grails-web-testing-support 2.0.0
-    org.grails:grails-web-url-mappings 4.0.0
+    org.grails:grails-web-url-mappings 4.0.1
     org.grails:scaffolding-core 2.1.0
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.0
@@ -3667,27 +3667,27 @@ compileClasspath - Dependency management for the compileClasspath configuration
     org.slf4j:slf4j-simple 1.7.28
     org.spockframework:spock-core 1.2-groovy-2.5
     org.spockframework:spock-spring 1.2-groovy-2.5
-    org.springframework:spring-aop 5.1.8.RELEASE
-    org.springframework:spring-aspects 5.1.8.RELEASE
-    org.springframework:spring-beans 5.1.8.RELEASE
-    org.springframework:spring-context 5.1.8.RELEASE
+    org.springframework:spring-aop 5.1.10.RELEASE
+    org.springframework:spring-aspects 5.1.10.RELEASE
+    org.springframework:spring-beans 5.1.10.RELEASE
+    org.springframework:spring-context 5.1.10.RELEASE
     org.springframework:spring-context-indexer 5.1.10.RELEASE
-    org.springframework:spring-context-support 5.1.8.RELEASE
-    org.springframework:spring-core 5.1.8.RELEASE
-    org.springframework:spring-expression 5.1.8.RELEASE
-    org.springframework:spring-instrument 5.1.8.RELEASE
+    org.springframework:spring-context-support 5.1.10.RELEASE
+    org.springframework:spring-core 5.1.10.RELEASE
+    org.springframework:spring-expression 5.1.10.RELEASE
+    org.springframework:spring-instrument 5.1.10.RELEASE
     org.springframework:spring-jcl 5.1.10.RELEASE
-    org.springframework:spring-jdbc 5.1.8.RELEASE
-    org.springframework:spring-jms 5.1.8.RELEASE
-    org.springframework:spring-messaging 5.1.8.RELEASE
-    org.springframework:spring-orm 5.1.8.RELEASE
-    org.springframework:spring-oxm 5.1.8.RELEASE
-    org.springframework:spring-test 5.1.8.RELEASE
-    org.springframework:spring-tx 5.1.8.RELEASE
-    org.springframework:spring-web 5.1.8.RELEASE
+    org.springframework:spring-jdbc 5.1.10.RELEASE
+    org.springframework:spring-jms 5.1.10.RELEASE
+    org.springframework:spring-messaging 5.1.10.RELEASE
+    org.springframework:spring-orm 5.1.10.RELEASE
+    org.springframework:spring-oxm 5.1.10.RELEASE
+    org.springframework:spring-test 5.1.10.RELEASE
+    org.springframework:spring-tx 5.1.10.RELEASE
+    org.springframework:spring-web 5.1.10.RELEASE
     org.springframework:spring-webflux 5.1.10.RELEASE
-    org.springframework:spring-webmvc 5.1.8.RELEASE
-    org.springframework:spring-websocket 5.1.8.RELEASE
+    org.springframework:spring-webmvc 5.1.10.RELEASE
+    org.springframework:spring-websocket 5.1.10.RELEASE
     org.springframework.amqp:spring-amqp 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit-junit 2.1.11.RELEASE
@@ -4034,12 +4034,12 @@ default - Dependency management for the default configuration
     io.micronaut:micronaut-runtime 1.1.4
     io.micronaut:micronaut-runtime-groovy 1.1.4
     io.micronaut:micronaut-spring 1.1.4
-    io.micronaut.spring:micronaut-spring-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-boot 1.0.1
-    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-context 1.0.1
-    io.micronaut.spring:micronaut-spring-web 1.0.1
-    io.micronaut.spring:micronaut-spring-web-annotation 1.0.1
+    io.micronaut.spring:micronaut-spring-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-boot 1.0.2
+    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-context 1.0.2
+    io.micronaut.spring:micronaut-spring-web 1.0.2
+    io.micronaut.spring:micronaut-spring-web-annotation 1.0.2
     io.netty:netty-all 4.1.39.Final
     io.netty:netty-buffer 4.1.39.Final
     io.netty:netty-codec 4.1.39.Final
@@ -4425,11 +4425,11 @@ default - Dependency management for the default configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.0
-    org.grails:grails-codecs 4.0.0
-    org.grails:grails-console 4.0.0
-    org.grails:grails-core 4.0.0
-    org.grails:grails-databinding 4.0.0
+    org.grails:grails-bootstrap 4.0.1
+    org.grails:grails-codecs 4.0.1
+    org.grails:grails-console 4.0.1
+    org.grails:grails-core 4.0.1
+    org.grails:grails-databinding 4.0.1
     org.grails:grails-datastore-async 7.0.2.RELEASE
     org.grails:grails-datastore-core 7.0.2.RELEASE
     org.grails:grails-datastore-gorm 7.0.2.RELEASE
@@ -4439,44 +4439,44 @@ default - Dependency management for the default configuration
     org.grails:grails-datastore-gorm-test 7.0.2.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.2.RELEASE
     org.grails:grails-datastore-web 7.0.2.RELEASE
-    org.grails:grails-dependencies 4.0.0
-    org.grails:grails-docs 4.0.0
-    org.grails:grails-encoder 4.0.0
+    org.grails:grails-dependencies 4.0.1
+    org.grails:grails-docs 4.0.1
+    org.grails:grails-encoder 4.0.1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.0.0
-    org.grails:grails-gradle-model 4.0.0
-    org.grails:grails-gradle-plugin 4.0.0
-    org.grails:grails-logging 4.0.0
-    org.grails:grails-plugin-codecs 4.0.0
-    org.grails:grails-plugin-controllers 4.0.0
-    org.grails:grails-plugin-databinding 4.0.0
-    org.grails:grails-plugin-datasource 4.0.0
-    org.grails:grails-plugin-domain-class 4.0.0
-    org.grails:grails-plugin-i18n 4.0.0
-    org.grails:grails-plugin-interceptors 4.0.0
-    org.grails:grails-plugin-mimetypes 4.0.0
-    org.grails:grails-plugin-rest 4.0.0
-    org.grails:grails-plugin-services 4.0.0
-    org.grails:grails-plugin-url-mappings 4.0.0
-    org.grails:grails-plugin-validation 4.0.0
-    org.grails:grails-shell 4.0.0
-    org.grails:grails-spring 4.0.0
-    org.grails:grails-test 4.0.0
-    org.grails:grails-test-suite-base 4.0.0
-    org.grails:grails-test-suite-persistence 4.0.0
-    org.grails:grails-test-suite-uber 4.0.0
-    org.grails:grails-test-suite-web 4.0.0
+    org.grails:grails-gradle-model 4.0.1
+    org.grails:grails-gradle-plugin 4.0.1
+    org.grails:grails-logging 4.0.1
+    org.grails:grails-plugin-codecs 4.0.1
+    org.grails:grails-plugin-controllers 4.0.1
+    org.grails:grails-plugin-databinding 4.0.1
+    org.grails:grails-plugin-datasource 4.0.1
+    org.grails:grails-plugin-domain-class 4.0.1
+    org.grails:grails-plugin-i18n 4.0.1
+    org.grails:grails-plugin-interceptors 4.0.1
+    org.grails:grails-plugin-mimetypes 4.0.1
+    org.grails:grails-plugin-rest 4.0.1
+    org.grails:grails-plugin-services 4.0.1
+    org.grails:grails-plugin-url-mappings 4.0.1
+    org.grails:grails-plugin-validation 4.0.1
+    org.grails:grails-shell 4.0.1
+    org.grails:grails-spring 4.0.1
+    org.grails:grails-test 4.0.1
+    org.grails:grails-test-suite-base 4.0.1
+    org.grails:grails-test-suite-persistence 4.0.1
+    org.grails:grails-test-suite-uber 4.0.1
+    org.grails:grails-test-suite-web 4.0.1
     org.grails:grails-testing-support 2.0.0
-    org.grails:grails-web 4.0.0
-    org.grails:grails-web-boot 4.0.0
-    org.grails:grails-web-common 4.0.0
-    org.grails:grails-web-databinding 4.0.0
-    org.grails:grails-web-fileupload 4.0.0
-    org.grails:grails-web-mvc 4.0.0
+    org.grails:grails-web 4.0.1
+    org.grails:grails-web-boot 4.0.1
+    org.grails:grails-web-common 4.0.1
+    org.grails:grails-web-databinding 4.0.1
+    org.grails:grails-web-fileupload 4.0.1
+    org.grails:grails-web-mvc 4.0.1
     org.grails:grails-web-testing-support 2.0.0
-    org.grails:grails-web-url-mappings 4.0.0
+    org.grails:grails-web-url-mappings 4.0.1
     org.grails:scaffolding-core 2.1.0
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.0
@@ -4640,27 +4640,27 @@ default - Dependency management for the default configuration
     org.slf4j:slf4j-simple 1.7.28
     org.spockframework:spock-core 1.2-groovy-2.5
     org.spockframework:spock-spring 1.2-groovy-2.5
-    org.springframework:spring-aop 5.1.8.RELEASE
-    org.springframework:spring-aspects 5.1.8.RELEASE
-    org.springframework:spring-beans 5.1.8.RELEASE
-    org.springframework:spring-context 5.1.8.RELEASE
+    org.springframework:spring-aop 5.1.10.RELEASE
+    org.springframework:spring-aspects 5.1.10.RELEASE
+    org.springframework:spring-beans 5.1.10.RELEASE
+    org.springframework:spring-context 5.1.10.RELEASE
     org.springframework:spring-context-indexer 5.1.10.RELEASE
-    org.springframework:spring-context-support 5.1.8.RELEASE
-    org.springframework:spring-core 5.1.8.RELEASE
-    org.springframework:spring-expression 5.1.8.RELEASE
-    org.springframework:spring-instrument 5.1.8.RELEASE
+    org.springframework:spring-context-support 5.1.10.RELEASE
+    org.springframework:spring-core 5.1.10.RELEASE
+    org.springframework:spring-expression 5.1.10.RELEASE
+    org.springframework:spring-instrument 5.1.10.RELEASE
     org.springframework:spring-jcl 5.1.10.RELEASE
-    org.springframework:spring-jdbc 5.1.8.RELEASE
-    org.springframework:spring-jms 5.1.8.RELEASE
-    org.springframework:spring-messaging 5.1.8.RELEASE
-    org.springframework:spring-orm 5.1.8.RELEASE
-    org.springframework:spring-oxm 5.1.8.RELEASE
-    org.springframework:spring-test 5.1.8.RELEASE
-    org.springframework:spring-tx 5.1.8.RELEASE
-    org.springframework:spring-web 5.1.8.RELEASE
+    org.springframework:spring-jdbc 5.1.10.RELEASE
+    org.springframework:spring-jms 5.1.10.RELEASE
+    org.springframework:spring-messaging 5.1.10.RELEASE
+    org.springframework:spring-orm 5.1.10.RELEASE
+    org.springframework:spring-oxm 5.1.10.RELEASE
+    org.springframework:spring-test 5.1.10.RELEASE
+    org.springframework:spring-tx 5.1.10.RELEASE
+    org.springframework:spring-web 5.1.10.RELEASE
     org.springframework:spring-webflux 5.1.10.RELEASE
-    org.springframework:spring-webmvc 5.1.8.RELEASE
-    org.springframework:spring-websocket 5.1.8.RELEASE
+    org.springframework:spring-webmvc 5.1.10.RELEASE
+    org.springframework:spring-websocket 5.1.10.RELEASE
     org.springframework.amqp:spring-amqp 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit-junit 2.1.11.RELEASE
@@ -5004,12 +5004,12 @@ implementation - Dependency management for the implementation configuration
     io.micronaut:micronaut-runtime 1.1.4
     io.micronaut:micronaut-runtime-groovy 1.1.4
     io.micronaut:micronaut-spring 1.1.4
-    io.micronaut.spring:micronaut-spring-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-boot 1.0.1
-    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-context 1.0.1
-    io.micronaut.spring:micronaut-spring-web 1.0.1
-    io.micronaut.spring:micronaut-spring-web-annotation 1.0.1
+    io.micronaut.spring:micronaut-spring-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-boot 1.0.2
+    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-context 1.0.2
+    io.micronaut.spring:micronaut-spring-web 1.0.2
+    io.micronaut.spring:micronaut-spring-web-annotation 1.0.2
     io.netty:netty-all 4.1.39.Final
     io.netty:netty-buffer 4.1.39.Final
     io.netty:netty-codec 4.1.39.Final
@@ -5394,11 +5394,11 @@ implementation - Dependency management for the implementation configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.0
-    org.grails:grails-codecs 4.0.0
-    org.grails:grails-console 4.0.0
-    org.grails:grails-core 4.0.0
-    org.grails:grails-databinding 4.0.0
+    org.grails:grails-bootstrap 4.0.1
+    org.grails:grails-codecs 4.0.1
+    org.grails:grails-console 4.0.1
+    org.grails:grails-core 4.0.1
+    org.grails:grails-databinding 4.0.1
     org.grails:grails-datastore-async 7.0.2.RELEASE
     org.grails:grails-datastore-core 7.0.2.RELEASE
     org.grails:grails-datastore-gorm 7.0.2.RELEASE
@@ -5408,44 +5408,44 @@ implementation - Dependency management for the implementation configuration
     org.grails:grails-datastore-gorm-test 7.0.2.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.2.RELEASE
     org.grails:grails-datastore-web 7.0.2.RELEASE
-    org.grails:grails-dependencies 4.0.0
-    org.grails:grails-docs 4.0.0
-    org.grails:grails-encoder 4.0.0
+    org.grails:grails-dependencies 4.0.1
+    org.grails:grails-docs 4.0.1
+    org.grails:grails-encoder 4.0.1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.0.0
-    org.grails:grails-gradle-model 4.0.0
-    org.grails:grails-gradle-plugin 4.0.0
-    org.grails:grails-logging 4.0.0
-    org.grails:grails-plugin-codecs 4.0.0
-    org.grails:grails-plugin-controllers 4.0.0
-    org.grails:grails-plugin-databinding 4.0.0
-    org.grails:grails-plugin-datasource 4.0.0
-    org.grails:grails-plugin-domain-class 4.0.0
-    org.grails:grails-plugin-i18n 4.0.0
-    org.grails:grails-plugin-interceptors 4.0.0
-    org.grails:grails-plugin-mimetypes 4.0.0
-    org.grails:grails-plugin-rest 4.0.0
-    org.grails:grails-plugin-services 4.0.0
-    org.grails:grails-plugin-url-mappings 4.0.0
-    org.grails:grails-plugin-validation 4.0.0
-    org.grails:grails-shell 4.0.0
-    org.grails:grails-spring 4.0.0
-    org.grails:grails-test 4.0.0
-    org.grails:grails-test-suite-base 4.0.0
-    org.grails:grails-test-suite-persistence 4.0.0
-    org.grails:grails-test-suite-uber 4.0.0
-    org.grails:grails-test-suite-web 4.0.0
+    org.grails:grails-gradle-model 4.0.1
+    org.grails:grails-gradle-plugin 4.0.1
+    org.grails:grails-logging 4.0.1
+    org.grails:grails-plugin-codecs 4.0.1
+    org.grails:grails-plugin-controllers 4.0.1
+    org.grails:grails-plugin-databinding 4.0.1
+    org.grails:grails-plugin-datasource 4.0.1
+    org.grails:grails-plugin-domain-class 4.0.1
+    org.grails:grails-plugin-i18n 4.0.1
+    org.grails:grails-plugin-interceptors 4.0.1
+    org.grails:grails-plugin-mimetypes 4.0.1
+    org.grails:grails-plugin-rest 4.0.1
+    org.grails:grails-plugin-services 4.0.1
+    org.grails:grails-plugin-url-mappings 4.0.1
+    org.grails:grails-plugin-validation 4.0.1
+    org.grails:grails-shell 4.0.1
+    org.grails:grails-spring 4.0.1
+    org.grails:grails-test 4.0.1
+    org.grails:grails-test-suite-base 4.0.1
+    org.grails:grails-test-suite-persistence 4.0.1
+    org.grails:grails-test-suite-uber 4.0.1
+    org.grails:grails-test-suite-web 4.0.1
     org.grails:grails-testing-support 2.0.0
-    org.grails:grails-web 4.0.0
-    org.grails:grails-web-boot 4.0.0
-    org.grails:grails-web-common 4.0.0
-    org.grails:grails-web-databinding 4.0.0
-    org.grails:grails-web-fileupload 4.0.0
-    org.grails:grails-web-mvc 4.0.0
+    org.grails:grails-web 4.0.1
+    org.grails:grails-web-boot 4.0.1
+    org.grails:grails-web-common 4.0.1
+    org.grails:grails-web-databinding 4.0.1
+    org.grails:grails-web-fileupload 4.0.1
+    org.grails:grails-web-mvc 4.0.1
     org.grails:grails-web-testing-support 2.0.0
-    org.grails:grails-web-url-mappings 4.0.0
+    org.grails:grails-web-url-mappings 4.0.1
     org.grails:scaffolding-core 2.1.0
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.0
@@ -5609,27 +5609,27 @@ implementation - Dependency management for the implementation configuration
     org.slf4j:slf4j-simple 1.7.28
     org.spockframework:spock-core 1.2-groovy-2.5
     org.spockframework:spock-spring 1.2-groovy-2.5
-    org.springframework:spring-aop 5.1.8.RELEASE
-    org.springframework:spring-aspects 5.1.8.RELEASE
-    org.springframework:spring-beans 5.1.8.RELEASE
-    org.springframework:spring-context 5.1.8.RELEASE
+    org.springframework:spring-aop 5.1.10.RELEASE
+    org.springframework:spring-aspects 5.1.10.RELEASE
+    org.springframework:spring-beans 5.1.10.RELEASE
+    org.springframework:spring-context 5.1.10.RELEASE
     org.springframework:spring-context-indexer 5.1.10.RELEASE
-    org.springframework:spring-context-support 5.1.8.RELEASE
-    org.springframework:spring-core 5.1.8.RELEASE
-    org.springframework:spring-expression 5.1.8.RELEASE
-    org.springframework:spring-instrument 5.1.8.RELEASE
+    org.springframework:spring-context-support 5.1.10.RELEASE
+    org.springframework:spring-core 5.1.10.RELEASE
+    org.springframework:spring-expression 5.1.10.RELEASE
+    org.springframework:spring-instrument 5.1.10.RELEASE
     org.springframework:spring-jcl 5.1.10.RELEASE
-    org.springframework:spring-jdbc 5.1.8.RELEASE
-    org.springframework:spring-jms 5.1.8.RELEASE
-    org.springframework:spring-messaging 5.1.8.RELEASE
-    org.springframework:spring-orm 5.1.8.RELEASE
-    org.springframework:spring-oxm 5.1.8.RELEASE
-    org.springframework:spring-test 5.1.8.RELEASE
-    org.springframework:spring-tx 5.1.8.RELEASE
-    org.springframework:spring-web 5.1.8.RELEASE
+    org.springframework:spring-jdbc 5.1.10.RELEASE
+    org.springframework:spring-jms 5.1.10.RELEASE
+    org.springframework:spring-messaging 5.1.10.RELEASE
+    org.springframework:spring-orm 5.1.10.RELEASE
+    org.springframework:spring-oxm 5.1.10.RELEASE
+    org.springframework:spring-test 5.1.10.RELEASE
+    org.springframework:spring-tx 5.1.10.RELEASE
+    org.springframework:spring-web 5.1.10.RELEASE
     org.springframework:spring-webflux 5.1.10.RELEASE
-    org.springframework:spring-webmvc 5.1.8.RELEASE
-    org.springframework:spring-websocket 5.1.8.RELEASE
+    org.springframework:spring-webmvc 5.1.10.RELEASE
+    org.springframework:spring-websocket 5.1.10.RELEASE
     org.springframework.amqp:spring-amqp 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit-junit 2.1.11.RELEASE
@@ -5973,12 +5973,12 @@ integrationTestCompile - Dependency management for the integrationTestCompile co
     io.micronaut:micronaut-runtime 1.1.4
     io.micronaut:micronaut-runtime-groovy 1.1.4
     io.micronaut:micronaut-spring 1.1.4
-    io.micronaut.spring:micronaut-spring-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-boot 1.0.1
-    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-context 1.0.1
-    io.micronaut.spring:micronaut-spring-web 1.0.1
-    io.micronaut.spring:micronaut-spring-web-annotation 1.0.1
+    io.micronaut.spring:micronaut-spring-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-boot 1.0.2
+    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-context 1.0.2
+    io.micronaut.spring:micronaut-spring-web 1.0.2
+    io.micronaut.spring:micronaut-spring-web-annotation 1.0.2
     io.netty:netty-all 4.1.39.Final
     io.netty:netty-buffer 4.1.39.Final
     io.netty:netty-codec 4.1.39.Final
@@ -6363,11 +6363,11 @@ integrationTestCompile - Dependency management for the integrationTestCompile co
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.0
-    org.grails:grails-codecs 4.0.0
-    org.grails:grails-console 4.0.0
-    org.grails:grails-core 4.0.0
-    org.grails:grails-databinding 4.0.0
+    org.grails:grails-bootstrap 4.0.1
+    org.grails:grails-codecs 4.0.1
+    org.grails:grails-console 4.0.1
+    org.grails:grails-core 4.0.1
+    org.grails:grails-databinding 4.0.1
     org.grails:grails-datastore-async 7.0.2.RELEASE
     org.grails:grails-datastore-core 7.0.2.RELEASE
     org.grails:grails-datastore-gorm 7.0.2.RELEASE
@@ -6377,44 +6377,44 @@ integrationTestCompile - Dependency management for the integrationTestCompile co
     org.grails:grails-datastore-gorm-test 7.0.2.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.2.RELEASE
     org.grails:grails-datastore-web 7.0.2.RELEASE
-    org.grails:grails-dependencies 4.0.0
-    org.grails:grails-docs 4.0.0
-    org.grails:grails-encoder 4.0.0
+    org.grails:grails-dependencies 4.0.1
+    org.grails:grails-docs 4.0.1
+    org.grails:grails-encoder 4.0.1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.0.0
-    org.grails:grails-gradle-model 4.0.0
-    org.grails:grails-gradle-plugin 4.0.0
-    org.grails:grails-logging 4.0.0
-    org.grails:grails-plugin-codecs 4.0.0
-    org.grails:grails-plugin-controllers 4.0.0
-    org.grails:grails-plugin-databinding 4.0.0
-    org.grails:grails-plugin-datasource 4.0.0
-    org.grails:grails-plugin-domain-class 4.0.0
-    org.grails:grails-plugin-i18n 4.0.0
-    org.grails:grails-plugin-interceptors 4.0.0
-    org.grails:grails-plugin-mimetypes 4.0.0
-    org.grails:grails-plugin-rest 4.0.0
-    org.grails:grails-plugin-services 4.0.0
-    org.grails:grails-plugin-url-mappings 4.0.0
-    org.grails:grails-plugin-validation 4.0.0
-    org.grails:grails-shell 4.0.0
-    org.grails:grails-spring 4.0.0
-    org.grails:grails-test 4.0.0
-    org.grails:grails-test-suite-base 4.0.0
-    org.grails:grails-test-suite-persistence 4.0.0
-    org.grails:grails-test-suite-uber 4.0.0
-    org.grails:grails-test-suite-web 4.0.0
+    org.grails:grails-gradle-model 4.0.1
+    org.grails:grails-gradle-plugin 4.0.1
+    org.grails:grails-logging 4.0.1
+    org.grails:grails-plugin-codecs 4.0.1
+    org.grails:grails-plugin-controllers 4.0.1
+    org.grails:grails-plugin-databinding 4.0.1
+    org.grails:grails-plugin-datasource 4.0.1
+    org.grails:grails-plugin-domain-class 4.0.1
+    org.grails:grails-plugin-i18n 4.0.1
+    org.grails:grails-plugin-interceptors 4.0.1
+    org.grails:grails-plugin-mimetypes 4.0.1
+    org.grails:grails-plugin-rest 4.0.1
+    org.grails:grails-plugin-services 4.0.1
+    org.grails:grails-plugin-url-mappings 4.0.1
+    org.grails:grails-plugin-validation 4.0.1
+    org.grails:grails-shell 4.0.1
+    org.grails:grails-spring 4.0.1
+    org.grails:grails-test 4.0.1
+    org.grails:grails-test-suite-base 4.0.1
+    org.grails:grails-test-suite-persistence 4.0.1
+    org.grails:grails-test-suite-uber 4.0.1
+    org.grails:grails-test-suite-web 4.0.1
     org.grails:grails-testing-support 2.0.0
-    org.grails:grails-web 4.0.0
-    org.grails:grails-web-boot 4.0.0
-    org.grails:grails-web-common 4.0.0
-    org.grails:grails-web-databinding 4.0.0
-    org.grails:grails-web-fileupload 4.0.0
-    org.grails:grails-web-mvc 4.0.0
+    org.grails:grails-web 4.0.1
+    org.grails:grails-web-boot 4.0.1
+    org.grails:grails-web-common 4.0.1
+    org.grails:grails-web-databinding 4.0.1
+    org.grails:grails-web-fileupload 4.0.1
+    org.grails:grails-web-mvc 4.0.1
     org.grails:grails-web-testing-support 2.0.0
-    org.grails:grails-web-url-mappings 4.0.0
+    org.grails:grails-web-url-mappings 4.0.1
     org.grails:scaffolding-core 2.1.0
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.0
@@ -6578,27 +6578,27 @@ integrationTestCompile - Dependency management for the integrationTestCompile co
     org.slf4j:slf4j-simple 1.7.28
     org.spockframework:spock-core 1.2-groovy-2.5
     org.spockframework:spock-spring 1.2-groovy-2.5
-    org.springframework:spring-aop 5.1.8.RELEASE
-    org.springframework:spring-aspects 5.1.8.RELEASE
-    org.springframework:spring-beans 5.1.8.RELEASE
-    org.springframework:spring-context 5.1.8.RELEASE
+    org.springframework:spring-aop 5.1.10.RELEASE
+    org.springframework:spring-aspects 5.1.10.RELEASE
+    org.springframework:spring-beans 5.1.10.RELEASE
+    org.springframework:spring-context 5.1.10.RELEASE
     org.springframework:spring-context-indexer 5.1.10.RELEASE
-    org.springframework:spring-context-support 5.1.8.RELEASE
-    org.springframework:spring-core 5.1.8.RELEASE
-    org.springframework:spring-expression 5.1.8.RELEASE
-    org.springframework:spring-instrument 5.1.8.RELEASE
+    org.springframework:spring-context-support 5.1.10.RELEASE
+    org.springframework:spring-core 5.1.10.RELEASE
+    org.springframework:spring-expression 5.1.10.RELEASE
+    org.springframework:spring-instrument 5.1.10.RELEASE
     org.springframework:spring-jcl 5.1.10.RELEASE
-    org.springframework:spring-jdbc 5.1.8.RELEASE
-    org.springframework:spring-jms 5.1.8.RELEASE
-    org.springframework:spring-messaging 5.1.8.RELEASE
-    org.springframework:spring-orm 5.1.8.RELEASE
-    org.springframework:spring-oxm 5.1.8.RELEASE
-    org.springframework:spring-test 5.1.8.RELEASE
-    org.springframework:spring-tx 5.1.8.RELEASE
-    org.springframework:spring-web 5.1.8.RELEASE
+    org.springframework:spring-jdbc 5.1.10.RELEASE
+    org.springframework:spring-jms 5.1.10.RELEASE
+    org.springframework:spring-messaging 5.1.10.RELEASE
+    org.springframework:spring-orm 5.1.10.RELEASE
+    org.springframework:spring-oxm 5.1.10.RELEASE
+    org.springframework:spring-test 5.1.10.RELEASE
+    org.springframework:spring-tx 5.1.10.RELEASE
+    org.springframework:spring-web 5.1.10.RELEASE
     org.springframework:spring-webflux 5.1.10.RELEASE
-    org.springframework:spring-webmvc 5.1.8.RELEASE
-    org.springframework:spring-websocket 5.1.8.RELEASE
+    org.springframework:spring-webmvc 5.1.10.RELEASE
+    org.springframework:spring-websocket 5.1.10.RELEASE
     org.springframework.amqp:spring-amqp 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit-junit 2.1.11.RELEASE
@@ -6939,12 +6939,12 @@ integrationTestCompileClasspath - Dependency management for the integrationTestC
     io.micronaut:micronaut-runtime 1.1.4
     io.micronaut:micronaut-runtime-groovy 1.1.4
     io.micronaut:micronaut-spring 1.1.4
-    io.micronaut.spring:micronaut-spring-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-boot 1.0.1
-    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-context 1.0.1
-    io.micronaut.spring:micronaut-spring-web 1.0.1
-    io.micronaut.spring:micronaut-spring-web-annotation 1.0.1
+    io.micronaut.spring:micronaut-spring-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-boot 1.0.2
+    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-context 1.0.2
+    io.micronaut.spring:micronaut-spring-web 1.0.2
+    io.micronaut.spring:micronaut-spring-web-annotation 1.0.2
     io.netty:netty-all 4.1.39.Final
     io.netty:netty-buffer 4.1.39.Final
     io.netty:netty-codec 4.1.39.Final
@@ -7329,11 +7329,11 @@ integrationTestCompileClasspath - Dependency management for the integrationTestC
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.0
-    org.grails:grails-codecs 4.0.0
-    org.grails:grails-console 4.0.0
-    org.grails:grails-core 4.0.0
-    org.grails:grails-databinding 4.0.0
+    org.grails:grails-bootstrap 4.0.1
+    org.grails:grails-codecs 4.0.1
+    org.grails:grails-console 4.0.1
+    org.grails:grails-core 4.0.1
+    org.grails:grails-databinding 4.0.1
     org.grails:grails-datastore-async 7.0.2.RELEASE
     org.grails:grails-datastore-core 7.0.2.RELEASE
     org.grails:grails-datastore-gorm 7.0.2.RELEASE
@@ -7343,44 +7343,44 @@ integrationTestCompileClasspath - Dependency management for the integrationTestC
     org.grails:grails-datastore-gorm-test 7.0.2.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.2.RELEASE
     org.grails:grails-datastore-web 7.0.2.RELEASE
-    org.grails:grails-dependencies 4.0.0
-    org.grails:grails-docs 4.0.0
-    org.grails:grails-encoder 4.0.0
+    org.grails:grails-dependencies 4.0.1
+    org.grails:grails-docs 4.0.1
+    org.grails:grails-encoder 4.0.1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.0.0
-    org.grails:grails-gradle-model 4.0.0
-    org.grails:grails-gradle-plugin 4.0.0
-    org.grails:grails-logging 4.0.0
-    org.grails:grails-plugin-codecs 4.0.0
-    org.grails:grails-plugin-controllers 4.0.0
-    org.grails:grails-plugin-databinding 4.0.0
-    org.grails:grails-plugin-datasource 4.0.0
-    org.grails:grails-plugin-domain-class 4.0.0
-    org.grails:grails-plugin-i18n 4.0.0
-    org.grails:grails-plugin-interceptors 4.0.0
-    org.grails:grails-plugin-mimetypes 4.0.0
-    org.grails:grails-plugin-rest 4.0.0
-    org.grails:grails-plugin-services 4.0.0
-    org.grails:grails-plugin-url-mappings 4.0.0
-    org.grails:grails-plugin-validation 4.0.0
-    org.grails:grails-shell 4.0.0
-    org.grails:grails-spring 4.0.0
-    org.grails:grails-test 4.0.0
-    org.grails:grails-test-suite-base 4.0.0
-    org.grails:grails-test-suite-persistence 4.0.0
-    org.grails:grails-test-suite-uber 4.0.0
-    org.grails:grails-test-suite-web 4.0.0
+    org.grails:grails-gradle-model 4.0.1
+    org.grails:grails-gradle-plugin 4.0.1
+    org.grails:grails-logging 4.0.1
+    org.grails:grails-plugin-codecs 4.0.1
+    org.grails:grails-plugin-controllers 4.0.1
+    org.grails:grails-plugin-databinding 4.0.1
+    org.grails:grails-plugin-datasource 4.0.1
+    org.grails:grails-plugin-domain-class 4.0.1
+    org.grails:grails-plugin-i18n 4.0.1
+    org.grails:grails-plugin-interceptors 4.0.1
+    org.grails:grails-plugin-mimetypes 4.0.1
+    org.grails:grails-plugin-rest 4.0.1
+    org.grails:grails-plugin-services 4.0.1
+    org.grails:grails-plugin-url-mappings 4.0.1
+    org.grails:grails-plugin-validation 4.0.1
+    org.grails:grails-shell 4.0.1
+    org.grails:grails-spring 4.0.1
+    org.grails:grails-test 4.0.1
+    org.grails:grails-test-suite-base 4.0.1
+    org.grails:grails-test-suite-persistence 4.0.1
+    org.grails:grails-test-suite-uber 4.0.1
+    org.grails:grails-test-suite-web 4.0.1
     org.grails:grails-testing-support 2.0.0
-    org.grails:grails-web 4.0.0
-    org.grails:grails-web-boot 4.0.0
-    org.grails:grails-web-common 4.0.0
-    org.grails:grails-web-databinding 4.0.0
-    org.grails:grails-web-fileupload 4.0.0
-    org.grails:grails-web-mvc 4.0.0
+    org.grails:grails-web 4.0.1
+    org.grails:grails-web-boot 4.0.1
+    org.grails:grails-web-common 4.0.1
+    org.grails:grails-web-databinding 4.0.1
+    org.grails:grails-web-fileupload 4.0.1
+    org.grails:grails-web-mvc 4.0.1
     org.grails:grails-web-testing-support 2.0.0
-    org.grails:grails-web-url-mappings 4.0.0
+    org.grails:grails-web-url-mappings 4.0.1
     org.grails:scaffolding-core 2.1.0
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.0
@@ -7544,27 +7544,27 @@ integrationTestCompileClasspath - Dependency management for the integrationTestC
     org.slf4j:slf4j-simple 1.7.28
     org.spockframework:spock-core 1.2-groovy-2.5
     org.spockframework:spock-spring 1.2-groovy-2.5
-    org.springframework:spring-aop 5.1.8.RELEASE
-    org.springframework:spring-aspects 5.1.8.RELEASE
-    org.springframework:spring-beans 5.1.8.RELEASE
-    org.springframework:spring-context 5.1.8.RELEASE
+    org.springframework:spring-aop 5.1.10.RELEASE
+    org.springframework:spring-aspects 5.1.10.RELEASE
+    org.springframework:spring-beans 5.1.10.RELEASE
+    org.springframework:spring-context 5.1.10.RELEASE
     org.springframework:spring-context-indexer 5.1.10.RELEASE
-    org.springframework:spring-context-support 5.1.8.RELEASE
-    org.springframework:spring-core 5.1.8.RELEASE
-    org.springframework:spring-expression 5.1.8.RELEASE
-    org.springframework:spring-instrument 5.1.8.RELEASE
+    org.springframework:spring-context-support 5.1.10.RELEASE
+    org.springframework:spring-core 5.1.10.RELEASE
+    org.springframework:spring-expression 5.1.10.RELEASE
+    org.springframework:spring-instrument 5.1.10.RELEASE
     org.springframework:spring-jcl 5.1.10.RELEASE
-    org.springframework:spring-jdbc 5.1.8.RELEASE
-    org.springframework:spring-jms 5.1.8.RELEASE
-    org.springframework:spring-messaging 5.1.8.RELEASE
-    org.springframework:spring-orm 5.1.8.RELEASE
-    org.springframework:spring-oxm 5.1.8.RELEASE
-    org.springframework:spring-test 5.1.8.RELEASE
-    org.springframework:spring-tx 5.1.8.RELEASE
-    org.springframework:spring-web 5.1.8.RELEASE
+    org.springframework:spring-jdbc 5.1.10.RELEASE
+    org.springframework:spring-jms 5.1.10.RELEASE
+    org.springframework:spring-messaging 5.1.10.RELEASE
+    org.springframework:spring-orm 5.1.10.RELEASE
+    org.springframework:spring-oxm 5.1.10.RELEASE
+    org.springframework:spring-test 5.1.10.RELEASE
+    org.springframework:spring-tx 5.1.10.RELEASE
+    org.springframework:spring-web 5.1.10.RELEASE
     org.springframework:spring-webflux 5.1.10.RELEASE
-    org.springframework:spring-webmvc 5.1.8.RELEASE
-    org.springframework:spring-websocket 5.1.8.RELEASE
+    org.springframework:spring-webmvc 5.1.10.RELEASE
+    org.springframework:spring-websocket 5.1.10.RELEASE
     org.springframework.amqp:spring-amqp 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit-junit 2.1.11.RELEASE
@@ -7908,12 +7908,12 @@ integrationTestImplementation - Dependency management for the integrationTestImp
     io.micronaut:micronaut-runtime 1.1.4
     io.micronaut:micronaut-runtime-groovy 1.1.4
     io.micronaut:micronaut-spring 1.1.4
-    io.micronaut.spring:micronaut-spring-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-boot 1.0.1
-    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-context 1.0.1
-    io.micronaut.spring:micronaut-spring-web 1.0.1
-    io.micronaut.spring:micronaut-spring-web-annotation 1.0.1
+    io.micronaut.spring:micronaut-spring-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-boot 1.0.2
+    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-context 1.0.2
+    io.micronaut.spring:micronaut-spring-web 1.0.2
+    io.micronaut.spring:micronaut-spring-web-annotation 1.0.2
     io.netty:netty-all 4.1.39.Final
     io.netty:netty-buffer 4.1.39.Final
     io.netty:netty-codec 4.1.39.Final
@@ -8298,11 +8298,11 @@ integrationTestImplementation - Dependency management for the integrationTestImp
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.0
-    org.grails:grails-codecs 4.0.0
-    org.grails:grails-console 4.0.0
-    org.grails:grails-core 4.0.0
-    org.grails:grails-databinding 4.0.0
+    org.grails:grails-bootstrap 4.0.1
+    org.grails:grails-codecs 4.0.1
+    org.grails:grails-console 4.0.1
+    org.grails:grails-core 4.0.1
+    org.grails:grails-databinding 4.0.1
     org.grails:grails-datastore-async 7.0.2.RELEASE
     org.grails:grails-datastore-core 7.0.2.RELEASE
     org.grails:grails-datastore-gorm 7.0.2.RELEASE
@@ -8312,44 +8312,44 @@ integrationTestImplementation - Dependency management for the integrationTestImp
     org.grails:grails-datastore-gorm-test 7.0.2.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.2.RELEASE
     org.grails:grails-datastore-web 7.0.2.RELEASE
-    org.grails:grails-dependencies 4.0.0
-    org.grails:grails-docs 4.0.0
-    org.grails:grails-encoder 4.0.0
+    org.grails:grails-dependencies 4.0.1
+    org.grails:grails-docs 4.0.1
+    org.grails:grails-encoder 4.0.1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.0.0
-    org.grails:grails-gradle-model 4.0.0
-    org.grails:grails-gradle-plugin 4.0.0
-    org.grails:grails-logging 4.0.0
-    org.grails:grails-plugin-codecs 4.0.0
-    org.grails:grails-plugin-controllers 4.0.0
-    org.grails:grails-plugin-databinding 4.0.0
-    org.grails:grails-plugin-datasource 4.0.0
-    org.grails:grails-plugin-domain-class 4.0.0
-    org.grails:grails-plugin-i18n 4.0.0
-    org.grails:grails-plugin-interceptors 4.0.0
-    org.grails:grails-plugin-mimetypes 4.0.0
-    org.grails:grails-plugin-rest 4.0.0
-    org.grails:grails-plugin-services 4.0.0
-    org.grails:grails-plugin-url-mappings 4.0.0
-    org.grails:grails-plugin-validation 4.0.0
-    org.grails:grails-shell 4.0.0
-    org.grails:grails-spring 4.0.0
-    org.grails:grails-test 4.0.0
-    org.grails:grails-test-suite-base 4.0.0
-    org.grails:grails-test-suite-persistence 4.0.0
-    org.grails:grails-test-suite-uber 4.0.0
-    org.grails:grails-test-suite-web 4.0.0
+    org.grails:grails-gradle-model 4.0.1
+    org.grails:grails-gradle-plugin 4.0.1
+    org.grails:grails-logging 4.0.1
+    org.grails:grails-plugin-codecs 4.0.1
+    org.grails:grails-plugin-controllers 4.0.1
+    org.grails:grails-plugin-databinding 4.0.1
+    org.grails:grails-plugin-datasource 4.0.1
+    org.grails:grails-plugin-domain-class 4.0.1
+    org.grails:grails-plugin-i18n 4.0.1
+    org.grails:grails-plugin-interceptors 4.0.1
+    org.grails:grails-plugin-mimetypes 4.0.1
+    org.grails:grails-plugin-rest 4.0.1
+    org.grails:grails-plugin-services 4.0.1
+    org.grails:grails-plugin-url-mappings 4.0.1
+    org.grails:grails-plugin-validation 4.0.1
+    org.grails:grails-shell 4.0.1
+    org.grails:grails-spring 4.0.1
+    org.grails:grails-test 4.0.1
+    org.grails:grails-test-suite-base 4.0.1
+    org.grails:grails-test-suite-persistence 4.0.1
+    org.grails:grails-test-suite-uber 4.0.1
+    org.grails:grails-test-suite-web 4.0.1
     org.grails:grails-testing-support 2.0.0
-    org.grails:grails-web 4.0.0
-    org.grails:grails-web-boot 4.0.0
-    org.grails:grails-web-common 4.0.0
-    org.grails:grails-web-databinding 4.0.0
-    org.grails:grails-web-fileupload 4.0.0
-    org.grails:grails-web-mvc 4.0.0
+    org.grails:grails-web 4.0.1
+    org.grails:grails-web-boot 4.0.1
+    org.grails:grails-web-common 4.0.1
+    org.grails:grails-web-databinding 4.0.1
+    org.grails:grails-web-fileupload 4.0.1
+    org.grails:grails-web-mvc 4.0.1
     org.grails:grails-web-testing-support 2.0.0
-    org.grails:grails-web-url-mappings 4.0.0
+    org.grails:grails-web-url-mappings 4.0.1
     org.grails:scaffolding-core 2.1.0
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.0
@@ -8513,27 +8513,27 @@ integrationTestImplementation - Dependency management for the integrationTestImp
     org.slf4j:slf4j-simple 1.7.28
     org.spockframework:spock-core 1.2-groovy-2.5
     org.spockframework:spock-spring 1.2-groovy-2.5
-    org.springframework:spring-aop 5.1.8.RELEASE
-    org.springframework:spring-aspects 5.1.8.RELEASE
-    org.springframework:spring-beans 5.1.8.RELEASE
-    org.springframework:spring-context 5.1.8.RELEASE
+    org.springframework:spring-aop 5.1.10.RELEASE
+    org.springframework:spring-aspects 5.1.10.RELEASE
+    org.springframework:spring-beans 5.1.10.RELEASE
+    org.springframework:spring-context 5.1.10.RELEASE
     org.springframework:spring-context-indexer 5.1.10.RELEASE
-    org.springframework:spring-context-support 5.1.8.RELEASE
-    org.springframework:spring-core 5.1.8.RELEASE
-    org.springframework:spring-expression 5.1.8.RELEASE
-    org.springframework:spring-instrument 5.1.8.RELEASE
+    org.springframework:spring-context-support 5.1.10.RELEASE
+    org.springframework:spring-core 5.1.10.RELEASE
+    org.springframework:spring-expression 5.1.10.RELEASE
+    org.springframework:spring-instrument 5.1.10.RELEASE
     org.springframework:spring-jcl 5.1.10.RELEASE
-    org.springframework:spring-jdbc 5.1.8.RELEASE
-    org.springframework:spring-jms 5.1.8.RELEASE
-    org.springframework:spring-messaging 5.1.8.RELEASE
-    org.springframework:spring-orm 5.1.8.RELEASE
-    org.springframework:spring-oxm 5.1.8.RELEASE
-    org.springframework:spring-test 5.1.8.RELEASE
-    org.springframework:spring-tx 5.1.8.RELEASE
-    org.springframework:spring-web 5.1.8.RELEASE
+    org.springframework:spring-jdbc 5.1.10.RELEASE
+    org.springframework:spring-jms 5.1.10.RELEASE
+    org.springframework:spring-messaging 5.1.10.RELEASE
+    org.springframework:spring-orm 5.1.10.RELEASE
+    org.springframework:spring-oxm 5.1.10.RELEASE
+    org.springframework:spring-test 5.1.10.RELEASE
+    org.springframework:spring-tx 5.1.10.RELEASE
+    org.springframework:spring-web 5.1.10.RELEASE
     org.springframework:spring-webflux 5.1.10.RELEASE
-    org.springframework:spring-webmvc 5.1.8.RELEASE
-    org.springframework:spring-websocket 5.1.8.RELEASE
+    org.springframework:spring-webmvc 5.1.10.RELEASE
+    org.springframework:spring-websocket 5.1.10.RELEASE
     org.springframework.amqp:spring-amqp 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit-junit 2.1.11.RELEASE
@@ -8874,12 +8874,12 @@ integrationTestRuntime - Dependency management for the integrationTestRuntime co
     io.micronaut:micronaut-runtime 1.1.4
     io.micronaut:micronaut-runtime-groovy 1.1.4
     io.micronaut:micronaut-spring 1.1.4
-    io.micronaut.spring:micronaut-spring-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-boot 1.0.1
-    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-context 1.0.1
-    io.micronaut.spring:micronaut-spring-web 1.0.1
-    io.micronaut.spring:micronaut-spring-web-annotation 1.0.1
+    io.micronaut.spring:micronaut-spring-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-boot 1.0.2
+    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-context 1.0.2
+    io.micronaut.spring:micronaut-spring-web 1.0.2
+    io.micronaut.spring:micronaut-spring-web-annotation 1.0.2
     io.netty:netty-all 4.1.39.Final
     io.netty:netty-buffer 4.1.39.Final
     io.netty:netty-codec 4.1.39.Final
@@ -9265,11 +9265,11 @@ integrationTestRuntime - Dependency management for the integrationTestRuntime co
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.0
-    org.grails:grails-codecs 4.0.0
-    org.grails:grails-console 4.0.0
-    org.grails:grails-core 4.0.0
-    org.grails:grails-databinding 4.0.0
+    org.grails:grails-bootstrap 4.0.1
+    org.grails:grails-codecs 4.0.1
+    org.grails:grails-console 4.0.1
+    org.grails:grails-core 4.0.1
+    org.grails:grails-databinding 4.0.1
     org.grails:grails-datastore-async 7.0.2.RELEASE
     org.grails:grails-datastore-core 7.0.2.RELEASE
     org.grails:grails-datastore-gorm 7.0.2.RELEASE
@@ -9279,44 +9279,44 @@ integrationTestRuntime - Dependency management for the integrationTestRuntime co
     org.grails:grails-datastore-gorm-test 7.0.2.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.2.RELEASE
     org.grails:grails-datastore-web 7.0.2.RELEASE
-    org.grails:grails-dependencies 4.0.0
-    org.grails:grails-docs 4.0.0
-    org.grails:grails-encoder 4.0.0
+    org.grails:grails-dependencies 4.0.1
+    org.grails:grails-docs 4.0.1
+    org.grails:grails-encoder 4.0.1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.0.0
-    org.grails:grails-gradle-model 4.0.0
-    org.grails:grails-gradle-plugin 4.0.0
-    org.grails:grails-logging 4.0.0
-    org.grails:grails-plugin-codecs 4.0.0
-    org.grails:grails-plugin-controllers 4.0.0
-    org.grails:grails-plugin-databinding 4.0.0
-    org.grails:grails-plugin-datasource 4.0.0
-    org.grails:grails-plugin-domain-class 4.0.0
-    org.grails:grails-plugin-i18n 4.0.0
-    org.grails:grails-plugin-interceptors 4.0.0
-    org.grails:grails-plugin-mimetypes 4.0.0
-    org.grails:grails-plugin-rest 4.0.0
-    org.grails:grails-plugin-services 4.0.0
-    org.grails:grails-plugin-url-mappings 4.0.0
-    org.grails:grails-plugin-validation 4.0.0
-    org.grails:grails-shell 4.0.0
-    org.grails:grails-spring 4.0.0
-    org.grails:grails-test 4.0.0
-    org.grails:grails-test-suite-base 4.0.0
-    org.grails:grails-test-suite-persistence 4.0.0
-    org.grails:grails-test-suite-uber 4.0.0
-    org.grails:grails-test-suite-web 4.0.0
+    org.grails:grails-gradle-model 4.0.1
+    org.grails:grails-gradle-plugin 4.0.1
+    org.grails:grails-logging 4.0.1
+    org.grails:grails-plugin-codecs 4.0.1
+    org.grails:grails-plugin-controllers 4.0.1
+    org.grails:grails-plugin-databinding 4.0.1
+    org.grails:grails-plugin-datasource 4.0.1
+    org.grails:grails-plugin-domain-class 4.0.1
+    org.grails:grails-plugin-i18n 4.0.1
+    org.grails:grails-plugin-interceptors 4.0.1
+    org.grails:grails-plugin-mimetypes 4.0.1
+    org.grails:grails-plugin-rest 4.0.1
+    org.grails:grails-plugin-services 4.0.1
+    org.grails:grails-plugin-url-mappings 4.0.1
+    org.grails:grails-plugin-validation 4.0.1
+    org.grails:grails-shell 4.0.1
+    org.grails:grails-spring 4.0.1
+    org.grails:grails-test 4.0.1
+    org.grails:grails-test-suite-base 4.0.1
+    org.grails:grails-test-suite-persistence 4.0.1
+    org.grails:grails-test-suite-uber 4.0.1
+    org.grails:grails-test-suite-web 4.0.1
     org.grails:grails-testing-support 2.0.0
-    org.grails:grails-web 4.0.0
-    org.grails:grails-web-boot 4.0.0
-    org.grails:grails-web-common 4.0.0
-    org.grails:grails-web-databinding 4.0.0
-    org.grails:grails-web-fileupload 4.0.0
-    org.grails:grails-web-mvc 4.0.0
+    org.grails:grails-web 4.0.1
+    org.grails:grails-web-boot 4.0.1
+    org.grails:grails-web-common 4.0.1
+    org.grails:grails-web-databinding 4.0.1
+    org.grails:grails-web-fileupload 4.0.1
+    org.grails:grails-web-mvc 4.0.1
     org.grails:grails-web-testing-support 2.0.0
-    org.grails:grails-web-url-mappings 4.0.0
+    org.grails:grails-web-url-mappings 4.0.1
     org.grails:scaffolding-core 2.1.0
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.0
@@ -9480,27 +9480,27 @@ integrationTestRuntime - Dependency management for the integrationTestRuntime co
     org.slf4j:slf4j-simple 1.7.28
     org.spockframework:spock-core 1.2-groovy-2.5
     org.spockframework:spock-spring 1.2-groovy-2.5
-    org.springframework:spring-aop 5.1.8.RELEASE
-    org.springframework:spring-aspects 5.1.8.RELEASE
-    org.springframework:spring-beans 5.1.8.RELEASE
-    org.springframework:spring-context 5.1.8.RELEASE
+    org.springframework:spring-aop 5.1.10.RELEASE
+    org.springframework:spring-aspects 5.1.10.RELEASE
+    org.springframework:spring-beans 5.1.10.RELEASE
+    org.springframework:spring-context 5.1.10.RELEASE
     org.springframework:spring-context-indexer 5.1.10.RELEASE
-    org.springframework:spring-context-support 5.1.8.RELEASE
-    org.springframework:spring-core 5.1.8.RELEASE
-    org.springframework:spring-expression 5.1.8.RELEASE
-    org.springframework:spring-instrument 5.1.8.RELEASE
+    org.springframework:spring-context-support 5.1.10.RELEASE
+    org.springframework:spring-core 5.1.10.RELEASE
+    org.springframework:spring-expression 5.1.10.RELEASE
+    org.springframework:spring-instrument 5.1.10.RELEASE
     org.springframework:spring-jcl 5.1.10.RELEASE
-    org.springframework:spring-jdbc 5.1.8.RELEASE
-    org.springframework:spring-jms 5.1.8.RELEASE
-    org.springframework:spring-messaging 5.1.8.RELEASE
-    org.springframework:spring-orm 5.1.8.RELEASE
-    org.springframework:spring-oxm 5.1.8.RELEASE
-    org.springframework:spring-test 5.1.8.RELEASE
-    org.springframework:spring-tx 5.1.8.RELEASE
-    org.springframework:spring-web 5.1.8.RELEASE
+    org.springframework:spring-jdbc 5.1.10.RELEASE
+    org.springframework:spring-jms 5.1.10.RELEASE
+    org.springframework:spring-messaging 5.1.10.RELEASE
+    org.springframework:spring-orm 5.1.10.RELEASE
+    org.springframework:spring-oxm 5.1.10.RELEASE
+    org.springframework:spring-test 5.1.10.RELEASE
+    org.springframework:spring-tx 5.1.10.RELEASE
+    org.springframework:spring-web 5.1.10.RELEASE
     org.springframework:spring-webflux 5.1.10.RELEASE
-    org.springframework:spring-webmvc 5.1.8.RELEASE
-    org.springframework:spring-websocket 5.1.8.RELEASE
+    org.springframework:spring-webmvc 5.1.10.RELEASE
+    org.springframework:spring-websocket 5.1.10.RELEASE
     org.springframework.amqp:spring-amqp 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit-junit 2.1.11.RELEASE
@@ -9841,12 +9841,12 @@ integrationTestRuntimeClasspath - Dependency management for the integrationTestR
     io.micronaut:micronaut-runtime 1.1.4
     io.micronaut:micronaut-runtime-groovy 1.1.4
     io.micronaut:micronaut-spring 1.1.4
-    io.micronaut.spring:micronaut-spring-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-boot 1.0.1
-    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-context 1.0.1
-    io.micronaut.spring:micronaut-spring-web 1.0.1
-    io.micronaut.spring:micronaut-spring-web-annotation 1.0.1
+    io.micronaut.spring:micronaut-spring-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-boot 1.0.2
+    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-context 1.0.2
+    io.micronaut.spring:micronaut-spring-web 1.0.2
+    io.micronaut.spring:micronaut-spring-web-annotation 1.0.2
     io.netty:netty-all 4.1.39.Final
     io.netty:netty-buffer 4.1.39.Final
     io.netty:netty-codec 4.1.39.Final
@@ -10232,11 +10232,11 @@ integrationTestRuntimeClasspath - Dependency management for the integrationTestR
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.0
-    org.grails:grails-codecs 4.0.0
-    org.grails:grails-console 4.0.0
-    org.grails:grails-core 4.0.0
-    org.grails:grails-databinding 4.0.0
+    org.grails:grails-bootstrap 4.0.1
+    org.grails:grails-codecs 4.0.1
+    org.grails:grails-console 4.0.1
+    org.grails:grails-core 4.0.1
+    org.grails:grails-databinding 4.0.1
     org.grails:grails-datastore-async 7.0.2.RELEASE
     org.grails:grails-datastore-core 7.0.2.RELEASE
     org.grails:grails-datastore-gorm 7.0.2.RELEASE
@@ -10246,44 +10246,44 @@ integrationTestRuntimeClasspath - Dependency management for the integrationTestR
     org.grails:grails-datastore-gorm-test 7.0.2.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.2.RELEASE
     org.grails:grails-datastore-web 7.0.2.RELEASE
-    org.grails:grails-dependencies 4.0.0
-    org.grails:grails-docs 4.0.0
-    org.grails:grails-encoder 4.0.0
+    org.grails:grails-dependencies 4.0.1
+    org.grails:grails-docs 4.0.1
+    org.grails:grails-encoder 4.0.1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.0.0
-    org.grails:grails-gradle-model 4.0.0
-    org.grails:grails-gradle-plugin 4.0.0
-    org.grails:grails-logging 4.0.0
-    org.grails:grails-plugin-codecs 4.0.0
-    org.grails:grails-plugin-controllers 4.0.0
-    org.grails:grails-plugin-databinding 4.0.0
-    org.grails:grails-plugin-datasource 4.0.0
-    org.grails:grails-plugin-domain-class 4.0.0
-    org.grails:grails-plugin-i18n 4.0.0
-    org.grails:grails-plugin-interceptors 4.0.0
-    org.grails:grails-plugin-mimetypes 4.0.0
-    org.grails:grails-plugin-rest 4.0.0
-    org.grails:grails-plugin-services 4.0.0
-    org.grails:grails-plugin-url-mappings 4.0.0
-    org.grails:grails-plugin-validation 4.0.0
-    org.grails:grails-shell 4.0.0
-    org.grails:grails-spring 4.0.0
-    org.grails:grails-test 4.0.0
-    org.grails:grails-test-suite-base 4.0.0
-    org.grails:grails-test-suite-persistence 4.0.0
-    org.grails:grails-test-suite-uber 4.0.0
-    org.grails:grails-test-suite-web 4.0.0
+    org.grails:grails-gradle-model 4.0.1
+    org.grails:grails-gradle-plugin 4.0.1
+    org.grails:grails-logging 4.0.1
+    org.grails:grails-plugin-codecs 4.0.1
+    org.grails:grails-plugin-controllers 4.0.1
+    org.grails:grails-plugin-databinding 4.0.1
+    org.grails:grails-plugin-datasource 4.0.1
+    org.grails:grails-plugin-domain-class 4.0.1
+    org.grails:grails-plugin-i18n 4.0.1
+    org.grails:grails-plugin-interceptors 4.0.1
+    org.grails:grails-plugin-mimetypes 4.0.1
+    org.grails:grails-plugin-rest 4.0.1
+    org.grails:grails-plugin-services 4.0.1
+    org.grails:grails-plugin-url-mappings 4.0.1
+    org.grails:grails-plugin-validation 4.0.1
+    org.grails:grails-shell 4.0.1
+    org.grails:grails-spring 4.0.1
+    org.grails:grails-test 4.0.1
+    org.grails:grails-test-suite-base 4.0.1
+    org.grails:grails-test-suite-persistence 4.0.1
+    org.grails:grails-test-suite-uber 4.0.1
+    org.grails:grails-test-suite-web 4.0.1
     org.grails:grails-testing-support 2.0.0
-    org.grails:grails-web 4.0.0
-    org.grails:grails-web-boot 4.0.0
-    org.grails:grails-web-common 4.0.0
-    org.grails:grails-web-databinding 4.0.0
-    org.grails:grails-web-fileupload 4.0.0
-    org.grails:grails-web-mvc 4.0.0
+    org.grails:grails-web 4.0.1
+    org.grails:grails-web-boot 4.0.1
+    org.grails:grails-web-common 4.0.1
+    org.grails:grails-web-databinding 4.0.1
+    org.grails:grails-web-fileupload 4.0.1
+    org.grails:grails-web-mvc 4.0.1
     org.grails:grails-web-testing-support 2.0.0
-    org.grails:grails-web-url-mappings 4.0.0
+    org.grails:grails-web-url-mappings 4.0.1
     org.grails:scaffolding-core 2.1.0
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.0
@@ -10447,27 +10447,27 @@ integrationTestRuntimeClasspath - Dependency management for the integrationTestR
     org.slf4j:slf4j-simple 1.7.28
     org.spockframework:spock-core 1.2-groovy-2.5
     org.spockframework:spock-spring 1.2-groovy-2.5
-    org.springframework:spring-aop 5.1.8.RELEASE
-    org.springframework:spring-aspects 5.1.8.RELEASE
-    org.springframework:spring-beans 5.1.8.RELEASE
-    org.springframework:spring-context 5.1.8.RELEASE
+    org.springframework:spring-aop 5.1.10.RELEASE
+    org.springframework:spring-aspects 5.1.10.RELEASE
+    org.springframework:spring-beans 5.1.10.RELEASE
+    org.springframework:spring-context 5.1.10.RELEASE
     org.springframework:spring-context-indexer 5.1.10.RELEASE
-    org.springframework:spring-context-support 5.1.8.RELEASE
-    org.springframework:spring-core 5.1.8.RELEASE
-    org.springframework:spring-expression 5.1.8.RELEASE
-    org.springframework:spring-instrument 5.1.8.RELEASE
+    org.springframework:spring-context-support 5.1.10.RELEASE
+    org.springframework:spring-core 5.1.10.RELEASE
+    org.springframework:spring-expression 5.1.10.RELEASE
+    org.springframework:spring-instrument 5.1.10.RELEASE
     org.springframework:spring-jcl 5.1.10.RELEASE
-    org.springframework:spring-jdbc 5.1.8.RELEASE
-    org.springframework:spring-jms 5.1.8.RELEASE
-    org.springframework:spring-messaging 5.1.8.RELEASE
-    org.springframework:spring-orm 5.1.8.RELEASE
-    org.springframework:spring-oxm 5.1.8.RELEASE
-    org.springframework:spring-test 5.1.8.RELEASE
-    org.springframework:spring-tx 5.1.8.RELEASE
-    org.springframework:spring-web 5.1.8.RELEASE
+    org.springframework:spring-jdbc 5.1.10.RELEASE
+    org.springframework:spring-jms 5.1.10.RELEASE
+    org.springframework:spring-messaging 5.1.10.RELEASE
+    org.springframework:spring-orm 5.1.10.RELEASE
+    org.springframework:spring-oxm 5.1.10.RELEASE
+    org.springframework:spring-test 5.1.10.RELEASE
+    org.springframework:spring-tx 5.1.10.RELEASE
+    org.springframework:spring-web 5.1.10.RELEASE
     org.springframework:spring-webflux 5.1.10.RELEASE
-    org.springframework:spring-webmvc 5.1.8.RELEASE
-    org.springframework:spring-websocket 5.1.8.RELEASE
+    org.springframework:spring-webmvc 5.1.10.RELEASE
+    org.springframework:spring-websocket 5.1.10.RELEASE
     org.springframework.amqp:spring-amqp 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit-junit 2.1.11.RELEASE
@@ -10823,12 +10823,12 @@ runtime - Dependency management for the runtime configuration
     io.micronaut:micronaut-runtime 1.1.4
     io.micronaut:micronaut-runtime-groovy 1.1.4
     io.micronaut:micronaut-spring 1.1.4
-    io.micronaut.spring:micronaut-spring-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-boot 1.0.1
-    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-context 1.0.1
-    io.micronaut.spring:micronaut-spring-web 1.0.1
-    io.micronaut.spring:micronaut-spring-web-annotation 1.0.1
+    io.micronaut.spring:micronaut-spring-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-boot 1.0.2
+    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-context 1.0.2
+    io.micronaut.spring:micronaut-spring-web 1.0.2
+    io.micronaut.spring:micronaut-spring-web-annotation 1.0.2
     io.netty:netty-all 4.1.39.Final
     io.netty:netty-buffer 4.1.39.Final
     io.netty:netty-codec 4.1.39.Final
@@ -11214,11 +11214,11 @@ runtime - Dependency management for the runtime configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.0
-    org.grails:grails-codecs 4.0.0
-    org.grails:grails-console 4.0.0
-    org.grails:grails-core 4.0.0
-    org.grails:grails-databinding 4.0.0
+    org.grails:grails-bootstrap 4.0.1
+    org.grails:grails-codecs 4.0.1
+    org.grails:grails-console 4.0.1
+    org.grails:grails-core 4.0.1
+    org.grails:grails-databinding 4.0.1
     org.grails:grails-datastore-async 7.0.2.RELEASE
     org.grails:grails-datastore-core 7.0.2.RELEASE
     org.grails:grails-datastore-gorm 7.0.2.RELEASE
@@ -11228,44 +11228,44 @@ runtime - Dependency management for the runtime configuration
     org.grails:grails-datastore-gorm-test 7.0.2.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.2.RELEASE
     org.grails:grails-datastore-web 7.0.2.RELEASE
-    org.grails:grails-dependencies 4.0.0
-    org.grails:grails-docs 4.0.0
-    org.grails:grails-encoder 4.0.0
+    org.grails:grails-dependencies 4.0.1
+    org.grails:grails-docs 4.0.1
+    org.grails:grails-encoder 4.0.1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.0.0
-    org.grails:grails-gradle-model 4.0.0
-    org.grails:grails-gradle-plugin 4.0.0
-    org.grails:grails-logging 4.0.0
-    org.grails:grails-plugin-codecs 4.0.0
-    org.grails:grails-plugin-controllers 4.0.0
-    org.grails:grails-plugin-databinding 4.0.0
-    org.grails:grails-plugin-datasource 4.0.0
-    org.grails:grails-plugin-domain-class 4.0.0
-    org.grails:grails-plugin-i18n 4.0.0
-    org.grails:grails-plugin-interceptors 4.0.0
-    org.grails:grails-plugin-mimetypes 4.0.0
-    org.grails:grails-plugin-rest 4.0.0
-    org.grails:grails-plugin-services 4.0.0
-    org.grails:grails-plugin-url-mappings 4.0.0
-    org.grails:grails-plugin-validation 4.0.0
-    org.grails:grails-shell 4.0.0
-    org.grails:grails-spring 4.0.0
-    org.grails:grails-test 4.0.0
-    org.grails:grails-test-suite-base 4.0.0
-    org.grails:grails-test-suite-persistence 4.0.0
-    org.grails:grails-test-suite-uber 4.0.0
-    org.grails:grails-test-suite-web 4.0.0
+    org.grails:grails-gradle-model 4.0.1
+    org.grails:grails-gradle-plugin 4.0.1
+    org.grails:grails-logging 4.0.1
+    org.grails:grails-plugin-codecs 4.0.1
+    org.grails:grails-plugin-controllers 4.0.1
+    org.grails:grails-plugin-databinding 4.0.1
+    org.grails:grails-plugin-datasource 4.0.1
+    org.grails:grails-plugin-domain-class 4.0.1
+    org.grails:grails-plugin-i18n 4.0.1
+    org.grails:grails-plugin-interceptors 4.0.1
+    org.grails:grails-plugin-mimetypes 4.0.1
+    org.grails:grails-plugin-rest 4.0.1
+    org.grails:grails-plugin-services 4.0.1
+    org.grails:grails-plugin-url-mappings 4.0.1
+    org.grails:grails-plugin-validation 4.0.1
+    org.grails:grails-shell 4.0.1
+    org.grails:grails-spring 4.0.1
+    org.grails:grails-test 4.0.1
+    org.grails:grails-test-suite-base 4.0.1
+    org.grails:grails-test-suite-persistence 4.0.1
+    org.grails:grails-test-suite-uber 4.0.1
+    org.grails:grails-test-suite-web 4.0.1
     org.grails:grails-testing-support 2.0.0
-    org.grails:grails-web 4.0.0
-    org.grails:grails-web-boot 4.0.0
-    org.grails:grails-web-common 4.0.0
-    org.grails:grails-web-databinding 4.0.0
-    org.grails:grails-web-fileupload 4.0.0
-    org.grails:grails-web-mvc 4.0.0
+    org.grails:grails-web 4.0.1
+    org.grails:grails-web-boot 4.0.1
+    org.grails:grails-web-common 4.0.1
+    org.grails:grails-web-databinding 4.0.1
+    org.grails:grails-web-fileupload 4.0.1
+    org.grails:grails-web-mvc 4.0.1
     org.grails:grails-web-testing-support 2.0.0
-    org.grails:grails-web-url-mappings 4.0.0
+    org.grails:grails-web-url-mappings 4.0.1
     org.grails:scaffolding-core 2.1.0
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.0
@@ -11429,27 +11429,27 @@ runtime - Dependency management for the runtime configuration
     org.slf4j:slf4j-simple 1.7.28
     org.spockframework:spock-core 1.2-groovy-2.5
     org.spockframework:spock-spring 1.2-groovy-2.5
-    org.springframework:spring-aop 5.1.8.RELEASE
-    org.springframework:spring-aspects 5.1.8.RELEASE
-    org.springframework:spring-beans 5.1.8.RELEASE
-    org.springframework:spring-context 5.1.8.RELEASE
+    org.springframework:spring-aop 5.1.10.RELEASE
+    org.springframework:spring-aspects 5.1.10.RELEASE
+    org.springframework:spring-beans 5.1.10.RELEASE
+    org.springframework:spring-context 5.1.10.RELEASE
     org.springframework:spring-context-indexer 5.1.10.RELEASE
-    org.springframework:spring-context-support 5.1.8.RELEASE
-    org.springframework:spring-core 5.1.8.RELEASE
-    org.springframework:spring-expression 5.1.8.RELEASE
-    org.springframework:spring-instrument 5.1.8.RELEASE
+    org.springframework:spring-context-support 5.1.10.RELEASE
+    org.springframework:spring-core 5.1.10.RELEASE
+    org.springframework:spring-expression 5.1.10.RELEASE
+    org.springframework:spring-instrument 5.1.10.RELEASE
     org.springframework:spring-jcl 5.1.10.RELEASE
-    org.springframework:spring-jdbc 5.1.8.RELEASE
-    org.springframework:spring-jms 5.1.8.RELEASE
-    org.springframework:spring-messaging 5.1.8.RELEASE
-    org.springframework:spring-orm 5.1.8.RELEASE
-    org.springframework:spring-oxm 5.1.8.RELEASE
-    org.springframework:spring-test 5.1.8.RELEASE
-    org.springframework:spring-tx 5.1.8.RELEASE
-    org.springframework:spring-web 5.1.8.RELEASE
+    org.springframework:spring-jdbc 5.1.10.RELEASE
+    org.springframework:spring-jms 5.1.10.RELEASE
+    org.springframework:spring-messaging 5.1.10.RELEASE
+    org.springframework:spring-orm 5.1.10.RELEASE
+    org.springframework:spring-oxm 5.1.10.RELEASE
+    org.springframework:spring-test 5.1.10.RELEASE
+    org.springframework:spring-tx 5.1.10.RELEASE
+    org.springframework:spring-web 5.1.10.RELEASE
     org.springframework:spring-webflux 5.1.10.RELEASE
-    org.springframework:spring-webmvc 5.1.8.RELEASE
-    org.springframework:spring-websocket 5.1.8.RELEASE
+    org.springframework:spring-webmvc 5.1.10.RELEASE
+    org.springframework:spring-websocket 5.1.10.RELEASE
     org.springframework.amqp:spring-amqp 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit-junit 2.1.11.RELEASE
@@ -11790,12 +11790,12 @@ runtimeClasspath - Dependency management for the runtimeClasspath configuration
     io.micronaut:micronaut-runtime 1.1.4
     io.micronaut:micronaut-runtime-groovy 1.1.4
     io.micronaut:micronaut-spring 1.1.4
-    io.micronaut.spring:micronaut-spring-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-boot 1.0.1
-    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-context 1.0.1
-    io.micronaut.spring:micronaut-spring-web 1.0.1
-    io.micronaut.spring:micronaut-spring-web-annotation 1.0.1
+    io.micronaut.spring:micronaut-spring-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-boot 1.0.2
+    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-context 1.0.2
+    io.micronaut.spring:micronaut-spring-web 1.0.2
+    io.micronaut.spring:micronaut-spring-web-annotation 1.0.2
     io.netty:netty-all 4.1.39.Final
     io.netty:netty-buffer 4.1.39.Final
     io.netty:netty-codec 4.1.39.Final
@@ -12181,11 +12181,11 @@ runtimeClasspath - Dependency management for the runtimeClasspath configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.0
-    org.grails:grails-codecs 4.0.0
-    org.grails:grails-console 4.0.0
-    org.grails:grails-core 4.0.0
-    org.grails:grails-databinding 4.0.0
+    org.grails:grails-bootstrap 4.0.1
+    org.grails:grails-codecs 4.0.1
+    org.grails:grails-console 4.0.1
+    org.grails:grails-core 4.0.1
+    org.grails:grails-databinding 4.0.1
     org.grails:grails-datastore-async 7.0.2.RELEASE
     org.grails:grails-datastore-core 7.0.2.RELEASE
     org.grails:grails-datastore-gorm 7.0.2.RELEASE
@@ -12195,44 +12195,44 @@ runtimeClasspath - Dependency management for the runtimeClasspath configuration
     org.grails:grails-datastore-gorm-test 7.0.2.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.2.RELEASE
     org.grails:grails-datastore-web 7.0.2.RELEASE
-    org.grails:grails-dependencies 4.0.0
-    org.grails:grails-docs 4.0.0
-    org.grails:grails-encoder 4.0.0
+    org.grails:grails-dependencies 4.0.1
+    org.grails:grails-docs 4.0.1
+    org.grails:grails-encoder 4.0.1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.0.0
-    org.grails:grails-gradle-model 4.0.0
-    org.grails:grails-gradle-plugin 4.0.0
-    org.grails:grails-logging 4.0.0
-    org.grails:grails-plugin-codecs 4.0.0
-    org.grails:grails-plugin-controllers 4.0.0
-    org.grails:grails-plugin-databinding 4.0.0
-    org.grails:grails-plugin-datasource 4.0.0
-    org.grails:grails-plugin-domain-class 4.0.0
-    org.grails:grails-plugin-i18n 4.0.0
-    org.grails:grails-plugin-interceptors 4.0.0
-    org.grails:grails-plugin-mimetypes 4.0.0
-    org.grails:grails-plugin-rest 4.0.0
-    org.grails:grails-plugin-services 4.0.0
-    org.grails:grails-plugin-url-mappings 4.0.0
-    org.grails:grails-plugin-validation 4.0.0
-    org.grails:grails-shell 4.0.0
-    org.grails:grails-spring 4.0.0
-    org.grails:grails-test 4.0.0
-    org.grails:grails-test-suite-base 4.0.0
-    org.grails:grails-test-suite-persistence 4.0.0
-    org.grails:grails-test-suite-uber 4.0.0
-    org.grails:grails-test-suite-web 4.0.0
+    org.grails:grails-gradle-model 4.0.1
+    org.grails:grails-gradle-plugin 4.0.1
+    org.grails:grails-logging 4.0.1
+    org.grails:grails-plugin-codecs 4.0.1
+    org.grails:grails-plugin-controllers 4.0.1
+    org.grails:grails-plugin-databinding 4.0.1
+    org.grails:grails-plugin-datasource 4.0.1
+    org.grails:grails-plugin-domain-class 4.0.1
+    org.grails:grails-plugin-i18n 4.0.1
+    org.grails:grails-plugin-interceptors 4.0.1
+    org.grails:grails-plugin-mimetypes 4.0.1
+    org.grails:grails-plugin-rest 4.0.1
+    org.grails:grails-plugin-services 4.0.1
+    org.grails:grails-plugin-url-mappings 4.0.1
+    org.grails:grails-plugin-validation 4.0.1
+    org.grails:grails-shell 4.0.1
+    org.grails:grails-spring 4.0.1
+    org.grails:grails-test 4.0.1
+    org.grails:grails-test-suite-base 4.0.1
+    org.grails:grails-test-suite-persistence 4.0.1
+    org.grails:grails-test-suite-uber 4.0.1
+    org.grails:grails-test-suite-web 4.0.1
     org.grails:grails-testing-support 2.0.0
-    org.grails:grails-web 4.0.0
-    org.grails:grails-web-boot 4.0.0
-    org.grails:grails-web-common 4.0.0
-    org.grails:grails-web-databinding 4.0.0
-    org.grails:grails-web-fileupload 4.0.0
-    org.grails:grails-web-mvc 4.0.0
+    org.grails:grails-web 4.0.1
+    org.grails:grails-web-boot 4.0.1
+    org.grails:grails-web-common 4.0.1
+    org.grails:grails-web-databinding 4.0.1
+    org.grails:grails-web-fileupload 4.0.1
+    org.grails:grails-web-mvc 4.0.1
     org.grails:grails-web-testing-support 2.0.0
-    org.grails:grails-web-url-mappings 4.0.0
+    org.grails:grails-web-url-mappings 4.0.1
     org.grails:scaffolding-core 2.1.0
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.0
@@ -12396,27 +12396,27 @@ runtimeClasspath - Dependency management for the runtimeClasspath configuration
     org.slf4j:slf4j-simple 1.7.28
     org.spockframework:spock-core 1.2-groovy-2.5
     org.spockframework:spock-spring 1.2-groovy-2.5
-    org.springframework:spring-aop 5.1.8.RELEASE
-    org.springframework:spring-aspects 5.1.8.RELEASE
-    org.springframework:spring-beans 5.1.8.RELEASE
-    org.springframework:spring-context 5.1.8.RELEASE
+    org.springframework:spring-aop 5.1.10.RELEASE
+    org.springframework:spring-aspects 5.1.10.RELEASE
+    org.springframework:spring-beans 5.1.10.RELEASE
+    org.springframework:spring-context 5.1.10.RELEASE
     org.springframework:spring-context-indexer 5.1.10.RELEASE
-    org.springframework:spring-context-support 5.1.8.RELEASE
-    org.springframework:spring-core 5.1.8.RELEASE
-    org.springframework:spring-expression 5.1.8.RELEASE
-    org.springframework:spring-instrument 5.1.8.RELEASE
+    org.springframework:spring-context-support 5.1.10.RELEASE
+    org.springframework:spring-core 5.1.10.RELEASE
+    org.springframework:spring-expression 5.1.10.RELEASE
+    org.springframework:spring-instrument 5.1.10.RELEASE
     org.springframework:spring-jcl 5.1.10.RELEASE
-    org.springframework:spring-jdbc 5.1.8.RELEASE
-    org.springframework:spring-jms 5.1.8.RELEASE
-    org.springframework:spring-messaging 5.1.8.RELEASE
-    org.springframework:spring-orm 5.1.8.RELEASE
-    org.springframework:spring-oxm 5.1.8.RELEASE
-    org.springframework:spring-test 5.1.8.RELEASE
-    org.springframework:spring-tx 5.1.8.RELEASE
-    org.springframework:spring-web 5.1.8.RELEASE
+    org.springframework:spring-jdbc 5.1.10.RELEASE
+    org.springframework:spring-jms 5.1.10.RELEASE
+    org.springframework:spring-messaging 5.1.10.RELEASE
+    org.springframework:spring-orm 5.1.10.RELEASE
+    org.springframework:spring-oxm 5.1.10.RELEASE
+    org.springframework:spring-test 5.1.10.RELEASE
+    org.springframework:spring-tx 5.1.10.RELEASE
+    org.springframework:spring-web 5.1.10.RELEASE
     org.springframework:spring-webflux 5.1.10.RELEASE
-    org.springframework:spring-webmvc 5.1.8.RELEASE
-    org.springframework:spring-websocket 5.1.8.RELEASE
+    org.springframework:spring-webmvc 5.1.10.RELEASE
+    org.springframework:spring-websocket 5.1.10.RELEASE
     org.springframework.amqp:spring-amqp 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit-junit 2.1.11.RELEASE
@@ -12757,12 +12757,12 @@ runtimeElements - Dependency management for the runtimeElements configuration
     io.micronaut:micronaut-runtime 1.1.4
     io.micronaut:micronaut-runtime-groovy 1.1.4
     io.micronaut:micronaut-spring 1.1.4
-    io.micronaut.spring:micronaut-spring-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-boot 1.0.1
-    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-context 1.0.1
-    io.micronaut.spring:micronaut-spring-web 1.0.1
-    io.micronaut.spring:micronaut-spring-web-annotation 1.0.1
+    io.micronaut.spring:micronaut-spring-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-boot 1.0.2
+    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-context 1.0.2
+    io.micronaut.spring:micronaut-spring-web 1.0.2
+    io.micronaut.spring:micronaut-spring-web-annotation 1.0.2
     io.netty:netty-all 4.1.39.Final
     io.netty:netty-buffer 4.1.39.Final
     io.netty:netty-codec 4.1.39.Final
@@ -13148,11 +13148,11 @@ runtimeElements - Dependency management for the runtimeElements configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.0
-    org.grails:grails-codecs 4.0.0
-    org.grails:grails-console 4.0.0
-    org.grails:grails-core 4.0.0
-    org.grails:grails-databinding 4.0.0
+    org.grails:grails-bootstrap 4.0.1
+    org.grails:grails-codecs 4.0.1
+    org.grails:grails-console 4.0.1
+    org.grails:grails-core 4.0.1
+    org.grails:grails-databinding 4.0.1
     org.grails:grails-datastore-async 7.0.2.RELEASE
     org.grails:grails-datastore-core 7.0.2.RELEASE
     org.grails:grails-datastore-gorm 7.0.2.RELEASE
@@ -13162,44 +13162,44 @@ runtimeElements - Dependency management for the runtimeElements configuration
     org.grails:grails-datastore-gorm-test 7.0.2.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.2.RELEASE
     org.grails:grails-datastore-web 7.0.2.RELEASE
-    org.grails:grails-dependencies 4.0.0
-    org.grails:grails-docs 4.0.0
-    org.grails:grails-encoder 4.0.0
+    org.grails:grails-dependencies 4.0.1
+    org.grails:grails-docs 4.0.1
+    org.grails:grails-encoder 4.0.1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.0.0
-    org.grails:grails-gradle-model 4.0.0
-    org.grails:grails-gradle-plugin 4.0.0
-    org.grails:grails-logging 4.0.0
-    org.grails:grails-plugin-codecs 4.0.0
-    org.grails:grails-plugin-controllers 4.0.0
-    org.grails:grails-plugin-databinding 4.0.0
-    org.grails:grails-plugin-datasource 4.0.0
-    org.grails:grails-plugin-domain-class 4.0.0
-    org.grails:grails-plugin-i18n 4.0.0
-    org.grails:grails-plugin-interceptors 4.0.0
-    org.grails:grails-plugin-mimetypes 4.0.0
-    org.grails:grails-plugin-rest 4.0.0
-    org.grails:grails-plugin-services 4.0.0
-    org.grails:grails-plugin-url-mappings 4.0.0
-    org.grails:grails-plugin-validation 4.0.0
-    org.grails:grails-shell 4.0.0
-    org.grails:grails-spring 4.0.0
-    org.grails:grails-test 4.0.0
-    org.grails:grails-test-suite-base 4.0.0
-    org.grails:grails-test-suite-persistence 4.0.0
-    org.grails:grails-test-suite-uber 4.0.0
-    org.grails:grails-test-suite-web 4.0.0
+    org.grails:grails-gradle-model 4.0.1
+    org.grails:grails-gradle-plugin 4.0.1
+    org.grails:grails-logging 4.0.1
+    org.grails:grails-plugin-codecs 4.0.1
+    org.grails:grails-plugin-controllers 4.0.1
+    org.grails:grails-plugin-databinding 4.0.1
+    org.grails:grails-plugin-datasource 4.0.1
+    org.grails:grails-plugin-domain-class 4.0.1
+    org.grails:grails-plugin-i18n 4.0.1
+    org.grails:grails-plugin-interceptors 4.0.1
+    org.grails:grails-plugin-mimetypes 4.0.1
+    org.grails:grails-plugin-rest 4.0.1
+    org.grails:grails-plugin-services 4.0.1
+    org.grails:grails-plugin-url-mappings 4.0.1
+    org.grails:grails-plugin-validation 4.0.1
+    org.grails:grails-shell 4.0.1
+    org.grails:grails-spring 4.0.1
+    org.grails:grails-test 4.0.1
+    org.grails:grails-test-suite-base 4.0.1
+    org.grails:grails-test-suite-persistence 4.0.1
+    org.grails:grails-test-suite-uber 4.0.1
+    org.grails:grails-test-suite-web 4.0.1
     org.grails:grails-testing-support 2.0.0
-    org.grails:grails-web 4.0.0
-    org.grails:grails-web-boot 4.0.0
-    org.grails:grails-web-common 4.0.0
-    org.grails:grails-web-databinding 4.0.0
-    org.grails:grails-web-fileupload 4.0.0
-    org.grails:grails-web-mvc 4.0.0
+    org.grails:grails-web 4.0.1
+    org.grails:grails-web-boot 4.0.1
+    org.grails:grails-web-common 4.0.1
+    org.grails:grails-web-databinding 4.0.1
+    org.grails:grails-web-fileupload 4.0.1
+    org.grails:grails-web-mvc 4.0.1
     org.grails:grails-web-testing-support 2.0.0
-    org.grails:grails-web-url-mappings 4.0.0
+    org.grails:grails-web-url-mappings 4.0.1
     org.grails:scaffolding-core 2.1.0
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.0
@@ -13363,27 +13363,27 @@ runtimeElements - Dependency management for the runtimeElements configuration
     org.slf4j:slf4j-simple 1.7.28
     org.spockframework:spock-core 1.2-groovy-2.5
     org.spockframework:spock-spring 1.2-groovy-2.5
-    org.springframework:spring-aop 5.1.8.RELEASE
-    org.springframework:spring-aspects 5.1.8.RELEASE
-    org.springframework:spring-beans 5.1.8.RELEASE
-    org.springframework:spring-context 5.1.8.RELEASE
+    org.springframework:spring-aop 5.1.10.RELEASE
+    org.springframework:spring-aspects 5.1.10.RELEASE
+    org.springframework:spring-beans 5.1.10.RELEASE
+    org.springframework:spring-context 5.1.10.RELEASE
     org.springframework:spring-context-indexer 5.1.10.RELEASE
-    org.springframework:spring-context-support 5.1.8.RELEASE
-    org.springframework:spring-core 5.1.8.RELEASE
-    org.springframework:spring-expression 5.1.8.RELEASE
-    org.springframework:spring-instrument 5.1.8.RELEASE
+    org.springframework:spring-context-support 5.1.10.RELEASE
+    org.springframework:spring-core 5.1.10.RELEASE
+    org.springframework:spring-expression 5.1.10.RELEASE
+    org.springframework:spring-instrument 5.1.10.RELEASE
     org.springframework:spring-jcl 5.1.10.RELEASE
-    org.springframework:spring-jdbc 5.1.8.RELEASE
-    org.springframework:spring-jms 5.1.8.RELEASE
-    org.springframework:spring-messaging 5.1.8.RELEASE
-    org.springframework:spring-orm 5.1.8.RELEASE
-    org.springframework:spring-oxm 5.1.8.RELEASE
-    org.springframework:spring-test 5.1.8.RELEASE
-    org.springframework:spring-tx 5.1.8.RELEASE
-    org.springframework:spring-web 5.1.8.RELEASE
+    org.springframework:spring-jdbc 5.1.10.RELEASE
+    org.springframework:spring-jms 5.1.10.RELEASE
+    org.springframework:spring-messaging 5.1.10.RELEASE
+    org.springframework:spring-orm 5.1.10.RELEASE
+    org.springframework:spring-oxm 5.1.10.RELEASE
+    org.springframework:spring-test 5.1.10.RELEASE
+    org.springframework:spring-tx 5.1.10.RELEASE
+    org.springframework:spring-web 5.1.10.RELEASE
     org.springframework:spring-webflux 5.1.10.RELEASE
-    org.springframework:spring-webmvc 5.1.8.RELEASE
-    org.springframework:spring-websocket 5.1.8.RELEASE
+    org.springframework:spring-webmvc 5.1.10.RELEASE
+    org.springframework:spring-websocket 5.1.10.RELEASE
     org.springframework.amqp:spring-amqp 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit-junit 2.1.11.RELEASE
@@ -13730,12 +13730,12 @@ testCompile - Dependency management for the testCompile configuration
     io.micronaut:micronaut-runtime 1.1.4
     io.micronaut:micronaut-runtime-groovy 1.1.4
     io.micronaut:micronaut-spring 1.1.4
-    io.micronaut.spring:micronaut-spring-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-boot 1.0.1
-    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-context 1.0.1
-    io.micronaut.spring:micronaut-spring-web 1.0.1
-    io.micronaut.spring:micronaut-spring-web-annotation 1.0.1
+    io.micronaut.spring:micronaut-spring-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-boot 1.0.2
+    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-context 1.0.2
+    io.micronaut.spring:micronaut-spring-web 1.0.2
+    io.micronaut.spring:micronaut-spring-web-annotation 1.0.2
     io.netty:netty-all 4.1.39.Final
     io.netty:netty-buffer 4.1.39.Final
     io.netty:netty-codec 4.1.39.Final
@@ -14120,11 +14120,11 @@ testCompile - Dependency management for the testCompile configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.0
-    org.grails:grails-codecs 4.0.0
-    org.grails:grails-console 4.0.0
-    org.grails:grails-core 4.0.0
-    org.grails:grails-databinding 4.0.0
+    org.grails:grails-bootstrap 4.0.1
+    org.grails:grails-codecs 4.0.1
+    org.grails:grails-console 4.0.1
+    org.grails:grails-core 4.0.1
+    org.grails:grails-databinding 4.0.1
     org.grails:grails-datastore-async 7.0.2.RELEASE
     org.grails:grails-datastore-core 7.0.2.RELEASE
     org.grails:grails-datastore-gorm 7.0.2.RELEASE
@@ -14134,44 +14134,44 @@ testCompile - Dependency management for the testCompile configuration
     org.grails:grails-datastore-gorm-test 7.0.2.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.2.RELEASE
     org.grails:grails-datastore-web 7.0.2.RELEASE
-    org.grails:grails-dependencies 4.0.0
-    org.grails:grails-docs 4.0.0
-    org.grails:grails-encoder 4.0.0
+    org.grails:grails-dependencies 4.0.1
+    org.grails:grails-docs 4.0.1
+    org.grails:grails-encoder 4.0.1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.0.0
-    org.grails:grails-gradle-model 4.0.0
-    org.grails:grails-gradle-plugin 4.0.0
-    org.grails:grails-logging 4.0.0
-    org.grails:grails-plugin-codecs 4.0.0
-    org.grails:grails-plugin-controllers 4.0.0
-    org.grails:grails-plugin-databinding 4.0.0
-    org.grails:grails-plugin-datasource 4.0.0
-    org.grails:grails-plugin-domain-class 4.0.0
-    org.grails:grails-plugin-i18n 4.0.0
-    org.grails:grails-plugin-interceptors 4.0.0
-    org.grails:grails-plugin-mimetypes 4.0.0
-    org.grails:grails-plugin-rest 4.0.0
-    org.grails:grails-plugin-services 4.0.0
-    org.grails:grails-plugin-url-mappings 4.0.0
-    org.grails:grails-plugin-validation 4.0.0
-    org.grails:grails-shell 4.0.0
-    org.grails:grails-spring 4.0.0
-    org.grails:grails-test 4.0.0
-    org.grails:grails-test-suite-base 4.0.0
-    org.grails:grails-test-suite-persistence 4.0.0
-    org.grails:grails-test-suite-uber 4.0.0
-    org.grails:grails-test-suite-web 4.0.0
+    org.grails:grails-gradle-model 4.0.1
+    org.grails:grails-gradle-plugin 4.0.1
+    org.grails:grails-logging 4.0.1
+    org.grails:grails-plugin-codecs 4.0.1
+    org.grails:grails-plugin-controllers 4.0.1
+    org.grails:grails-plugin-databinding 4.0.1
+    org.grails:grails-plugin-datasource 4.0.1
+    org.grails:grails-plugin-domain-class 4.0.1
+    org.grails:grails-plugin-i18n 4.0.1
+    org.grails:grails-plugin-interceptors 4.0.1
+    org.grails:grails-plugin-mimetypes 4.0.1
+    org.grails:grails-plugin-rest 4.0.1
+    org.grails:grails-plugin-services 4.0.1
+    org.grails:grails-plugin-url-mappings 4.0.1
+    org.grails:grails-plugin-validation 4.0.1
+    org.grails:grails-shell 4.0.1
+    org.grails:grails-spring 4.0.1
+    org.grails:grails-test 4.0.1
+    org.grails:grails-test-suite-base 4.0.1
+    org.grails:grails-test-suite-persistence 4.0.1
+    org.grails:grails-test-suite-uber 4.0.1
+    org.grails:grails-test-suite-web 4.0.1
     org.grails:grails-testing-support 2.0.0
-    org.grails:grails-web 4.0.0
-    org.grails:grails-web-boot 4.0.0
-    org.grails:grails-web-common 4.0.0
-    org.grails:grails-web-databinding 4.0.0
-    org.grails:grails-web-fileupload 4.0.0
-    org.grails:grails-web-mvc 4.0.0
+    org.grails:grails-web 4.0.1
+    org.grails:grails-web-boot 4.0.1
+    org.grails:grails-web-common 4.0.1
+    org.grails:grails-web-databinding 4.0.1
+    org.grails:grails-web-fileupload 4.0.1
+    org.grails:grails-web-mvc 4.0.1
     org.grails:grails-web-testing-support 2.0.0
-    org.grails:grails-web-url-mappings 4.0.0
+    org.grails:grails-web-url-mappings 4.0.1
     org.grails:scaffolding-core 2.1.0
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.0
@@ -14335,27 +14335,27 @@ testCompile - Dependency management for the testCompile configuration
     org.slf4j:slf4j-simple 1.7.28
     org.spockframework:spock-core 1.2-groovy-2.5
     org.spockframework:spock-spring 1.2-groovy-2.5
-    org.springframework:spring-aop 5.1.8.RELEASE
-    org.springframework:spring-aspects 5.1.8.RELEASE
-    org.springframework:spring-beans 5.1.8.RELEASE
-    org.springframework:spring-context 5.1.8.RELEASE
+    org.springframework:spring-aop 5.1.10.RELEASE
+    org.springframework:spring-aspects 5.1.10.RELEASE
+    org.springframework:spring-beans 5.1.10.RELEASE
+    org.springframework:spring-context 5.1.10.RELEASE
     org.springframework:spring-context-indexer 5.1.10.RELEASE
-    org.springframework:spring-context-support 5.1.8.RELEASE
-    org.springframework:spring-core 5.1.8.RELEASE
-    org.springframework:spring-expression 5.1.8.RELEASE
-    org.springframework:spring-instrument 5.1.8.RELEASE
+    org.springframework:spring-context-support 5.1.10.RELEASE
+    org.springframework:spring-core 5.1.10.RELEASE
+    org.springframework:spring-expression 5.1.10.RELEASE
+    org.springframework:spring-instrument 5.1.10.RELEASE
     org.springframework:spring-jcl 5.1.10.RELEASE
-    org.springframework:spring-jdbc 5.1.8.RELEASE
-    org.springframework:spring-jms 5.1.8.RELEASE
-    org.springframework:spring-messaging 5.1.8.RELEASE
-    org.springframework:spring-orm 5.1.8.RELEASE
-    org.springframework:spring-oxm 5.1.8.RELEASE
-    org.springframework:spring-test 5.1.8.RELEASE
-    org.springframework:spring-tx 5.1.8.RELEASE
-    org.springframework:spring-web 5.1.8.RELEASE
+    org.springframework:spring-jdbc 5.1.10.RELEASE
+    org.springframework:spring-jms 5.1.10.RELEASE
+    org.springframework:spring-messaging 5.1.10.RELEASE
+    org.springframework:spring-orm 5.1.10.RELEASE
+    org.springframework:spring-oxm 5.1.10.RELEASE
+    org.springframework:spring-test 5.1.10.RELEASE
+    org.springframework:spring-tx 5.1.10.RELEASE
+    org.springframework:spring-web 5.1.10.RELEASE
     org.springframework:spring-webflux 5.1.10.RELEASE
-    org.springframework:spring-webmvc 5.1.8.RELEASE
-    org.springframework:spring-websocket 5.1.8.RELEASE
+    org.springframework:spring-webmvc 5.1.10.RELEASE
+    org.springframework:spring-websocket 5.1.10.RELEASE
     org.springframework.amqp:spring-amqp 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit-junit 2.1.11.RELEASE
@@ -14696,12 +14696,12 @@ testCompileClasspath - Dependency management for the testCompileClasspath config
     io.micronaut:micronaut-runtime 1.1.4
     io.micronaut:micronaut-runtime-groovy 1.1.4
     io.micronaut:micronaut-spring 1.1.4
-    io.micronaut.spring:micronaut-spring-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-boot 1.0.1
-    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-context 1.0.1
-    io.micronaut.spring:micronaut-spring-web 1.0.1
-    io.micronaut.spring:micronaut-spring-web-annotation 1.0.1
+    io.micronaut.spring:micronaut-spring-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-boot 1.0.2
+    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-context 1.0.2
+    io.micronaut.spring:micronaut-spring-web 1.0.2
+    io.micronaut.spring:micronaut-spring-web-annotation 1.0.2
     io.netty:netty-all 4.1.39.Final
     io.netty:netty-buffer 4.1.39.Final
     io.netty:netty-codec 4.1.39.Final
@@ -15086,11 +15086,11 @@ testCompileClasspath - Dependency management for the testCompileClasspath config
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.0
-    org.grails:grails-codecs 4.0.0
-    org.grails:grails-console 4.0.0
-    org.grails:grails-core 4.0.0
-    org.grails:grails-databinding 4.0.0
+    org.grails:grails-bootstrap 4.0.1
+    org.grails:grails-codecs 4.0.1
+    org.grails:grails-console 4.0.1
+    org.grails:grails-core 4.0.1
+    org.grails:grails-databinding 4.0.1
     org.grails:grails-datastore-async 7.0.2.RELEASE
     org.grails:grails-datastore-core 7.0.2.RELEASE
     org.grails:grails-datastore-gorm 7.0.2.RELEASE
@@ -15100,44 +15100,44 @@ testCompileClasspath - Dependency management for the testCompileClasspath config
     org.grails:grails-datastore-gorm-test 7.0.2.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.2.RELEASE
     org.grails:grails-datastore-web 7.0.2.RELEASE
-    org.grails:grails-dependencies 4.0.0
-    org.grails:grails-docs 4.0.0
-    org.grails:grails-encoder 4.0.0
+    org.grails:grails-dependencies 4.0.1
+    org.grails:grails-docs 4.0.1
+    org.grails:grails-encoder 4.0.1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.0.0
-    org.grails:grails-gradle-model 4.0.0
-    org.grails:grails-gradle-plugin 4.0.0
-    org.grails:grails-logging 4.0.0
-    org.grails:grails-plugin-codecs 4.0.0
-    org.grails:grails-plugin-controllers 4.0.0
-    org.grails:grails-plugin-databinding 4.0.0
-    org.grails:grails-plugin-datasource 4.0.0
-    org.grails:grails-plugin-domain-class 4.0.0
-    org.grails:grails-plugin-i18n 4.0.0
-    org.grails:grails-plugin-interceptors 4.0.0
-    org.grails:grails-plugin-mimetypes 4.0.0
-    org.grails:grails-plugin-rest 4.0.0
-    org.grails:grails-plugin-services 4.0.0
-    org.grails:grails-plugin-url-mappings 4.0.0
-    org.grails:grails-plugin-validation 4.0.0
-    org.grails:grails-shell 4.0.0
-    org.grails:grails-spring 4.0.0
-    org.grails:grails-test 4.0.0
-    org.grails:grails-test-suite-base 4.0.0
-    org.grails:grails-test-suite-persistence 4.0.0
-    org.grails:grails-test-suite-uber 4.0.0
-    org.grails:grails-test-suite-web 4.0.0
+    org.grails:grails-gradle-model 4.0.1
+    org.grails:grails-gradle-plugin 4.0.1
+    org.grails:grails-logging 4.0.1
+    org.grails:grails-plugin-codecs 4.0.1
+    org.grails:grails-plugin-controllers 4.0.1
+    org.grails:grails-plugin-databinding 4.0.1
+    org.grails:grails-plugin-datasource 4.0.1
+    org.grails:grails-plugin-domain-class 4.0.1
+    org.grails:grails-plugin-i18n 4.0.1
+    org.grails:grails-plugin-interceptors 4.0.1
+    org.grails:grails-plugin-mimetypes 4.0.1
+    org.grails:grails-plugin-rest 4.0.1
+    org.grails:grails-plugin-services 4.0.1
+    org.grails:grails-plugin-url-mappings 4.0.1
+    org.grails:grails-plugin-validation 4.0.1
+    org.grails:grails-shell 4.0.1
+    org.grails:grails-spring 4.0.1
+    org.grails:grails-test 4.0.1
+    org.grails:grails-test-suite-base 4.0.1
+    org.grails:grails-test-suite-persistence 4.0.1
+    org.grails:grails-test-suite-uber 4.0.1
+    org.grails:grails-test-suite-web 4.0.1
     org.grails:grails-testing-support 2.0.0
-    org.grails:grails-web 4.0.0
-    org.grails:grails-web-boot 4.0.0
-    org.grails:grails-web-common 4.0.0
-    org.grails:grails-web-databinding 4.0.0
-    org.grails:grails-web-fileupload 4.0.0
-    org.grails:grails-web-mvc 4.0.0
+    org.grails:grails-web 4.0.1
+    org.grails:grails-web-boot 4.0.1
+    org.grails:grails-web-common 4.0.1
+    org.grails:grails-web-databinding 4.0.1
+    org.grails:grails-web-fileupload 4.0.1
+    org.grails:grails-web-mvc 4.0.1
     org.grails:grails-web-testing-support 2.0.0
-    org.grails:grails-web-url-mappings 4.0.0
+    org.grails:grails-web-url-mappings 4.0.1
     org.grails:scaffolding-core 2.1.0
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.0
@@ -15301,27 +15301,27 @@ testCompileClasspath - Dependency management for the testCompileClasspath config
     org.slf4j:slf4j-simple 1.7.28
     org.spockframework:spock-core 1.2-groovy-2.5
     org.spockframework:spock-spring 1.2-groovy-2.5
-    org.springframework:spring-aop 5.1.8.RELEASE
-    org.springframework:spring-aspects 5.1.8.RELEASE
-    org.springframework:spring-beans 5.1.8.RELEASE
-    org.springframework:spring-context 5.1.8.RELEASE
+    org.springframework:spring-aop 5.1.10.RELEASE
+    org.springframework:spring-aspects 5.1.10.RELEASE
+    org.springframework:spring-beans 5.1.10.RELEASE
+    org.springframework:spring-context 5.1.10.RELEASE
     org.springframework:spring-context-indexer 5.1.10.RELEASE
-    org.springframework:spring-context-support 5.1.8.RELEASE
-    org.springframework:spring-core 5.1.8.RELEASE
-    org.springframework:spring-expression 5.1.8.RELEASE
-    org.springframework:spring-instrument 5.1.8.RELEASE
+    org.springframework:spring-context-support 5.1.10.RELEASE
+    org.springframework:spring-core 5.1.10.RELEASE
+    org.springframework:spring-expression 5.1.10.RELEASE
+    org.springframework:spring-instrument 5.1.10.RELEASE
     org.springframework:spring-jcl 5.1.10.RELEASE
-    org.springframework:spring-jdbc 5.1.8.RELEASE
-    org.springframework:spring-jms 5.1.8.RELEASE
-    org.springframework:spring-messaging 5.1.8.RELEASE
-    org.springframework:spring-orm 5.1.8.RELEASE
-    org.springframework:spring-oxm 5.1.8.RELEASE
-    org.springframework:spring-test 5.1.8.RELEASE
-    org.springframework:spring-tx 5.1.8.RELEASE
-    org.springframework:spring-web 5.1.8.RELEASE
+    org.springframework:spring-jdbc 5.1.10.RELEASE
+    org.springframework:spring-jms 5.1.10.RELEASE
+    org.springframework:spring-messaging 5.1.10.RELEASE
+    org.springframework:spring-orm 5.1.10.RELEASE
+    org.springframework:spring-oxm 5.1.10.RELEASE
+    org.springframework:spring-test 5.1.10.RELEASE
+    org.springframework:spring-tx 5.1.10.RELEASE
+    org.springframework:spring-web 5.1.10.RELEASE
     org.springframework:spring-webflux 5.1.10.RELEASE
-    org.springframework:spring-webmvc 5.1.8.RELEASE
-    org.springframework:spring-websocket 5.1.8.RELEASE
+    org.springframework:spring-webmvc 5.1.10.RELEASE
+    org.springframework:spring-websocket 5.1.10.RELEASE
     org.springframework.amqp:spring-amqp 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit-junit 2.1.11.RELEASE
@@ -15665,12 +15665,12 @@ testImplementation - Dependency management for the testImplementation configurat
     io.micronaut:micronaut-runtime 1.1.4
     io.micronaut:micronaut-runtime-groovy 1.1.4
     io.micronaut:micronaut-spring 1.1.4
-    io.micronaut.spring:micronaut-spring-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-boot 1.0.1
-    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-context 1.0.1
-    io.micronaut.spring:micronaut-spring-web 1.0.1
-    io.micronaut.spring:micronaut-spring-web-annotation 1.0.1
+    io.micronaut.spring:micronaut-spring-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-boot 1.0.2
+    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-context 1.0.2
+    io.micronaut.spring:micronaut-spring-web 1.0.2
+    io.micronaut.spring:micronaut-spring-web-annotation 1.0.2
     io.netty:netty-all 4.1.39.Final
     io.netty:netty-buffer 4.1.39.Final
     io.netty:netty-codec 4.1.39.Final
@@ -16055,11 +16055,11 @@ testImplementation - Dependency management for the testImplementation configurat
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.0
-    org.grails:grails-codecs 4.0.0
-    org.grails:grails-console 4.0.0
-    org.grails:grails-core 4.0.0
-    org.grails:grails-databinding 4.0.0
+    org.grails:grails-bootstrap 4.0.1
+    org.grails:grails-codecs 4.0.1
+    org.grails:grails-console 4.0.1
+    org.grails:grails-core 4.0.1
+    org.grails:grails-databinding 4.0.1
     org.grails:grails-datastore-async 7.0.2.RELEASE
     org.grails:grails-datastore-core 7.0.2.RELEASE
     org.grails:grails-datastore-gorm 7.0.2.RELEASE
@@ -16069,44 +16069,44 @@ testImplementation - Dependency management for the testImplementation configurat
     org.grails:grails-datastore-gorm-test 7.0.2.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.2.RELEASE
     org.grails:grails-datastore-web 7.0.2.RELEASE
-    org.grails:grails-dependencies 4.0.0
-    org.grails:grails-docs 4.0.0
-    org.grails:grails-encoder 4.0.0
+    org.grails:grails-dependencies 4.0.1
+    org.grails:grails-docs 4.0.1
+    org.grails:grails-encoder 4.0.1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.0.0
-    org.grails:grails-gradle-model 4.0.0
-    org.grails:grails-gradle-plugin 4.0.0
-    org.grails:grails-logging 4.0.0
-    org.grails:grails-plugin-codecs 4.0.0
-    org.grails:grails-plugin-controllers 4.0.0
-    org.grails:grails-plugin-databinding 4.0.0
-    org.grails:grails-plugin-datasource 4.0.0
-    org.grails:grails-plugin-domain-class 4.0.0
-    org.grails:grails-plugin-i18n 4.0.0
-    org.grails:grails-plugin-interceptors 4.0.0
-    org.grails:grails-plugin-mimetypes 4.0.0
-    org.grails:grails-plugin-rest 4.0.0
-    org.grails:grails-plugin-services 4.0.0
-    org.grails:grails-plugin-url-mappings 4.0.0
-    org.grails:grails-plugin-validation 4.0.0
-    org.grails:grails-shell 4.0.0
-    org.grails:grails-spring 4.0.0
-    org.grails:grails-test 4.0.0
-    org.grails:grails-test-suite-base 4.0.0
-    org.grails:grails-test-suite-persistence 4.0.0
-    org.grails:grails-test-suite-uber 4.0.0
-    org.grails:grails-test-suite-web 4.0.0
+    org.grails:grails-gradle-model 4.0.1
+    org.grails:grails-gradle-plugin 4.0.1
+    org.grails:grails-logging 4.0.1
+    org.grails:grails-plugin-codecs 4.0.1
+    org.grails:grails-plugin-controllers 4.0.1
+    org.grails:grails-plugin-databinding 4.0.1
+    org.grails:grails-plugin-datasource 4.0.1
+    org.grails:grails-plugin-domain-class 4.0.1
+    org.grails:grails-plugin-i18n 4.0.1
+    org.grails:grails-plugin-interceptors 4.0.1
+    org.grails:grails-plugin-mimetypes 4.0.1
+    org.grails:grails-plugin-rest 4.0.1
+    org.grails:grails-plugin-services 4.0.1
+    org.grails:grails-plugin-url-mappings 4.0.1
+    org.grails:grails-plugin-validation 4.0.1
+    org.grails:grails-shell 4.0.1
+    org.grails:grails-spring 4.0.1
+    org.grails:grails-test 4.0.1
+    org.grails:grails-test-suite-base 4.0.1
+    org.grails:grails-test-suite-persistence 4.0.1
+    org.grails:grails-test-suite-uber 4.0.1
+    org.grails:grails-test-suite-web 4.0.1
     org.grails:grails-testing-support 2.0.0
-    org.grails:grails-web 4.0.0
-    org.grails:grails-web-boot 4.0.0
-    org.grails:grails-web-common 4.0.0
-    org.grails:grails-web-databinding 4.0.0
-    org.grails:grails-web-fileupload 4.0.0
-    org.grails:grails-web-mvc 4.0.0
+    org.grails:grails-web 4.0.1
+    org.grails:grails-web-boot 4.0.1
+    org.grails:grails-web-common 4.0.1
+    org.grails:grails-web-databinding 4.0.1
+    org.grails:grails-web-fileupload 4.0.1
+    org.grails:grails-web-mvc 4.0.1
     org.grails:grails-web-testing-support 2.0.0
-    org.grails:grails-web-url-mappings 4.0.0
+    org.grails:grails-web-url-mappings 4.0.1
     org.grails:scaffolding-core 2.1.0
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.0
@@ -16270,27 +16270,27 @@ testImplementation - Dependency management for the testImplementation configurat
     org.slf4j:slf4j-simple 1.7.28
     org.spockframework:spock-core 1.2-groovy-2.5
     org.spockframework:spock-spring 1.2-groovy-2.5
-    org.springframework:spring-aop 5.1.8.RELEASE
-    org.springframework:spring-aspects 5.1.8.RELEASE
-    org.springframework:spring-beans 5.1.8.RELEASE
-    org.springframework:spring-context 5.1.8.RELEASE
+    org.springframework:spring-aop 5.1.10.RELEASE
+    org.springframework:spring-aspects 5.1.10.RELEASE
+    org.springframework:spring-beans 5.1.10.RELEASE
+    org.springframework:spring-context 5.1.10.RELEASE
     org.springframework:spring-context-indexer 5.1.10.RELEASE
-    org.springframework:spring-context-support 5.1.8.RELEASE
-    org.springframework:spring-core 5.1.8.RELEASE
-    org.springframework:spring-expression 5.1.8.RELEASE
-    org.springframework:spring-instrument 5.1.8.RELEASE
+    org.springframework:spring-context-support 5.1.10.RELEASE
+    org.springframework:spring-core 5.1.10.RELEASE
+    org.springframework:spring-expression 5.1.10.RELEASE
+    org.springframework:spring-instrument 5.1.10.RELEASE
     org.springframework:spring-jcl 5.1.10.RELEASE
-    org.springframework:spring-jdbc 5.1.8.RELEASE
-    org.springframework:spring-jms 5.1.8.RELEASE
-    org.springframework:spring-messaging 5.1.8.RELEASE
-    org.springframework:spring-orm 5.1.8.RELEASE
-    org.springframework:spring-oxm 5.1.8.RELEASE
-    org.springframework:spring-test 5.1.8.RELEASE
-    org.springframework:spring-tx 5.1.8.RELEASE
-    org.springframework:spring-web 5.1.8.RELEASE
+    org.springframework:spring-jdbc 5.1.10.RELEASE
+    org.springframework:spring-jms 5.1.10.RELEASE
+    org.springframework:spring-messaging 5.1.10.RELEASE
+    org.springframework:spring-orm 5.1.10.RELEASE
+    org.springframework:spring-oxm 5.1.10.RELEASE
+    org.springframework:spring-test 5.1.10.RELEASE
+    org.springframework:spring-tx 5.1.10.RELEASE
+    org.springframework:spring-web 5.1.10.RELEASE
     org.springframework:spring-webflux 5.1.10.RELEASE
-    org.springframework:spring-webmvc 5.1.8.RELEASE
-    org.springframework:spring-websocket 5.1.8.RELEASE
+    org.springframework:spring-webmvc 5.1.10.RELEASE
+    org.springframework:spring-websocket 5.1.10.RELEASE
     org.springframework.amqp:spring-amqp 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit-junit 2.1.11.RELEASE
@@ -16631,12 +16631,12 @@ testRuntime - Dependency management for the testRuntime configuration
     io.micronaut:micronaut-runtime 1.1.4
     io.micronaut:micronaut-runtime-groovy 1.1.4
     io.micronaut:micronaut-spring 1.1.4
-    io.micronaut.spring:micronaut-spring-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-boot 1.0.1
-    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-context 1.0.1
-    io.micronaut.spring:micronaut-spring-web 1.0.1
-    io.micronaut.spring:micronaut-spring-web-annotation 1.0.1
+    io.micronaut.spring:micronaut-spring-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-boot 1.0.2
+    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-context 1.0.2
+    io.micronaut.spring:micronaut-spring-web 1.0.2
+    io.micronaut.spring:micronaut-spring-web-annotation 1.0.2
     io.netty:netty-all 4.1.39.Final
     io.netty:netty-buffer 4.1.39.Final
     io.netty:netty-codec 4.1.39.Final
@@ -17022,11 +17022,11 @@ testRuntime - Dependency management for the testRuntime configuration
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.0
-    org.grails:grails-codecs 4.0.0
-    org.grails:grails-console 4.0.0
-    org.grails:grails-core 4.0.0
-    org.grails:grails-databinding 4.0.0
+    org.grails:grails-bootstrap 4.0.1
+    org.grails:grails-codecs 4.0.1
+    org.grails:grails-console 4.0.1
+    org.grails:grails-core 4.0.1
+    org.grails:grails-databinding 4.0.1
     org.grails:grails-datastore-async 7.0.2.RELEASE
     org.grails:grails-datastore-core 7.0.2.RELEASE
     org.grails:grails-datastore-gorm 7.0.2.RELEASE
@@ -17036,44 +17036,44 @@ testRuntime - Dependency management for the testRuntime configuration
     org.grails:grails-datastore-gorm-test 7.0.2.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.2.RELEASE
     org.grails:grails-datastore-web 7.0.2.RELEASE
-    org.grails:grails-dependencies 4.0.0
-    org.grails:grails-docs 4.0.0
-    org.grails:grails-encoder 4.0.0
+    org.grails:grails-dependencies 4.0.1
+    org.grails:grails-docs 4.0.1
+    org.grails:grails-encoder 4.0.1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.0.0
-    org.grails:grails-gradle-model 4.0.0
-    org.grails:grails-gradle-plugin 4.0.0
-    org.grails:grails-logging 4.0.0
-    org.grails:grails-plugin-codecs 4.0.0
-    org.grails:grails-plugin-controllers 4.0.0
-    org.grails:grails-plugin-databinding 4.0.0
-    org.grails:grails-plugin-datasource 4.0.0
-    org.grails:grails-plugin-domain-class 4.0.0
-    org.grails:grails-plugin-i18n 4.0.0
-    org.grails:grails-plugin-interceptors 4.0.0
-    org.grails:grails-plugin-mimetypes 4.0.0
-    org.grails:grails-plugin-rest 4.0.0
-    org.grails:grails-plugin-services 4.0.0
-    org.grails:grails-plugin-url-mappings 4.0.0
-    org.grails:grails-plugin-validation 4.0.0
-    org.grails:grails-shell 4.0.0
-    org.grails:grails-spring 4.0.0
-    org.grails:grails-test 4.0.0
-    org.grails:grails-test-suite-base 4.0.0
-    org.grails:grails-test-suite-persistence 4.0.0
-    org.grails:grails-test-suite-uber 4.0.0
-    org.grails:grails-test-suite-web 4.0.0
+    org.grails:grails-gradle-model 4.0.1
+    org.grails:grails-gradle-plugin 4.0.1
+    org.grails:grails-logging 4.0.1
+    org.grails:grails-plugin-codecs 4.0.1
+    org.grails:grails-plugin-controllers 4.0.1
+    org.grails:grails-plugin-databinding 4.0.1
+    org.grails:grails-plugin-datasource 4.0.1
+    org.grails:grails-plugin-domain-class 4.0.1
+    org.grails:grails-plugin-i18n 4.0.1
+    org.grails:grails-plugin-interceptors 4.0.1
+    org.grails:grails-plugin-mimetypes 4.0.1
+    org.grails:grails-plugin-rest 4.0.1
+    org.grails:grails-plugin-services 4.0.1
+    org.grails:grails-plugin-url-mappings 4.0.1
+    org.grails:grails-plugin-validation 4.0.1
+    org.grails:grails-shell 4.0.1
+    org.grails:grails-spring 4.0.1
+    org.grails:grails-test 4.0.1
+    org.grails:grails-test-suite-base 4.0.1
+    org.grails:grails-test-suite-persistence 4.0.1
+    org.grails:grails-test-suite-uber 4.0.1
+    org.grails:grails-test-suite-web 4.0.1
     org.grails:grails-testing-support 2.0.0
-    org.grails:grails-web 4.0.0
-    org.grails:grails-web-boot 4.0.0
-    org.grails:grails-web-common 4.0.0
-    org.grails:grails-web-databinding 4.0.0
-    org.grails:grails-web-fileupload 4.0.0
-    org.grails:grails-web-mvc 4.0.0
+    org.grails:grails-web 4.0.1
+    org.grails:grails-web-boot 4.0.1
+    org.grails:grails-web-common 4.0.1
+    org.grails:grails-web-databinding 4.0.1
+    org.grails:grails-web-fileupload 4.0.1
+    org.grails:grails-web-mvc 4.0.1
     org.grails:grails-web-testing-support 2.0.0
-    org.grails:grails-web-url-mappings 4.0.0
+    org.grails:grails-web-url-mappings 4.0.1
     org.grails:scaffolding-core 2.1.0
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.0
@@ -17237,27 +17237,27 @@ testRuntime - Dependency management for the testRuntime configuration
     org.slf4j:slf4j-simple 1.7.28
     org.spockframework:spock-core 1.2-groovy-2.5
     org.spockframework:spock-spring 1.2-groovy-2.5
-    org.springframework:spring-aop 5.1.8.RELEASE
-    org.springframework:spring-aspects 5.1.8.RELEASE
-    org.springframework:spring-beans 5.1.8.RELEASE
-    org.springframework:spring-context 5.1.8.RELEASE
+    org.springframework:spring-aop 5.1.10.RELEASE
+    org.springframework:spring-aspects 5.1.10.RELEASE
+    org.springframework:spring-beans 5.1.10.RELEASE
+    org.springframework:spring-context 5.1.10.RELEASE
     org.springframework:spring-context-indexer 5.1.10.RELEASE
-    org.springframework:spring-context-support 5.1.8.RELEASE
-    org.springframework:spring-core 5.1.8.RELEASE
-    org.springframework:spring-expression 5.1.8.RELEASE
-    org.springframework:spring-instrument 5.1.8.RELEASE
+    org.springframework:spring-context-support 5.1.10.RELEASE
+    org.springframework:spring-core 5.1.10.RELEASE
+    org.springframework:spring-expression 5.1.10.RELEASE
+    org.springframework:spring-instrument 5.1.10.RELEASE
     org.springframework:spring-jcl 5.1.10.RELEASE
-    org.springframework:spring-jdbc 5.1.8.RELEASE
-    org.springframework:spring-jms 5.1.8.RELEASE
-    org.springframework:spring-messaging 5.1.8.RELEASE
-    org.springframework:spring-orm 5.1.8.RELEASE
-    org.springframework:spring-oxm 5.1.8.RELEASE
-    org.springframework:spring-test 5.1.8.RELEASE
-    org.springframework:spring-tx 5.1.8.RELEASE
-    org.springframework:spring-web 5.1.8.RELEASE
+    org.springframework:spring-jdbc 5.1.10.RELEASE
+    org.springframework:spring-jms 5.1.10.RELEASE
+    org.springframework:spring-messaging 5.1.10.RELEASE
+    org.springframework:spring-orm 5.1.10.RELEASE
+    org.springframework:spring-oxm 5.1.10.RELEASE
+    org.springframework:spring-test 5.1.10.RELEASE
+    org.springframework:spring-tx 5.1.10.RELEASE
+    org.springframework:spring-web 5.1.10.RELEASE
     org.springframework:spring-webflux 5.1.10.RELEASE
-    org.springframework:spring-webmvc 5.1.8.RELEASE
-    org.springframework:spring-websocket 5.1.8.RELEASE
+    org.springframework:spring-webmvc 5.1.10.RELEASE
+    org.springframework:spring-websocket 5.1.10.RELEASE
     org.springframework.amqp:spring-amqp 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit-junit 2.1.11.RELEASE
@@ -17598,12 +17598,12 @@ testRuntimeClasspath - Dependency management for the testRuntimeClasspath config
     io.micronaut:micronaut-runtime 1.1.4
     io.micronaut:micronaut-runtime-groovy 1.1.4
     io.micronaut:micronaut-spring 1.1.4
-    io.micronaut.spring:micronaut-spring-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-boot 1.0.1
-    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.1
-    io.micronaut.spring:micronaut-spring-context 1.0.1
-    io.micronaut.spring:micronaut-spring-web 1.0.1
-    io.micronaut.spring:micronaut-spring-web-annotation 1.0.1
+    io.micronaut.spring:micronaut-spring-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-boot 1.0.2
+    io.micronaut.spring:micronaut-spring-boot-annotation 1.0.2
+    io.micronaut.spring:micronaut-spring-context 1.0.2
+    io.micronaut.spring:micronaut-spring-web 1.0.2
+    io.micronaut.spring:micronaut-spring-web-annotation 1.0.2
     io.netty:netty-all 4.1.39.Final
     io.netty:netty-buffer 4.1.39.Final
     io.netty:netty-codec 4.1.39.Final
@@ -17989,11 +17989,11 @@ testRuntimeClasspath - Dependency management for the testRuntimeClasspath config
     org.grails:grails-async-gpars 4.0.0
     org.grails:grails-async-rxjava 4.0.0
     org.grails:grails-async-rxjava2 4.0.0
-    org.grails:grails-bootstrap 4.0.0
-    org.grails:grails-codecs 4.0.0
-    org.grails:grails-console 4.0.0
-    org.grails:grails-core 4.0.0
-    org.grails:grails-databinding 4.0.0
+    org.grails:grails-bootstrap 4.0.1
+    org.grails:grails-codecs 4.0.1
+    org.grails:grails-console 4.0.1
+    org.grails:grails-core 4.0.1
+    org.grails:grails-databinding 4.0.1
     org.grails:grails-datastore-async 7.0.2.RELEASE
     org.grails:grails-datastore-core 7.0.2.RELEASE
     org.grails:grails-datastore-gorm 7.0.2.RELEASE
@@ -18003,44 +18003,44 @@ testRuntimeClasspath - Dependency management for the testRuntimeClasspath config
     org.grails:grails-datastore-gorm-test 7.0.2.RELEASE
     org.grails:grails-datastore-gorm-validation 7.0.2.RELEASE
     org.grails:grails-datastore-web 7.0.2.RELEASE
-    org.grails:grails-dependencies 4.0.0
-    org.grails:grails-docs 4.0.0
-    org.grails:grails-encoder 4.0.0
+    org.grails:grails-dependencies 4.0.1
+    org.grails:grails-docs 4.0.1
+    org.grails:grails-encoder 4.0.1
     org.grails:grails-events-gpars 4.0.0
     org.grails:grails-events-rxjava 4.0.0
     org.grails:grails-events-rxjava2 4.0.0
     org.grails:grails-gorm-testing-support 2.0.0
-    org.grails:grails-gradle-model 4.0.0
-    org.grails:grails-gradle-plugin 4.0.0
-    org.grails:grails-logging 4.0.0
-    org.grails:grails-plugin-codecs 4.0.0
-    org.grails:grails-plugin-controllers 4.0.0
-    org.grails:grails-plugin-databinding 4.0.0
-    org.grails:grails-plugin-datasource 4.0.0
-    org.grails:grails-plugin-domain-class 4.0.0
-    org.grails:grails-plugin-i18n 4.0.0
-    org.grails:grails-plugin-interceptors 4.0.0
-    org.grails:grails-plugin-mimetypes 4.0.0
-    org.grails:grails-plugin-rest 4.0.0
-    org.grails:grails-plugin-services 4.0.0
-    org.grails:grails-plugin-url-mappings 4.0.0
-    org.grails:grails-plugin-validation 4.0.0
-    org.grails:grails-shell 4.0.0
-    org.grails:grails-spring 4.0.0
-    org.grails:grails-test 4.0.0
-    org.grails:grails-test-suite-base 4.0.0
-    org.grails:grails-test-suite-persistence 4.0.0
-    org.grails:grails-test-suite-uber 4.0.0
-    org.grails:grails-test-suite-web 4.0.0
+    org.grails:grails-gradle-model 4.0.1
+    org.grails:grails-gradle-plugin 4.0.1
+    org.grails:grails-logging 4.0.1
+    org.grails:grails-plugin-codecs 4.0.1
+    org.grails:grails-plugin-controllers 4.0.1
+    org.grails:grails-plugin-databinding 4.0.1
+    org.grails:grails-plugin-datasource 4.0.1
+    org.grails:grails-plugin-domain-class 4.0.1
+    org.grails:grails-plugin-i18n 4.0.1
+    org.grails:grails-plugin-interceptors 4.0.1
+    org.grails:grails-plugin-mimetypes 4.0.1
+    org.grails:grails-plugin-rest 4.0.1
+    org.grails:grails-plugin-services 4.0.1
+    org.grails:grails-plugin-url-mappings 4.0.1
+    org.grails:grails-plugin-validation 4.0.1
+    org.grails:grails-shell 4.0.1
+    org.grails:grails-spring 4.0.1
+    org.grails:grails-test 4.0.1
+    org.grails:grails-test-suite-base 4.0.1
+    org.grails:grails-test-suite-persistence 4.0.1
+    org.grails:grails-test-suite-uber 4.0.1
+    org.grails:grails-test-suite-web 4.0.1
     org.grails:grails-testing-support 2.0.0
-    org.grails:grails-web 4.0.0
-    org.grails:grails-web-boot 4.0.0
-    org.grails:grails-web-common 4.0.0
-    org.grails:grails-web-databinding 4.0.0
-    org.grails:grails-web-fileupload 4.0.0
-    org.grails:grails-web-mvc 4.0.0
+    org.grails:grails-web 4.0.1
+    org.grails:grails-web-boot 4.0.1
+    org.grails:grails-web-common 4.0.1
+    org.grails:grails-web-databinding 4.0.1
+    org.grails:grails-web-fileupload 4.0.1
+    org.grails:grails-web-mvc 4.0.1
     org.grails:grails-web-testing-support 2.0.0
-    org.grails:grails-web-url-mappings 4.0.0
+    org.grails:grails-web-url-mappings 4.0.1
     org.grails:scaffolding-core 2.1.0
     org.grails.plugins:async 4.0.0
     org.grails.plugins:cache 4.0.0
@@ -18204,27 +18204,27 @@ testRuntimeClasspath - Dependency management for the testRuntimeClasspath config
     org.slf4j:slf4j-simple 1.7.28
     org.spockframework:spock-core 1.2-groovy-2.5
     org.spockframework:spock-spring 1.2-groovy-2.5
-    org.springframework:spring-aop 5.1.8.RELEASE
-    org.springframework:spring-aspects 5.1.8.RELEASE
-    org.springframework:spring-beans 5.1.8.RELEASE
-    org.springframework:spring-context 5.1.8.RELEASE
+    org.springframework:spring-aop 5.1.10.RELEASE
+    org.springframework:spring-aspects 5.1.10.RELEASE
+    org.springframework:spring-beans 5.1.10.RELEASE
+    org.springframework:spring-context 5.1.10.RELEASE
     org.springframework:spring-context-indexer 5.1.10.RELEASE
-    org.springframework:spring-context-support 5.1.8.RELEASE
-    org.springframework:spring-core 5.1.8.RELEASE
-    org.springframework:spring-expression 5.1.8.RELEASE
-    org.springframework:spring-instrument 5.1.8.RELEASE
+    org.springframework:spring-context-support 5.1.10.RELEASE
+    org.springframework:spring-core 5.1.10.RELEASE
+    org.springframework:spring-expression 5.1.10.RELEASE
+    org.springframework:spring-instrument 5.1.10.RELEASE
     org.springframework:spring-jcl 5.1.10.RELEASE
-    org.springframework:spring-jdbc 5.1.8.RELEASE
-    org.springframework:spring-jms 5.1.8.RELEASE
-    org.springframework:spring-messaging 5.1.8.RELEASE
-    org.springframework:spring-orm 5.1.8.RELEASE
-    org.springframework:spring-oxm 5.1.8.RELEASE
-    org.springframework:spring-test 5.1.8.RELEASE
-    org.springframework:spring-tx 5.1.8.RELEASE
-    org.springframework:spring-web 5.1.8.RELEASE
+    org.springframework:spring-jdbc 5.1.10.RELEASE
+    org.springframework:spring-jms 5.1.10.RELEASE
+    org.springframework:spring-messaging 5.1.10.RELEASE
+    org.springframework:spring-orm 5.1.10.RELEASE
+    org.springframework:spring-oxm 5.1.10.RELEASE
+    org.springframework:spring-test 5.1.10.RELEASE
+    org.springframework:spring-tx 5.1.10.RELEASE
+    org.springframework:spring-web 5.1.10.RELEASE
     org.springframework:spring-webflux 5.1.10.RELEASE
-    org.springframework:spring-webmvc 5.1.8.RELEASE
-    org.springframework:spring-websocket 5.1.8.RELEASE
+    org.springframework:spring-webmvc 5.1.10.RELEASE
+    org.springframework:spring-websocket 5.1.10.RELEASE
     org.springframework.amqp:spring-amqp 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit 2.1.11.RELEASE
     org.springframework.amqp:spring-rabbit-junit 2.1.11.RELEASE
@@ -18425,5 +18425,5 @@ testRuntimeOnly - Dependency management for the testRuntimeOnly configuration
 No configuration-specific dependency management
 
 
-BUILD SUCCESSFUL in 41s
+BUILD SUCCESSFUL in 10s
 1 actionable task: 1 executed
