@@ -8,13 +8,13 @@ Handy repo/script to compare fresh `create-app --profile=rest-api` versions of G
 
 Just compare across tags:
 * <https://github.com/aretche/grails-versions/compare/3.1.0...3.2.0>
-* <https://github.com/sbglasius/grails-versions/compare/4.0.0...4.0.13>
-* <https://github.com/sbglasius/grails-versions/compare/4.0.13...5.2.4>
+* <https://github.com/aretche/grails-versions/compare/4.0.0...4.0.13>
+* <https://github.com/aretche/grails-versions/compare/4.0.13...5.2.5>
 
 From the git cli:
 
 ```bash
-git diff 4.0.13..5.2.4
+git diff 4.0.13..5.2.5
 ```
 
 To add versions make pull-requests with new versions in versions.txt
