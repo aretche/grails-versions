@@ -4,8 +4,8 @@ buildscript {
     }
     dependencies {
         classpath "org.grails:grails-gradle-plugin:$grailsVersion"
-        classpath "org.grails.plugins:hibernate5:7.0.4"
-        classpath "org.grails.plugins:views-gradle:2.0.2"
+        classpath "org.grails.plugins:hibernate5:7.0.5"
+        classpath "org.grails.plugins:views-gradle:2.0.4"
     }
 }
 
